@@ -1,0 +1,36 @@
+assembly,source,specie
+genome2,LCR,Acinetobacter baumannii
+genome37,SANGUE,Burkholderia cepacia
+genome27,SANGUE,Acinetobacter pitti
+genome3,LIQUIDO PERITONEAL,Escherichia  coli
+genome20,SANGUE,Klebsiella pneumoniae
+genome38,SANGUE,Escherichia  coli
+genome42,SANGUE,Escherichia  coli
+genome44,LIQ. ASCITICO,Escherichia  coli
+genome45,SANGUE,Escherichia  coli
+genome50,SANGUE,Escherichia  coli
+genome25,SANGUE,Enterobacter asburiae
+genome49,LIQ. ASCITICO,Enterobacter cloacae
+genome48,L.C.R,Klebsiella pneumoniae
+genome1,LBA,Klebsiella pneumoniae
+genome16,SANGUE,Klebsiella pneumoniae
+genome24,SANGUE,Klebsiella pneumoniae
+genome36,SANGUE,Klebsiella pneumoniae
+genome41,LIQ. ASCITICO,Klebsiella pneumoniae
+genome43,SANGUE,Klebsiella pneumoniae
+genome40,SANGUE,Morganella morganii
+genome8,LIQUIDO PERITONEAL,Pseudomonas aeruginosa
+genome9,LBA,Pseudomonas aeruginosa
+genome47,LBA,Pseudomonas aeruginosa
+genome11,SANGUE,Ralstonia mannitolilytica
+genome12,SANGUE,Ralstonia mannitolilytica
+genome32,SANGUE DE CATETER,Staphyloccoccus  epidermidis
+genome28,SANGUE,Staphyloccoccus aureus
+genome33,SANGUE DE CATETER,Staphyloccoccus aureus
+genome29,SANGUE,Staphyloccoccus epidermidis
+genome18,SANGUE,Staphyloccoccus haemolyticus
+genome22,SANGUE,Staphyloccoccus warneri
+genome30,SANGUE,Staphyloccoccus warneri
+genome14,SANGUE,Stenotrophomonas maltophilia
+genome21,SANGUE,Stenotrophomonas maltophilia
+genome31,SANGUE,Streptococcus gallolyticos

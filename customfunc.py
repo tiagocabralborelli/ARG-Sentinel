@@ -109,49 +109,49 @@ def cataloger(path):
                     try:
                         colecdate.append(f.qualifiers["collection_date"][0])
                     except:
-                        colecdate.append("Na")
+                        colecdate.append("NaN")
                     
                     #Atribuir hospedeiro
                     try:
                         host.append(f.qualifiers["host"][0])
                     except:
-                        host.append("Na")
+                        host.append("NaN")
                         
                     #Atribuir fonte de coleta
                     try:
                         source.append(f.qualifiers["isolation_source"][0])
                     except:
-                        source.append("Na")
+                        source.append("NaN")
                         
                     #Atribuir coordenadas da coleta
                     try:
                         coord.append(f.qualifiers["lat_lon"][0])
                     except:
-                        coord.append("Na")
+                        coord.append("NaN")
                         
                     #Atribuir local da coleta
                     try:
                         country.append(f.qualifiers["country"][0])
                     except:
-                        country.append("Na")
+                        country.append("NaN")
                         
                     #Atribuir espécie
                     try:
                         organism.append(f.qualifiers["organism"][0])
                     except:
-                        organism.append("Na")
+                        organism.append("NaN")
                         
                     #Atribuir plasmídeo
                     try:
                         plasmids.append(f.qualifiers["plasmid"][0])
                     except:
-                        plasmids.append("Na")
+                        plasmids.append("NaN")
                         
                     #Atribuir cepa
                     try:
                         strain.append(f.qualifiers["strain"][0])
                     except:
-                        strain.append("Na")
+                        strain.append("NaN")
     
     df = pd.DataFrame({"accession":accession,
                        "colection_date":colecdate,

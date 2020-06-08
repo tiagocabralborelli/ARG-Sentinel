@@ -1,6 +1,6 @@
 ![](https://www.sharp.com/health-news/images/Fight_antibiotic_resistance_HN1168_iStock_1164653737_Sized.png)
 # ARG-Sentinel
-Antimicrobial resistance is one of the most important threats of our century. In the next few decades, non-treatable bacterial infections will take thousands of lives over the world. Thus, scientists have been working on ways to developt/find novel antibiotics as well as surveillance strategies. This is my and my colleagues' contribution to understanding how antibiotic resistance genes (ARGs) spread. We are using search tools to find antibiotic resistance genes in bacterial genomes collected in Brazil either from a local hospital or deposited on NCBI.
+Antimicrobial resistance is one of the most important threats of our century. In the next few decades, non-treatable bacterial infections will take thousands of lives over the world. Thus, scientists have been working on ways to developt/find novel antibiotics as well as surveillance strategies. This is my and my colleagues' contribution to understanding how antibiotic resistance genes (ARGs) spread. We are using search tools to find antibiotic resistance genes in bacterial genomes collected in Brazil either from a local hospital or previously deposited on NCBI.
 
 # Tools and their purposes
 - [Python](https://www.python.org/) e [Biopython](https://biopython.org/) -> Deal whith data biological data

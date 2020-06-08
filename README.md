@@ -1,4 +1,4 @@
-![](https://antibiotic.ecdc.europa.eu/sites/default/files/styles/is_large/public/images/design-contest-antibiotics_H.png?itok=nFTUmAt6)
+![](https://media.istockphoto.com/vectors/world-map-network-connection-vector-id540756502)
 # ARG-Sentinel
 Antimicrobial resistance is one of the most important threats of our century. In the next few decades, non-treatable bacterial infections will take thousands of lives over the world. Thus, scientists have been working on ways to developt/find novel antibiotics as well as surveillance strategies. This is my and my colleagues' contribution to understanding how antibiotic resistance genes (ARGs) spread. We are using search tools to find antibiotic resistance genes in bacterial genomes collected in Brazil either from a local hospital or deposited on NCBI.
 

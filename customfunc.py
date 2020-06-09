@@ -70,7 +70,9 @@ def SwitchMonths(x):
     set_months = set(monthsstr)
     if len(setx & set_months) > 0:
         InComum = list(setx & set_months) 
-        return x.replace(InComum[0],monthsnum[monthsstr.index(InComum[0])])
+        x = x.replace(InComum[0],monthsnum[monthsstr.index(InComum[0])])
+        x = x.replace("-","/")
+        return x
     else:
         return x
 def cataloger(path):
@@ -167,6 +169,7 @@ def cataloger(path):
     df.to_csv('catalogo_teste.csv')
     return df.head()
 def filldf(target,source):
+
     
     """Preenche os dataframes criados pelo abricate com informações adicionais dos arquivos genbank
     ->Pam target: dataframe a ser preechido.

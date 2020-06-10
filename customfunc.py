@@ -42,7 +42,7 @@ def extract (df,sp,gene,inp):
                     else:
                         fasta.write(f'{f.seq[items.start-1:items.end+1].reverse_complement()}\n')
     fasta.close()
-def parsnp(df,org, dirr, name):
+def parsnp (df,org, dirr, name):
     "Copia os genomas de uma mesma especies para um diretorio separado e executa o parsnp"
     import os
     import pandas as pd
@@ -50,7 +50,7 @@ def parsnp(df,org, dirr, name):
     for c in df.itertuples():
         if c.specie == org:
             os.system(f'cp {c.path} {dirr}/{name}')
-def convert_to_fasta(path):
+def convert_to_fasta (path):
     """Convert genbanks files into fasta
     ->Pam path: genbank files path""" 
     from Bio import SeqIO
@@ -58,7 +58,7 @@ def convert_to_fasta(path):
     gbfiles = glob.glob(f"{path}/*.gbff")
     for c in gbfiles:
         f = SeqIO.convert(f"{c}","genbank",f"{c}.fasta","fasta")
-def SwitchMonths(x):
+def SwitchMonths (x):
     """Troca os meses pelos seus respectvios números.
     ->Pam x: Dados para serem alterados """
     
@@ -75,7 +75,7 @@ def SwitchMonths(x):
         return x
     else:
         return x
-def cataloger(path):
+def cataloger (path):
     """Cria um catálogo com informações adicionais dos genomas no formato gbff para adicionar nos bancos de dados.
     -> Pam path: diretório onde os arvivos estão"""
     
@@ -168,7 +168,9 @@ def cataloger(path):
     df.drop_duplicates('accession', inplace = True)
     df.to_csv('catalogo_teste.csv')
     return df.head()
-def filldf(target,source):
+def filldf (target,source):
+
+
 
     
     """Preenche os dataframes criados pelo abricate com informações adicionais dos arquivos genbank
@@ -196,3 +198,12 @@ def filldf(target,source):
             target.loc[i.accession,['plasmid']] = i.plasmid
             target.loc[i.accession,['colection_date']] = i.colection_date
     return target
+def CoodToNum (coords):
+    """
+    Change coordenates writen with cardinal points to numeric
+    >>>> y S == -y
+    >>>> x W == -x
+    >>>> y N ==  y 
+    >>>> x E ==  x
+    """  
+    pass

@@ -198,12 +198,39 @@ def filldf (target,source):
             target.loc[i.accession,['plasmid']] = i.plasmid
             target.loc[i.accession,['colection_date']] = i.colection_date
     return target
-def CoodToNum (coords):
+def SplitCoords (df, coord):
     """
-    Change coordenates writen with cardinal points to numeric
-    >>>> y S == -y
-    >>>> x W == -x
-    >>>> y N ==  y 
-    >>>> x E ==  x
+    Split coordenates intos two new coluns
+    
     """  
-    pass
+    if coord == "lat":
+        df['lat'] = df.coordenates.apply(lambda x: x.split(" ")[0:2])
+    if coord == "lon":
+        df['lon'] = df.coordenates.apply(lambda x: x.split(" ")[2:4])    
+    return df
+
+def NumCoord (x):
+    """Convert string coordenates into numeric
+    >>>> lat S == -lat
+    >>>> lon W == -lon
+    >>>> lat N ==  lat 
+    >>>> lon E ==  lon
+    """
+
+    if "S" in x:
+        x.remove("S")
+        x = -float(x[0])
+        
+    elif "N" in x:
+        x.remove("N")
+        x = float(x[0]) 
+        
+    elif "W" in x:
+        x.remove("W")
+        x = -float(x[0])
+        
+    elif "E" in x:
+        x.remove("E")
+        x = float(x[0])
+    
+    return x

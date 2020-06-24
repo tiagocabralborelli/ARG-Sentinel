@@ -1,0 +1,904 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.13 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 6 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 24 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 6 ,
+            day 24 } } ,
+      seq-set {
+        seq {
+          id {
+            local
+              str "NODE_27_length_10506_cov_41.427597" } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 10506 ,
+            seq-data
+              iupacna "TTATTCAGTCTATGTTCACGACTATGTTTTTAATAATATTTATTTATACTATTTT
+GGTTCTTATATATGGAAGGTTTACAAAATAAATGACTAGAGTACACCCTAATCACATAAAATAAGTTGTTTGTCACTT
+TGCTTGATATATGAGAATTATTTAACCTTATAAATGAGAAAAAAGCAACGCACTTTAAATAAGATACGTTGCTTTTTC
+GATTGATGAATACCTATAATTAAACTATTCATCTATTATTTATGATTTTTTGTATATACAATATTTCTAGTTTGTTAA
+AGAGAATTAAGAAAATAAATATCGAAAATAATAGAGGGAAAATCAGTTTTTGATATCAAAATTATACATGTCAACGAT
+AATACAAACTATAAGATGATATCAGTATTTATTATGCATTTAAAATATTAAAATTCCTTCATTACACTCTTGGCGGTT
+TCACTTATCAACTTATCATTTGGCTTATCACTTTTATTGTCTTTATTCGTAAAAATGACTAAAACAATAGGTTCAGAT
+TGGCCCTTAGGATAAACAAAAGCAACATCATTTCTAGAAGCATATGTTATTGCTTGACCACTTTTATCAGCAACCTTA
+CAGTCTTTTGAAACACCGTCTTTAATTAAAGTATCTCCGCTTTTATTATTTAACATTAAATCAAGTAAGAATTTTTTG
+TTTTCTTTGCTTAATTTTCCATTTGCGATAAGTTTATTTAAAGTCTTACCGAAAGCAGCAGGTGTTGAAGTATCTTTT
+TTGCTCTTTGGTGAATAATAATTTAATTCTATCTCATATCTAACTGGATTTGTTACTTTATCTCCTAGTCCTTTTAGA
+CGTTGTTTAACTTTTTTGATCCCACCGATCTCTTTTATAATTTTATTGTTTGCTGTATTATCACTATATGTCATTGAA
+GCCTCAATAAGTTCTTTTAAAGTGATATCTTTTCCTACATATTTTTCTAAAATAGGAGAATAAGCAACTATATCATCT
+TTGTTAATATGTATTTTTTTATTTAACTTATTATAAGGTACTTGTTCTAACAAAATAGCACTATTTATCGCTTTTGAA
+GTCGAAGCATAGGCAAATCTCTTATCTGAATTAAATTTTACTTCCTTACCACTTTTAGTATCTAAAGCATAAACACCA
+ATATGAGCATTATATTTTTTTTCTAAATCATTTAACTCTTTGGCATGTGAACTGTTTGAATTACATGCACTTAAAACT
+AAAGCAATTGCAATTAAAAATATTAACTTTTTCAAAATAAACCCTCCAATATTACAGTTGTAATTTTTACAAATTAAT
+AATATTACAATTGTAATATTGGTGTCAATTGTTTATTATAAATAATTGAAAGAAGGTGTCAAAATGGCTAAATTACTA
+ATAATGAGCGTAGTAAGCTTTTGTTTTATATTTCTATTGTTAGTATTTTTTAGGTATATATTAAAACGCTATTTTAAT
+TATAGTTTAAATTATAAAGTTTGGTATCTAACTGTGCTTGCTGGATTAATTCCTTTTATCCCAATTAAATTCTCTTTT
+ATAAAATTTAATAATGTGAATAATCAATCGCCCACAGTTGAAAGTAGGTCACACGACTTGAACCATAACATAAATACC
+ACCAAACCTGTTCAAGAGTTCACAACAGATATCCATAAGTTTAATTGGGATTCAATTGATAATATCTGCACAGTTATT
+TGGATAGTTTTGGTTATTATTTTAAGTTTTAAATTTTTGAAATCCTTATTATATCTTAAATATTTAAAGAGACAGTCA
+CTTTATCTAAACGAAAATGAAAAAAATAAAATAGATACGATACTTTTCAACCATCAATATAAAAAAAATATTGTGATT
+CGAAAAGCAGAGACTATTCAATCTCCAATAACTTTTTGGTATGGGAAATATATTATTTTGATTCCTAGTTCATATTTT
+AAAAGTGTAATTGACAAAAGACTAAAATATATAATATTGCATGAATATGCTCATGCTAAAAATAGAGATACTTTACAT
+TTAATTATCTTTAATATCTTCTCTATTGTTATGAGTTACAATCCATTAATACATATTGTAAAAAGAAAGATAATTCAT
+GACAATGAAGTAGAAGCCGATAGATTTGTTCTTAATAATATTAACAAAAATGAATTTAAAACTTATGCGGAATCTATT
+ATGGACTCCGTATTAAATATTCCATTTTTTAATAAAAATATATTAAGCCATTCATTTAATGGTAAAAAGTCATTACTC
+AAAAGAAGATTAATTAATATAAAAGAAGCCAATTTGAAAAAACAGTCCAAATTAATTCCAATTTTTATTTGTATTTTT
+ACTTTTTTGCTCATGGTAATTCAAAGCCAGTTTTTGATGGGGCAATCCATAACTGATTATAATTATAAAAAGCCCTTA
+CAGAACGATCACCAAATTTTAGATGAAAGTAAAAATTTTGGTTCAAATAGTGGATCTTTCGTCATGTACAGCATGAAG
+AAAGACAAATACTATATTTATAATGAAAAAGAAAGTAGAAAGAGATATTCTCCTGATTCAACTTATAAAATTTATTTA
+GCGATGTTTGGACTTGACCATCATATCATAAGTGATAAAAATTCACGTATGTCATGGAATCATAAACATTATCCTTTC
+GAGTCTTGGAATAAGGAACAAGATTTAAATACAGCAATGCAAAATTCAGTTAATTGGTACTTCGAACGTATTAGTAAT
+CAAATACCAAAGAACTATACTGCGGCTCAACTCAAGCAATTAAATTATGGTAATGAAAACTTGGGAAGTTATAAAAGC
+TATTGGATGGAAGATAGTTTGAAAATATCTAATCTTGAACAAGTAATAGTTTTTAAAAATATGATGGAACAAAATAAC
+CATTTTAGTAAAAAAGCAAAGAATCAATTATCTTCTTCATTATTGATTAAGAAAAATGAAAAGTATGAACTGTATGGG
+AAAACAGGTACAGGTATAGTAAACGGGAAGTATAATAATGGGTGGTTTGTAGGTTACGTAATTACAAATCATGATAAG
+TATTATTTTGCTACACATTTATCAGATGGAAAGCCGTCTGGGAAAAATGCTGAATTAATCAGTGAAAAAATATTAAAA
+GAAATGGGTGTTTTAAATGGCCAATAAGCAAGTTGAAATATCTATGGCTGAATGGGATGTTATGAATATAATATGGGA
+TAAAAAATCAGTATCAGCTAATGAAATTGTAGTTGAAATTCAAAAATATAAAGAAGTTAGCGATAAAACGATTAGAAC
+ATTAATCACAAGACTATATAAAAAAGAGATTATAAAACGATACAAATCAGAGAATATTTATTTTTACTCATCAAATAT
+TAAAGAAGACGATATTAAAATGAAAACTGCTAAAACCTTTCTTAATAAACTGTATGGAGGGGACATGAAAAGTTTAGT
+GCTGAATTTTGCGAAAAATGAAGAATTAAATAACAAAGAAATTGAAGAATTGCGAGACATTTTAAATGATATTAGTAA
+AAAGTAATTAGAGATATGTTTCAAACATAATACATATGTAAACTATGCTTGACTCTTATTAAATTAGTTTTGTTAATA
+ACATTTAAAATATTTTATTAAATATGAGAGTGTCCAGAAAATAACCATTTTCTGTACACTCTCTTTTTATACCTAGAT
+ATATAGCTAGTATACATATTTTAGTGTTCAATAACCCAATAGGAAATCTATGTTCATAAATATAGTTAGAATTAAGTT
+ATGGTACAATGAAAATGCATATAGGAGGTTTGTATTTTGAAAATAGGTTATGCAAGAGTGTCAACTGGTTTGCAAAAT
+TTGAATTTGCAGGAAGATCGATTAAATCAATATGGTTGTGAAAAAATATTTAGCGATCACATAAGTGGATCAAAAAGT
+AAACGTCCTGGTTTAGATAAAGCCATTGAATTTGCGAGGTCAGGAGATACGATTGTTGTTTGGAGACTAGATAGACTA
+GGCCGTAACATGGAAGATTTAATCACATTAGTTAATGAACTTAATAATCGAGGCGTGAGTTTTCATAGTTTAGAAGAA
+AATATAACAATGGATAAATCAAGTTCTACAGGACAATTGTTATTTCATTTATTCGCAGCATTTGCAGAATTTGAACGT
+AATTTAATTTTAGAACGTTCTTCAGCGGGGCGAATTGCAGCTCGTGCTAGAGGACGTTATGGAGGTCGACCCGAAAAA
+TTAAATAAACAAGATTTGACTTTACTTAAAACACTTTATGATAATGGAACACCAATTAAAACTATTGCAGAGCAGTGG
+AAAGTTTCACGTACAACAATCTATCGTTATCTCAATAAGTTAAATAACCAAGAAAATAAAGGGAAATAAAAATATTAC
+TAAATTTTAAGAAAGCTAAGAATCAGACAGGATTACACCCTAACCATACAAAAAGAATTGTTGAAATTATAACAATTA
+AAACGTATGATTAGGGTGTATATTAATTGTGGAGTGAAAATAAATGATTATAGGTTATGCAAGAGTATCTTCGATAGA
+TCAAAATTTAGAAAGACAACTAGAAAATTTAAAAACGTTTGGTGCTGAAAAAATATTTACAGAAAAACAGTCTGGGAA
+ATCTATTGAAAATAGACCGGTACTTCAAGAAGCACTCAATTTTGTCAGAATGGGAGATCGATTCGTTGTGGAATCTAT
+TGATCGTTTAGGACGTAACTATGATGAAATTATTGAAACTGTGAATTATTTAAAAGAAAAAGACGTTCAGTTAATGAT
+TACCAGCTTACCTATGATGAATGAAGTAATTGGCAATCCATTACTGGATAAGTTTATGAAAGATTTAATCATTCAAAT
+ATTAGCAATGGTTTCAGAACAAGAGAGAAATGAAAGTAAACGTCGACAAGCGCAAGGGATTCAAGTTGCGAAGGAAAA
+AGGCGTATATAAAGGGCGTCCTTTACTTTATTCACCAAATGCTAAAGACCCACAGAAACGTGTTATTTATCATCGCGT
+GGTGGAAATGTTAGAAGAAGGCAAAGCGATTAGTAAGATTGCGAAAGAAGTTAATATCACAAGACAAACAGTTTATAG
+AATTAAACATGATAAGGGATTATCTTGATAAATTGATTGTCAATGCAAATGAGCGTTTCTCACAGCGTCCCAAAATAT
+ATGTTAATCATGTATTATGAGATTTTAATAATAATACAGGAAAAAGAGAGAGCGTTTTTGCCCTCTTTTTTTTCTATA
+TTTTTTCTCAATAACGAATAATTTTGACAACCTAATCATACATACAGAAATACTGTTTTACTAGCATCAATAATGGTT
+CAATTAAGGTGGGCTCCAAATAGACAAAAAACACACCTTCTTATTTTACTAAGAAGATGTGTTTTTAAATCAATTAAA
+TTATAAAAACTCATTAAATGTTTCTATAATTAGATATATATTCAATATACTTAATATGATTGTTAAAACCCAAGCAAT
+AATATTAATCCATGTTTTATTTGTAAATGCTTTTCCCATTATCTTAGGATTATTGGTTGCTAACGTTAAAGGAATAAT
+ACTAAAGGGTAATGCAAGACTTAAAAATACTTGTGTGAAGATTAAAAGATCTTCAATCTTAGAAGTACTTGAACCATA
+TAACCATAAACATATGAATACAGGAATCACAGCGATTAATCTAGTAACTAATCTTCTTGCCCATTGAGGTATTTTTAT
+ATTCAAAAACCCTTCCATGACAATTTGTCCTGATAATGTGCCAGTAATGGTTGAATTTTGTCCTGAAGCTAACAAAGC
+TATGGCAAATAATGTACTCATAACAGCACCACCTATAGCTCCTGCAAACTCGGATTCTTGTAAAGCATTATATAAATC
+ATAAAATCGTCCTAAGTCTTCACCATTACCAAAGAATAGAGCGGCACCTAATATTAAAATCAAACAATTAATAATAAA
+CGCAATTGAAAGTTGTATATGTGAATCAATAATAGCGTATTTAATAGCCTCTTTTTTCTTAGCTTTACTTTCACGTAT
+ATAGTTACGTGATTGAACAATTGAAGAATGCAAATACAAATTATGAGGCATGATTGTCGCACCAATGATACCTAAAGC
+CATGTATAACACACCCTTGTTAGTAGCTATTTCTGTACTTGGAATAAAGCCACCTAAAACAGCACTCCATTCTGGAGA
+AGCAAAGTAAACTTCAAATACAAAGATAAAAAGAACTGTAAAAATTAATACACCTACGATAGCTTCAATCTTTCTAAA
+GCCAAATTTAATAATTACTAGTAAAAGTAAAACATCTAATACAGTAATAGTTACTCCCACTACTAAAGGTATATCAAA
+AAGTAGATTTAGTGCTATCGCACTACCAATGACCTCTGCAATATCCGTAGCCATAATTGCTAATTCTGTAACAATCCA
+GGCTGCTATCGATAACGGCTTATTACTTATGTGTTTAGTTACTTGAGCTAAGTCCATACCACTCGCAATACCTAAACG
+AGCGCACATACTTTGAAGTAACATGGCTGATAAGCTCGATAATAATATTATAAATAATAATGTATATCCAAATTGTGC
+TCCTCCTGCCATTGAAGTAATCCAATTACCTGGATCCATATAGCCTACAGCAACAAGAAGTCCAGGACCTAGATACAT
+TATTAGTTTCTTGATACCATTTGCTTCGCTATCAAAAGAAACTTTTCCATTTATTTCTTCTAAACTTTTCTTCACTAT
+AAAAATCTCCTCATTGAATATTAAATTTATCAATGAATATTATAGTATAAATTAGGCTGACCTAAAAATTATTTTGCT
+TCATATATATTTTTTCTCATTAAAATTTTAGTCACGATACGTTTTGATTATTTTAATTAATCTTTCTATATCATTATT
+TGAGAGGTTTTCTATATTGTCTATGTCATGTTTAAGCGACTCTTTTATATTAGACTTCTCATTATTTTTCAGAAAATA
+AGTTGCTATTGAACCTGTTATCATTCCAACTAAACCGATACCAAAAAAACATCAGATAAACACTTGTTATTCTGCCAA
+TTAGTGTCTCTGGACTGATATCACCATAGCCAACTGTAGTAACTGTCACTATAGCTAACGAAACCCCATCATTATATG
+ATCTTACAGATGGCTCAAAATAAGTAAGTGGGATTGCAGAAAATAATATGCTAATACATGAAAAGACACTTCCTTTTA
+AAAGAAGTGTCTTAAGCGTTTCAAATTTAAAATATATCTAAATAACGAACATTTTTAATATGGAGGGATTATGTTTTT
+CTTGATTTAACTTTTTCCCATTCAATTTTTAGGTAATTATTAATAAAATCTTTATATTCATCTATTTTTGTTTCTTCT
+AAAGTATTATTACCATCATAAGATTCTCTGATATTTTTTTTTAATTCATTTAAAGAATCATAGATTTTCTCATTGCTA
+ATTGATAAATCCCCTTTATAAAAACTTGCACTACTTTCAACTGCAACTAGTATTTTTTTATGTTCGATTCGTACTTTA
+TGAATATCATATTTATTTATCGGAAATAAATTTTTCATTTCTTCTATAGAAGTAAATAGATTATACATAGCACTGGTT
+CTATCTATTTTTTTGTTATTTAAAACCTTCGTTTGTTCCTTTACCTTTTCTTGTATATTGTCTATTTCTTCTTTGTAT
+TTTTCCGCATTATTGTCTCTTTTCCTTGATTCATATTCTAAACCTTCTAACAAGGTGCTTCTCATATTATCTAACATA
+TTAATATCTTTAGTTTTTTCACTATAAAAATTTTGATGAGTGTTGAAATCATAAAATGCTTTTATCAAATTAGTATTT
+ACTTCTCTTACTTTCTGAATCCAATTTATCCTTGAATCTTCAATTTCAGATTTTCTTTTCATTGAATTGTCTATTTTA
+TAACCCACCCACACTGACGTTAAACTAATTAATGCTACAAAAATGGCAAACATATTTTTCATCATCCAATCTTTTTAT
+TCTTTCGTCTGCTTTTAGTTGCAATAACTTAACTTTTAGTTTAGATAAGTTATTGCATTAGGCTGTGCTTTACATATA
+TATTTAAAGATTGCTCCTCTTTAAATAATTAGTTAACATAATCGATGATTATCAGAAGTTTGAGTCACATTAAAAAGG
+CACAACAAGTTCATAAACTTGTTGTGCCTTTTTAATTGCAATTAGTTACCAAATAAACGACTCCAAAATCCCTTTTTA
+GGTGGTTCTACCTCCCTATTATCATCAGGATCACTCTTCGTTTCTTCAACGAACTTATCCTCTTTTGTTAATTCACCT
+TCATTTGTACTGTCGTTCTTTTTCTCTTCAGCTATATCCTTGTAATTTACTTCTGTTGGTTGACGCTTTGTTTGTTGT
+TGGTTGATATTTTGCGATTCTTCAGTAAAAGTTGCTTCTTGCGGATTAATATTTTGTCTATTATTCGTCGCTGTATCA
+AAAGAATAATTAAGCTGTCTTTCTTCTTCTAATTGGCTTTCTAGTTTTTGAATTTTTTTATTGCTTTCTAAAGCTAAT
+ATTTGTTGATTCTCCAACAATTTATTTAATGTATTAACATTGCTATTTTGTTGATCTAATTGCTTAGTTAAATTCTCA
+ATATATTTTTCATCATTTTTAGCTCTAGTTTCAAAGATTTCTATTTGCTTTTCTAATTCGTTTACTTTTGTTTTTAAT
+GCCTTAGAACTATTTGAATTATTATATATATTCTTTTCTGCTTTTGCAGTATTTTCACCAAACAATTCTTTTTTTACT
+GATTCTTTATTTTGGATTGTACTCTCTTTCTTAGTAATTTTTTCTATAATTTTCAAATAATCATTATCATCAATATAA
+TTAATCCCATTTTCTTTTTCAAAAGTTATATTTAAACTTTTAGCATTATTAACAATAGTTTGTTTAGTTACACCTAAT
+TCATCAGCAACCATTTTAATAGTTCTCATAACATCCACCCTTAGGTACCTAATTTAGTACCTAAATTTTACCACCTAA
+TCAAGTTTATTTCATCATTTACCACCTAAATTTACTACCTATTTACTACATATGTACCTAATTAGGTCCCTATAATAT
+GTTTTTGAATCTTAATTAGGCGCTAAAACAATGAACTACACATTTTGCCATGGCAATGTGCTTTTAACTATATTTAAA
+ACTCTTTATATACTTTCTTAAAAGTGTTAATATTGCTTTATAAATACTAAAAGAGTCAATGCTATTGGCGTAGCATTG
+ACTCTCGGTAATAAAACGATTCGCACTCGTTTGTTTATATATTTTTTGATACTTGTATTATATCTATCTAATCATCTA
+AGTGCAAGCACAAAACATATAACTTACGTAAAAATTGTTTTATTACCTCAATCCTAAAAATGGAAATGAGGTTTTTAT
+TATGCCCAATTTTGAAAAATACAATTTATCACAAGTAAAAACTGAAAGGTTTTATCAACTACCTAAATATTTATTCGA
+AGATGTATATTTTAAAAAAATGTCGGCGGAAGCCAAAATTATGTATGCGTTATTAAAAGATCGCTTTGAATTATCCAT
+CCAAAATGAATGGGTAGATAAAAATAATAACATTTACTTTATTTTCAGTAATAAACATTTGTGCGAATACTTAGGTTA
+TGCAGAACAAAAAATTATAAAATTAAAAAAAGAGTTAATAAGTTTTAATTTACTAACTCAAGAACGTGTTGGCCTTAA
+TAAACCAAATAGATTATACCTATTAAAACCTAATTATGACATTAAAGCCAGTCATAGCAAGGAACTTCCAAATTCACA
+GTTCCAGAACAATGAATTTGGAAGTTCTAGAACTGTGAATTTCAGTGGTCAAGAACTTCCAAATTCACAGTCTAATGA
+TACTGATTATAATGATACTAATTATATTAAGATTGAGAGTAATGATACGGATGATTTGAATGATAATAAACTAACATA
+TTCTAATAATCACACAAATCATTCAAATCACTATAATCCAAACTTTAATGATGAAGCTTTAAAGTTCCAATTATTAGA
+AGAACTACCACAGAGTATTCAAAAATATCTAAGTAACTTTGAAGTAGATGAAATTAAAATTATCAAAACTGTATTATT
+AAAAGCCAAAACATCTTTCAACAATGCGATTGATAGCTACTACTTGTTAGAAGATATGGAAATAGAAATACTTCATGT
+TCTTAAACGTTTTAAAGCCATGCTTATTCAAAAAAATGAAACCGTTGAAGCCATGCAAGGATACTTAATGAAATCTCT
+TAAATCAGAATTCGCAGAAGTACATACGCTGAATAAGCGACGTGACCATTTACCCATCACTTCTTTATTTAATCAATA
+ATTCAATTTAATAGGCCAACAATGCTTCAATTTGAGAGCATCTTTAGATAGATGTTCTCTTTTTTTATTAACAAGTGG
+TTGCTAAGGCAACCACCTAGACCAAACGAAAGGTAAAGGAGGAGATAACAAAATAACATCAATACAATGTCACAATTT
+CACAACATAGCATGCTGCTATTAAAGAAAGGAGGAACTCTTATGCGTAATAAGAAAAAGATTAAGGTTACTTTGGCA" } } ,
+        seq {
+          id {
+            local
+              str "NODE_27_length_10506_cov_41.427597_1" } ,
+          descr {
+            title "Beta-lactamase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 281 ,
+            seq-data
+              ncbieaa "MKKLIFLIAIALVLSACNSNSSHAKELNDLEKKYNAHIGVYALDTKSGKEVKFNS
+DKRFAYASTSKAINSAILLEQVPYNKLNKKIHINKDDIVAYSPILEKYVGKDITLKELIEASMTYSDNTANNKIIKEI
+GGIKKVKQRLKGLGDKVTNPVRYEIELNYYSPKSKKDTSTPAAFGKTLNKLIANGKLSKENKKFLLDLMLNNKSGDTL
+IKDGVSKDCKVADKSGQAITYASRNDVAFVYPKGQSEPIVLVIFTNKDNKSDKPNDKLISETAKSVMKEF" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      prot {
+                        name {
+                          "Beta-lactamase" } ,
+                        ec {
+                          "3.5.2.6" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 280 ,
+                        id
+                          local
+                            str "NODE_27_length_10506_cov_41.427597_1" } } } } } } ,
+        seq {
+          id {
+            local
+              str "NODE_27_length_10506_cov_41.427597_2" } ,
+          descr {
+            title "Regulatory protein BlaR1 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 585 ,
+            seq-data
+              ncbieaa "MAKLLIMSVVSFCFIFLLLVFFRYILKRYFNYSLNYKVWYLTVLAGLIPFIPIKF
+SFIKFNNVNNQSPTVESRSHDLNHNINTTKPVQEFTTDIHKFNWDSIDNICTVIWIVLVIILSFKFLKSLLYLKYLKR
+QSLYLNENEKNKIDTILFNHQYKKNIVIRKAETIQSPITFWYGKYIILIPSSYFKSVIDKRLKYIILHEYAHAKNRDT
+LHLIIFNIFSIVMSYNPLIHIVKRKIIHDNEVEADRFVLNNINKNEFKTYAESIMDSVLNIPFFNKNILSHSFNGKKS
+LLKRRLINIKEANLKKQSKLIPIFICIFTFLLMVIQSQFLMGQSITDYNYKKPLQNDHQILDESKNFGSNSGSFVMYS
+MKKDKYYIYNEKESRKRYSPDSTYKIYLAMFGLDHHIISDKNSRMSWNHKHYPFESWNKEQDLNTAMQNSVNWYFERI
+SNQIPKNYTAAQLKQLNYGNENLGSYKSYWMEDSLKISNLEQVIVFKNMMEQNNHFSKKAKNQLSSSLLIKKNEKYEL
+YGKTGTGIVNGKYNNGWFVGYVITNHDKYYFATHLSDGKPSGKNAELISEKILKEMGVLNGQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      prot {
+                        name {
+                          "Regulatory protein BlaR1" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 584 ,
+                        id
+                          local
+                            str "NODE_27_length_10506_cov_41.427597_2" } } } } } } ,
+        seq {
+          id {
+            local
+              str "NODE_27_length_10506_cov_41.427597_3" } ,
+          descr {
+            title "Penicillinase repressor [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 126 ,
+            seq-data
+              ncbieaa "MANKQVEISMAEWDVMNIIWDKKSVSANEIVVEIQKYKEVSDKTIRTLITRLYKK
+EIIKRYKSENIYFYSSNIKEDDIKMKTAKTFLNKLYGGDMKSLVLNFAKNEELNNKEIEELRDILNDISKK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      prot {
+                        name {
+                          "Penicillinase repressor" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 125 ,
+                        id
+                          local
+                            str "NODE_27_length_10506_cov_41.427597_3" } } } } } } ,
+        seq {
+          id {
+            local
+              str "NODE_27_length_10506_cov_41.427597_4" } ,
+          descr {
+            title "DNA-invertase hin [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 192 ,
+            seq-data
+              ncbieaa "MKIGYARVSTGLQNLNLQEDRLNQYGCEKIFSDHISGSKSKRPGLDKAIEFARSG
+DTIVVWRLDRLGRNMEDLITLVNELNNRGVSFHSLEENITMDKSSSTGQLLFHLFAAFAEFERNLILERSSAGRIAAR
+ARGRYGGRPEKLNKQDLTLLKTLYDNGTPIKTIAEQWKVSRTTIYRYLNKLNNQENKGK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      prot {
+                        name {
+                          "DNA-invertase hin" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 191 ,
+                        id
+                          local
+                            str "NODE_27_length_10506_cov_41.427597_4" } } } } } } ,
+        seq {
+          id {
+            local
+              str "NODE_27_length_10506_cov_41.427597_5" } ,
+          descr {
+            title "Putative transposon Tn552 DNA-invertase bin3 [Genus
+ species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 202 ,
+            seq-data
+              ncbieaa "MIIGYARVSSIDQNLERQLENLKTFGAEKIFTEKQSGKSIENRPVLQEALNFVRM
+GDRFVVESIDRLGRNYDEIIETVNYLKEKDVQLMITSLPMMNEVIGNPLLDKFMKDLIIQILAMVSEQERNESKRRQA
+QGIQVAKEKGVYKGRPLLYSPNAKDPQKRVIYHRVVEMLEEGKAISKIAKEVNITRQTVYRIKHDKGLS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      prot {
+                        name {
+                          "Putative transposon Tn552 DNA-invertase bin3" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 201 ,
+                        id
+                          local
+                            str "NODE_27_length_10506_cov_41.427597_5" } } } } } } ,
+        seq {
+          id {
+            local
+              str "NODE_27_length_10506_cov_41.427597_6" } ,
+          descr {
+            title "Divalent metal cation transporter MntH [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 440 ,
+            seq-data
+              ncbieaa "MKKSLEEINGKVSFDSEANGIKKLIMYLGPGLLVAVGYMDPGNWITSMAGGAQFG
+YTLLFIILLSSLSAMLLQSMCARLGIASGMDLAQVTKHISNKPLSIAAWIVTELAIMATDIAEVIGSAIALNLLFDIP
+LVVGVTITVLDVLLLLVIIKFGFRKIEAIVGVLIFTVLFIFVFEVYFASPEWSAVLGGFIPSTEIATNKGVLYMALGI
+IGATIMPHNLYLHSSIVQSRNYIRESKAKKKEAIKYAIIDSHIQLSIAFIINCLILILGAALFFGNGEDLGRFYDLYN
+ALQESEFAGAIGGAVMSTLFAIALLASGQNSTITGTLSGQIVMEGFLNIKIPQWARRLVTRLIAVIPVFICLWLYGSS
+TSKIEDLLIFTQVFLSLALPFSIIPLTLATNNPKIMGKAFTNKTWINIIAWVLTIILSILNIYLIIETFNEFL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      prot {
+                        name {
+                          "Divalent metal cation transporter MntH" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 439 ,
+                        id
+                          local
+                            str "NODE_27_length_10506_cov_41.427597_6" } } } } } } ,
+        seq {
+          id {
+            local
+              str "NODE_27_length_10506_cov_41.427597_7" } ,
+          descr {
+            title "hypothetical protein LLCPLGJP_00007 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 50 ,
+            seq-data
+              ncbieaa "MITGSIATYFLKNNEKSNIKESLKHDIDNIENLSNNDIERLIKIIKTYRD" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 49 ,
+                        id
+                          local
+                            str "NODE_27_length_10506_cov_41.427597_7" } } } } } } ,
+        seq {
+          id {
+            local
+              str "NODE_27_length_10506_cov_41.427597_8" } ,
+          descr {
+            title "hypothetical protein LLCPLGJP_00008 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 228 ,
+            seq-data
+              ncbieaa "MFAIFVALISLTSVWVGYKIDNSMKRKSEIEDSRINWIQKVREVNTNLIKAFYDF
+NTHQNFYSEKTKDINMLDNMRSTLLEGLEYESRKRDNNAEKYKEEIDNIQEKVKEQTKVLNNKKIDRTSAMYNLFTSI
+EEMKNLFPINKYDIHKVRIEHKKILVAVESSASFYKGDLSISNEKIYDSLNELKKNIRESYDGNNTLEETKIDEYKDF
+INNYLKIEWEKVKSRKT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 227 ,
+                        id
+                          local
+                            str "NODE_27_length_10506_cov_41.427597_8" } } } } } } ,
+        seq {
+          id {
+            local
+              str "NODE_27_length_10506_cov_41.427597_9" } ,
+          descr {
+            title "Chromosome-anchoring protein RacA [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 255 ,
+            seq-data
+              ncbieaa "MRTIKMVADELGVTKQTIVNNAKSLNITFEKENGINYIDDNDYLKIIEKITKKES
+TIQNKESVKKELFGENTAKAEKNIYNNSNSSKALKTKVNELEKQIEIFETRAKNDEKYIENLTKQLDQQNSNVNTLNK
+LLENQQILALESNKKIQKLESQLEEERQLNYSFDTATNNRQNINPQEATFTEESQNINQQQTKRQPTEVNYKDIAEEK
+KNDSTNEGELTKEDKFVEETKSDPDDNREVEPPKKGFWSRLFGN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      prot {
+                        name {
+                          "Chromosome-anchoring protein RacA" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 254 ,
+                        id
+                          local
+                            str "NODE_27_length_10506_cov_41.427597_9" } } } } } } ,
+        seq {
+          id {
+            local
+              str "NODE_27_length_10506_cov_41.427597_10" } ,
+          descr {
+            title "hypothetical protein LLCPLGJP_00010 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 311 ,
+            seq-data
+              ncbieaa "MPNFEKYNLSQVKTERFYQLPKYLFEDVYFKKMSAEAKIMYALLKDRFELSIQNE
+WVDKNNNIYFIFSNKHLCEYLGYAEQKIIKLKKELISFNLLTQERVGLNKPNRLYLLKPNYDIKASHSKELPNSQFQN
+NEFGSSRTVNFSGQELPNSQSNDTDYNDTNYIKIESNDTDDLNDNKLTYSNNHTNHSNHYNPNFNDEALKFQLLEELP
+QSIQKYLSNFEVDEIKIIKTVLLKAKTSFNNAIDSYYLLEDMEIEILHVLKRFKAMLIQKNETVEAMQGYLMKSLKSE
+FAEVHTLNKRRDHLPITSLFNQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 310 ,
+                        id
+                          local
+                            str "NODE_27_length_10506_cov_41.427597_10" } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "NODE_27_length_10506_cov_41.427597_1" ,
+                location
+                  int {
+                    from 414 ,
+                    to 1259 ,
+                    strand minus ,
+                    id
+                      local
+                        str "NODE_27_length_10506_cov_41.427597" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P00807" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "blaZ" ,
+                        locus-tag "LLCPLGJP_00001" } } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "NODE_27_length_10506_cov_41.427597_2" ,
+                location
+                  int {
+                    from 1366 ,
+                    to 3123 ,
+                    strand plus ,
+                    id
+                      local
+                        str "NODE_27_length_10506_cov_41.427597" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P18357" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "blaR1" ,
+                        locus-tag "LLCPLGJP_00002" } } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "NODE_27_length_10506_cov_41.427597_3" ,
+                location
+                  int {
+                    from 3113 ,
+                    to 3493 ,
+                    strand plus ,
+                    id
+                      local
+                        str "NODE_27_length_10506_cov_41.427597" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P0A042" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "blaI" ,
+                        locus-tag "LLCPLGJP_00003" } } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "NODE_27_length_10506_cov_41.427597_4" ,
+                location
+                  int {
+                    from 3757 ,
+                    to 4335 ,
+                    strand plus ,
+                    id
+                      local
+                        str "NODE_27_length_10506_cov_41.427597" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P03013" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "hin" ,
+                        locus-tag "LLCPLGJP_00004" } } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "NODE_27_length_10506_cov_41.427597_5" ,
+                location
+                  int {
+                    from 4466 ,
+                    to 5074 ,
+                    strand plus ,
+                    id
+                      local
+                        str "NODE_27_length_10506_cov_41.427597" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P20384" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "bin3" ,
+                        locus-tag "LLCPLGJP_00005" } } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "NODE_27_length_10506_cov_41.427597_6" ,
+                location
+                  int {
+                    from 5359 ,
+                    to 6681 ,
+                    strand minus ,
+                    id
+                      local
+                        str "NODE_27_length_10506_cov_41.427597" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q99UZ7" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "mntH" ,
+                        locus-tag "LLCPLGJP_00006" } } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "NODE_27_length_10506_cov_41.427597_7" ,
+                location
+                  int {
+                    from 6790 ,
+                    to 6942 ,
+                    strand minus ,
+                    id
+                      local
+                        str "NODE_27_length_10506_cov_41.427597" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "LLCPLGJP_00007" } } } } ,
+              {
+                id
+                  local
+                    id 8 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "NODE_27_length_10506_cov_41.427597_8" ,
+                location
+                  int {
+                    from 7221 ,
+                    to 7907 ,
+                    strand minus ,
+                    id
+                      local
+                        str "NODE_27_length_10506_cov_41.427597" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "LLCPLGJP_00008" } } } } ,
+              {
+                id
+                  local
+                    id 9 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "NODE_27_length_10506_cov_41.427597_9" ,
+                location
+                  int {
+                    from 8130 ,
+                    to 8897 ,
+                    strand minus ,
+                    id
+                      local
+                        str "NODE_27_length_10506_cov_41.427597" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "protein motif:HAMAP:MF_01170" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "racA" ,
+                        locus-tag "LLCPLGJP_00009" } } } } ,
+              {
+                id
+                  local
+                    id 10 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "NODE_27_length_10506_cov_41.427597_10" ,
+                location
+                  int {
+                    from 9338 ,
+                    to 10273 ,
+                    strand plus ,
+                    id
+                      local
+                        str "NODE_27_length_10506_cov_41.427597" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "LLCPLGJP_00010" } } } } } } } } } }

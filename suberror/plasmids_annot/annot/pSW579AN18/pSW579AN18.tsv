@@ -1,0 +1,29 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+NLAABJDB_00001	CDS	228				hypothetical protein
+NLAABJDB_00002	CDS	123				hypothetical protein
+NLAABJDB_00003	CDS	180				hypothetical protein
+NLAABJDB_00004	CDS	363				hypothetical protein
+NLAABJDB_00005	CDS	687				hypothetical protein
+NLAABJDB_00006	CDS	135				Hemolysin H1C
+NLAABJDB_00007	CDS	111				hypothetical protein
+NLAABJDB_00008	CDS	1497	mqo2	1.1.5.4		putative malate:quinone oxidoreductase 2
+NLAABJDB_00009	CDS	339	hxlR		COG1733	HTH-type transcriptional activator HxlR
+NLAABJDB_00010	CDS	636		4.1.2.43		3-hexulose-6-phosphate synthase
+NLAABJDB_00011	CDS	519			COG0693	putative protein
+NLAABJDB_00012	CDS	135				hypothetical protein
+NLAABJDB_00013	CDS	111				hypothetical protein
+NLAABJDB_00014	CDS	936				hypothetical protein
+NLAABJDB_00015	CDS	768	racA			Chromosome-anchoring protein RacA
+NLAABJDB_00016	CDS	687				hypothetical protein
+NLAABJDB_00017	CDS	153				hypothetical protein
+NLAABJDB_00018	CDS	1323	mntH			Divalent metal cation transporter MntH
+NLAABJDB_00019	CDS	609	bin3			Putative transposon Tn552 DNA-invertase bin3
+NLAABJDB_00020	CDS	579	hin		COG1961	DNA-invertase hin
+NLAABJDB_00021	CDS	381	blaI			Penicillinase repressor
+NLAABJDB_00022	CDS	1758	blaR1			Regulatory protein BlaR1
+NLAABJDB_00023	CDS	846	blaZ	3.5.2.6		Beta-lactamase
+NLAABJDB_00024	CDS	549				hypothetical protein
+NLAABJDB_00025	CDS	348	cadC			Cadmium resistance transcriptional regulatory protein CadC
+NLAABJDB_00026	CDS	618				hypothetical protein
+NLAABJDB_00027	CDS	183				hypothetical protein
+NLAABJDB_00028	CDS	285				hypothetical protein

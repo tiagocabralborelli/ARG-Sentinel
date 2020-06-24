@@ -1,0 +1,61 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FEDIEKEO_00001	CDS	279				hypothetical protein
+FEDIEKEO_00002	CDS	423	klcA			Antirestriction protein KlcA
+FEDIEKEO_00003	CDS	156				hypothetical protein
+FEDIEKEO_00004	CDS	297				hypothetical protein
+FEDIEKEO_00005	CDS	981				hypothetical protein
+FEDIEKEO_00006	CDS	882	bla	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+FEDIEKEO_00007	CDS	558	tnpR			Transposon Tn3 resolvase
+FEDIEKEO_00008	CDS	969	bin3			Putative transposon Tn552 DNA-invertase bin3
+FEDIEKEO_00009	CDS	669				Iron-sulfur cluster carrier protein
+FEDIEKEO_00010	CDS	216				hypothetical protein
+FEDIEKEO_00011	CDS	285				hypothetical protein
+FEDIEKEO_00012	CDS	483				hypothetical protein
+FEDIEKEO_00013	CDS	255				hypothetical protein
+FEDIEKEO_00014	CDS	354				hypothetical protein
+FEDIEKEO_00015	CDS	444				hypothetical protein
+FEDIEKEO_00016	CDS	873	pir			PI protein
+FEDIEKEO_00017	CDS	516	dnaJ			Chaperone protein DnaJ
+FEDIEKEO_00018	CDS	237				hypothetical protein
+FEDIEKEO_00019	CDS	552				hypothetical protein
+FEDIEKEO_00020	CDS	270				hypothetical protein
+FEDIEKEO_00021	CDS	243				hypothetical protein
+FEDIEKEO_00022	CDS	339				hypothetical protein
+FEDIEKEO_00023	CDS	165				hypothetical protein
+FEDIEKEO_00024	CDS	258				hypothetical protein
+FEDIEKEO_00025	CDS	546				hypothetical protein
+FEDIEKEO_00026	CDS	1161				hypothetical protein
+FEDIEKEO_00027	CDS	510	rfaH		COG0250	Transcription antitermination protein RfaH
+FEDIEKEO_00028	CDS	228				hypothetical protein
+FEDIEKEO_00029	CDS	645	virB1			Type IV secretion system protein virB1
+FEDIEKEO_00030	CDS	291				hypothetical protein
+FEDIEKEO_00031	CDS	2754	virB4			Type IV secretion system protein virB4
+FEDIEKEO_00032	CDS	771				hypothetical protein
+FEDIEKEO_00033	CDS	258				hypothetical protein
+FEDIEKEO_00034	CDS	1056				hypothetical protein
+FEDIEKEO_00035	CDS	729	virB8			Type IV secretion system protein virB8
+FEDIEKEO_00036	CDS	930	virB9			Type IV secretion system protein virB9
+FEDIEKEO_00037	CDS	1203				Type IV secretion system protein virB10
+FEDIEKEO_00038	CDS	1032	ptlH		COG0630	Type IV secretion system protein PtlH
+FEDIEKEO_00039	CDS	198				hypothetical protein
+FEDIEKEO_00040	CDS	1836	virD4			Protein VirD4
+FEDIEKEO_00041	CDS	393				hypothetical protein
+FEDIEKEO_00042	CDS	315				hypothetical protein
+FEDIEKEO_00043	CDS	387				hypothetical protein
+FEDIEKEO_00044	CDS	417				hypothetical protein
+FEDIEKEO_00045	CDS	474	yhcR	3.1.31.-	COG0737	Endonuclease YhcR
+FEDIEKEO_00046	CDS	774				hypothetical protein
+FEDIEKEO_00047	CDS	591				hypothetical protein
+FEDIEKEO_00048	CDS	396				hypothetical protein
+FEDIEKEO_00049	CDS	2328	topB	5.99.1.2	COG0550	DNA topoisomerase 3
+FEDIEKEO_00050	CDS	456	stpA		COG2916	DNA-binding protein StpA
+FEDIEKEO_00051	CDS	408				hypothetical protein
+FEDIEKEO_00052	CDS	180				hypothetical protein
+FEDIEKEO_00053	CDS	825				hypothetical protein
+FEDIEKEO_00054	CDS	255				hypothetical protein
+FEDIEKEO_00055	CDS	276				hypothetical protein
+FEDIEKEO_00056	CDS	279				hypothetical protein
+FEDIEKEO_00057	CDS	240				hypothetical protein
+FEDIEKEO_00058	CDS	327	xerD			Tyrosine recombinase XerD
+FEDIEKEO_00059	CDS	537	xerH		COG0582	Tyrosine recombinase XerH
+FEDIEKEO_00060	CDS	525	wecD	2.3.1.210		dTDP-fucosamine acetyltransferase

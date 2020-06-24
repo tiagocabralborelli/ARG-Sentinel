@@ -1,0 +1,57 @@
+>Feature NODE_27_length_10506_cov_41.427597
+1260	415	CDS
+			EC_number	3.5.2.6
+			gene	blaZ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00807
+			locus_tag	LLCPLGJP_00001
+			product	Beta-lactamase
+1367	3124	CDS
+			gene	blaR1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P18357
+			locus_tag	LLCPLGJP_00002
+			product	Regulatory protein BlaR1
+3114	3494	CDS
+			gene	blaI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A042
+			locus_tag	LLCPLGJP_00003
+			product	Penicillinase repressor
+3758	4336	CDS
+			dbxref	COG:COG1961
+			gene	hin
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	LLCPLGJP_00004
+			product	DNA-invertase hin
+4467	5075	CDS
+			gene	bin3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20384
+			locus_tag	LLCPLGJP_00005
+			product	Putative transposon Tn552 DNA-invertase bin3
+6682	5360	CDS
+			gene	mntH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q99UZ7
+			locus_tag	LLCPLGJP_00006
+			product	Divalent metal cation transporter MntH
+6943	6791	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LLCPLGJP_00007
+			product	hypothetical protein
+7908	7222	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LLCPLGJP_00008
+			product	hypothetical protein
+8898	8131	CDS
+			gene	racA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01170
+			locus_tag	LLCPLGJP_00009
+			product	Chromosome-anchoring protein RacA
+9339	10274	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LLCPLGJP_00010
+			product	hypothetical protein

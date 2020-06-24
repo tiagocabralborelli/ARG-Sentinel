@@ -1,0 +1,65 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:1 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 1 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:1 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:2 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+SEQ_ID_PHRASES:Sequence Ids contain unacceptable phrases (cov_, length, node, paired, or trimmed)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::1 proteins have invalid IDs.
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pSE452BN56/pSE452BN56:NODE_56_length_2305_cov_620.290118_1 (length 244)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 1 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pSE452BN56/pSE452BN56:NODE_56_length_2305_cov_620.290118 (length 2305)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::1 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pSE452BN56/pSE452BN56:CDS	rRNA adenine N-6-methyltransferase	NODE_56_length_2305_cov_620.290118:c1615-881	CFNJLOCI_00001
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pSE452BN56/pSE452BN56:NODE_56_length_2305_cov_620.290118:Annotated using prokka 1.13 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pSE452BN56/pSE452BN56:NODE_56_length_2305_cov_620.290118 (length 2305)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pSE452BN56/pSE452BN56:NODE_56_length_2305_cov_620.290118 (length 2305)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pSE452BN56/pSE452BN56:NODE_56_length_2305_cov_620.290118 (length 2305)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pSE452BN56/pSE452BN56:NODE_56_length_2305_cov_620.290118 (length 2305)
+
+DiscRep_ALL:MISSING_PROJECT::2 sequences do not include project.
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pSE452BN56/pSE452BN56:NODE_56_length_2305_cov_620.290118 (length 2305)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pSE452BN56/pSE452BN56:NODE_56_length_2305_cov_620.290118_1 (length 244)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pSE452BN56/pSE452BN56:NODE_56_length_2305_cov_620.290118 (length 2305)
+
+DiscRep_ALL:SEQ_ID_PHRASES::Sequence Ids contain unacceptable phrases (cov_, length, node, paired, or trimmed)
+

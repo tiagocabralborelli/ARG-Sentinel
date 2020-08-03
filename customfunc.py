@@ -168,16 +168,13 @@ def cataloger (path):
     df.drop_duplicates('accession', inplace = True)
     df.to_csv('catalogo_teste.csv')
     return df.head()
+
 def filldf (target,source):
-
-
-
-    
     """Preenche os dataframes criados pelo abricate com informações adicionais dos arquivos genbank
     ->Pam target: dataframe a ser preechido.
     ->Pam source: dataframe com as informações adicionais"""
+    
     target.set_index('file', inplace = True)
-
     target['colection_date'] = None #ok
     target['host'] = None
     target["source"] = None #ok
@@ -198,6 +195,7 @@ def filldf (target,source):
             target.loc[i.accession,['plasmid']] = i.plasmid
             target.loc[i.accession,['colection_date']] = i.colection_date
     return target
+
 def SplitCoords (df, coord):
     """
     Split coordenates intos two new coluns

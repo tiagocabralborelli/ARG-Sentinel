@@ -50,6 +50,7 @@ def parsnp (df,org, dirr, name):
     for c in df.itertuples():
         if c.specie == org:
             os.system(f'cp {c.path} {dirr}/{name}')
+            
 def convert_to_fasta (path):
     """Convert genbanks files into fasta
     ->Pam path: genbank files path""" 

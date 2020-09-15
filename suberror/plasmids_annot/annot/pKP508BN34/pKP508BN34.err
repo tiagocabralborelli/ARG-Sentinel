@@ -1,0 +1,457 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:78 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 78 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:78 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:4 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:79 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+SEQ_ID_PHRASES:Sequence Ids contain unacceptable phrases (cov_, length, node, paired, or trimmed)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::78 proteins have invalid IDs.
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_1 (length 204)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_2 (length 93)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_3 (length 208)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_4 (length 83)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_5 (length 177)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_6 (length 730)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_7 (length 363)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_8 (length 472)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_9 (length 207)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_10 (length 714)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_11 (length 193)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_12 (length 398)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_13 (length 1015)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_14 (length 187)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_15 (length 133)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_16 (length 177)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_17 (length 239)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_18 (length 446)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_19 (length 367)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_20 (length 234)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_21 (length 117)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_22 (length 1101)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_23 (length 88)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_24 (length 395)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_25 (length 272)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_26 (length 155)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_27 (length 159)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_28 (length 201)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_29 (length 75)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_30 (length 280)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_31 (length 309)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_32 (length 164)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_33 (length 564)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_34 (length 642)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_35 (length 103)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_36 (length 103)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_37 (length 43)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_38 (length 106)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_39 (length 77)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_40 (length 94)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_41 (length 146)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_42 (length 101)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_43 (length 136)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_44 (length 78)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_45 (length 37)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_46 (length 76)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_47 (length 112)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_48 (length 286)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_49 (length 59)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_50 (length 88)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_51 (length 149)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_52 (length 165)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_53 (length 168)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_54 (length 147)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_55 (length 324)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_56 (length 246)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_57 (length 161)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_58 (length 31)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_59 (length 82)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_60 (length 31)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_61 (length 352)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_62 (length 69)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_63 (length 94)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_64 (length 213)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_65 (length 109)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_66 (length 93)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_67 (length 158)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_68 (length 181)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_69 (length 190)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_70 (length 463)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_71 (length 145)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_72 (length 218)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_73 (length 63)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_74 (length 55)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_75 (length 218)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_76 (length 285)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_77 (length 341)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_78 (length 529)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 78 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044 (length 63067)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::78 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c760-146	EENIKJPO_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:1050-1331	EENIKJPO_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c2293-1667	EENIKJPO_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c3119-2868	EENIKJPO_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	Phospholipase D	NODE_34_length_63067_cov_25.930044:c3664-3131	EENIKJPO_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c5902-3710	EENIKJPO_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c6995-5904	EENIKJPO_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c8424-7006	EENIKJPO_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c9149-8526	EENIKJPO_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c11359-9215	EENIKJPO_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c11982-11401	EENIKJPO_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c13175-11979	EENIKJPO_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c16232-13185	EENIKJPO_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c16805-16242	EENIKJPO_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c17250-16849	EENIKJPO_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c17839-17306	EENIKJPO_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c18568-17849	EENIKJPO_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c19915-18575	EENIKJPO_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c21022-19919	EENIKJPO_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c21737-21033	EENIKJPO_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c22126-21773	EENIKJPO_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	DNA primase TraC	NODE_34_length_63067_cov_25.930044:c25465-22160	EENIKJPO_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c25749-25483	EENIKJPO_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	putative protein YggR	NODE_34_length_63067_cov_25.930044:c26933-25746	EENIKJPO_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c27729-26911	EENIKJPO_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c28193-27726	EENIKJPO_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c28695-28216	EENIKJPO_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c29313-28708	EENIKJPO_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c29654-29427	EENIKJPO_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:30264-31106	EENIKJPO_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:31166-32095	EENIKJPO_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:32088-32582	EENIKJPO_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	Autoinducer 2 sensor kinase/phosphatase LuxQ	NODE_34_length_63067_cov_25.930044:32579-34273	EENIKJPO_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	Protein TraI	NODE_34_length_63067_cov_25.930044:c36482-34554	EENIKJPO_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	Protein TraJ	NODE_34_length_63067_cov_25.930044:c36796-36485	EENIKJPO_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:37194-37505	EENIKJPO_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c37694-37563	EENIKJPO_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c38117-37797	EENIKJPO_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c38404-38171	EENIKJPO_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c38845-38561	EENIKJPO_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	Antirestriction protein KlcA	NODE_34_length_63067_cov_25.930044:c39329-38889	EENIKJPO_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c39834-39529	EENIKJPO_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c40306-39896	EENIKJPO_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c40627-40391	EENIKJPO_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c40813-40700	EENIKJPO_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	Modulating protein YmoA	NODE_34_length_63067_cov_25.930044:c41156-40926	EENIKJPO_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c41592-41254	EENIKJPO_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c42642-41782	EENIKJPO_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c42894-42715	EENIKJPO_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c43803-43537	EENIKJPO_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c44297-43848	EENIKJPO_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c44912-44415	EENIKJPO_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c45411-44905	EENIKJPO_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	Protein StbB	NODE_34_length_63067_cov_25.930044:c46035-45592	EENIKJPO_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	Plasmid segregation protein ParM	NODE_34_length_63067_cov_25.930044:c47012-46038	EENIKJPO_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	Tyrosine recombinase XerD	NODE_34_length_63067_cov_25.930044:c47993-47253	EENIKJPO_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c48545-48060	EENIKJPO_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c48637-48542	EENIKJPO_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c48878-48630	EENIKJPO_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:49018-49113	EENIKJPO_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:49663-50721	EENIKJPO_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:50714-50923	EENIKJPO_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:50995-51279	EENIKJPO_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c52060-51419	EENIKJPO_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:52296-52625	EENIKJPO_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	Antitoxin HigA1	NODE_34_length_63067_cov_25.930044:52606-52887	EENIKJPO_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	Protein UmuC	NODE_34_length_63067_cov_25.930044:c53510-53034	EENIKJPO_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:53705-54250	EENIKJPO_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	DNA-invertase hin	NODE_34_length_63067_cov_25.930044:54387-54959	EENIKJPO_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:54996-56387	EENIKJPO_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	DNA-invertase hin	NODE_34_length_63067_cov_25.930044:56411-56848	EENIKJPO_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	Pentapeptide repeat protein	NODE_34_length_63067_cov_25.930044:c57823-57167	EENIKJPO_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:58191-58382	EENIKJPO_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c58556-58389	EENIKJPO_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:58715-59371	EENIKJPO_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	Beta-lactamase TEM	NODE_34_length_63067_cov_25.930044:c60277-59420	EENIKJPO_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	Peptidoglycan D,D-transpeptidase FtsI	NODE_34_length_63067_cov_25.930044:c61367-60342	EENIKJPO_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:CDS	hypothetical protein	NODE_34_length_63067_cov_25.930044:c63041-61452	EENIKJPO_00078
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044:Annotated using prokka 1.13 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::4 protein sequences are shorter than 50 aa.
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_37 (length 43)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_45 (length 37)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_58 (length 31)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_60 (length 31)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044 (length 63067)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044 (length 63067)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044 (length 63067)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044 (length 63067)
+
+DiscRep_ALL:MISSING_PROJECT::79 sequences do not include project.
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044 (length 63067)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_1 (length 204)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_2 (length 93)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_3 (length 208)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_4 (length 83)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_5 (length 177)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_6 (length 730)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_7 (length 363)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_8 (length 472)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_9 (length 207)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_10 (length 714)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_11 (length 193)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_12 (length 398)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_13 (length 1015)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_14 (length 187)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_15 (length 133)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_16 (length 177)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_17 (length 239)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_18 (length 446)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_19 (length 367)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_20 (length 234)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_21 (length 117)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_22 (length 1101)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_23 (length 88)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_24 (length 395)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_25 (length 272)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_26 (length 155)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_27 (length 159)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_28 (length 201)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_29 (length 75)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_30 (length 280)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_31 (length 309)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_32 (length 164)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_33 (length 564)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_34 (length 642)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_35 (length 103)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_36 (length 103)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_37 (length 43)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_38 (length 106)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_39 (length 77)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_40 (length 94)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_41 (length 146)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_42 (length 101)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_43 (length 136)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_44 (length 78)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_45 (length 37)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_46 (length 76)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_47 (length 112)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_48 (length 286)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_49 (length 59)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_50 (length 88)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_51 (length 149)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_52 (length 165)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_53 (length 168)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_54 (length 147)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_55 (length 324)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_56 (length 246)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_57 (length 161)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_58 (length 31)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_59 (length 82)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_60 (length 31)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_61 (length 352)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_62 (length 69)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_63 (length 94)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_64 (length 213)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_65 (length 109)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_66 (length 93)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_67 (length 158)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_68 (length 181)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_69 (length 190)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_70 (length 463)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_71 (length 145)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_72 (length 218)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_73 (length 63)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_74 (length 55)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_75 (length 218)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_76 (length 285)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_77 (length 341)
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044_78 (length 529)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pKP508BN34/pKP508BN34:NODE_34_length_63067_cov_25.930044 (length 63067)
+
+DiscRep_ALL:SEQ_ID_PHRASES::Sequence Ids contain unacceptable phrases (cov_, length, node, paired, or trimmed)
+

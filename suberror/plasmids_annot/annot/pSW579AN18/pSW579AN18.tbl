@@ -1,0 +1,142 @@
+>Feature NODE_18_length_24824_cov_61.573873
+438	211	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NLAABJDB_00001
+			product	hypothetical protein
+567	445	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NLAABJDB_00002
+			product	hypothetical protein
+1243	1064	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NLAABJDB_00003
+			product	hypothetical protein
+2157	1795	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NLAABJDB_00004
+			product	hypothetical protein
+2280	2966	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NLAABJDB_00005
+			product	hypothetical protein
+3369	3235	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P85219
+			locus_tag	NLAABJDB_00006
+			product	Hemolysin H1C
+3711	3601	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NLAABJDB_00007
+			product	hypothetical protein
+5217	3721	CDS
+			EC_number	1.1.5.4
+			gene	mqo2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P99115
+			locus_tag	NLAABJDB_00008
+			product	putative malate:quinone oxidoreductase 2
+5774	5436	CDS
+			dbxref	COG:COG1733
+			gene	hxlR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P42406
+			locus_tag	NLAABJDB_00009
+			product	HTH-type transcriptional activator HxlR
+5877	6512	CDS
+			EC_number	4.1.2.43
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A774
+			locus_tag	NLAABJDB_00010
+			product	3-hexulose-6-phosphate synthase
+6601	7119	CDS
+			dbxref	COG:COG0693
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A0K0
+			locus_tag	NLAABJDB_00011
+			product	putative protein
+7883	8017	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NLAABJDB_00012
+			product	hypothetical protein
+9107	8997	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NLAABJDB_00013
+			product	hypothetical protein
+10239	9304	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NLAABJDB_00014
+			product	hypothetical protein
+10680	11447	CDS
+			gene	racA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01170
+			locus_tag	NLAABJDB_00015
+			product	Chromosome-anchoring protein RacA
+11670	12356	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NLAABJDB_00016
+			product	hypothetical protein
+12635	12787	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NLAABJDB_00017
+			product	hypothetical protein
+12896	14218	CDS
+			gene	mntH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q99UZ7
+			locus_tag	NLAABJDB_00018
+			product	Divalent metal cation transporter MntH
+15111	14503	CDS
+			gene	bin3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20384
+			locus_tag	NLAABJDB_00019
+			product	Putative transposon Tn552 DNA-invertase bin3
+15820	15242	CDS
+			dbxref	COG:COG1961
+			gene	hin
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	NLAABJDB_00020
+			product	DNA-invertase hin
+16464	16084	CDS
+			gene	blaI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A042
+			locus_tag	NLAABJDB_00021
+			product	Penicillinase repressor
+18211	16454	CDS
+			gene	blaR1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P18357
+			locus_tag	NLAABJDB_00022
+			product	Regulatory protein BlaR1
+18318	19163	CDS
+			EC_number	3.5.2.6
+			gene	blaZ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00807
+			locus_tag	NLAABJDB_00023
+			product	Beta-lactamase
+20040	19492	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NLAABJDB_00024
+			product	hypothetical protein
+20890	20543	CDS
+			gene	cadC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20047
+			locus_tag	NLAABJDB_00025
+			product	Cadmium resistance transcriptional regulatory protein CadC
+21526	20909	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NLAABJDB_00026
+			product	hypothetical protein
+22838	22656	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NLAABJDB_00027
+			product	hypothetical protein
+22919	23203	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NLAABJDB_00028
+			product	hypothetical protein

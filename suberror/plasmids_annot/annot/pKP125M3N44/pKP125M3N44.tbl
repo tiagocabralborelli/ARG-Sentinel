@@ -1,0 +1,291 @@
+>Feature NODE_44_length_43061_cov_24.463410
+283	561	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00001
+			product	hypothetical protein
+675	1097	CDS
+			gene	klcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52603
+			locus_tag	LONAPIGH_00002
+			product	Antirestriction protein KlcA
+1225	1380	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00003
+			product	hypothetical protein
+1426	1722	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00004
+			product	hypothetical protein
+1727	2707	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00005
+			product	hypothetical protein
+3838	2957	CDS
+			EC_number	3.5.2.6
+			gene	bla
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F663
+			locus_tag	LONAPIGH_00006
+			product	Carbapenem-hydrolyzing beta-lactamase KPC
+4704	4147	CDS
+			gene	tnpR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADI2
+			locus_tag	LONAPIGH_00007
+			product	Transposon Tn3 resolvase
+5853	4885	CDS
+			gene	bin3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20384
+			locus_tag	LONAPIGH_00008
+			product	Putative transposon Tn552 DNA-invertase bin3
+6235	6903	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_02040
+			locus_tag	LONAPIGH_00009
+			product	Iron-sulfur cluster carrier protein
+6915	7130	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00010
+			product	hypothetical protein
+7219	7503	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00011
+			product	hypothetical protein
+7529	8011	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00012
+			product	hypothetical protein
+8236	8490	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00013
+			product	hypothetical protein
+8840	8487	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00014
+			product	hypothetical protein
+9471	9028	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00015
+			product	hypothetical protein
+10352	9480	CDS
+			gene	pir
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03067
+			locus_tag	LONAPIGH_00016
+			product	PI protein
+11682	12197	CDS
+			gene	dnaJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01152
+			locus_tag	LONAPIGH_00017
+			product	Chaperone protein DnaJ
+12256	12492	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00018
+			product	hypothetical protein
+12553	13104	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00019
+			product	hypothetical protein
+13113	13382	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00020
+			product	hypothetical protein
+13372	13614	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00021
+			product	hypothetical protein
+13708	14046	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00022
+			product	hypothetical protein
+14121	14285	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00023
+			product	hypothetical protein
+14282	14539	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00024
+			product	hypothetical protein
+14879	15424	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00025
+			product	hypothetical protein
+15427	16587	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00026
+			product	hypothetical protein
+16941	17450	CDS
+			dbxref	COG:COG0250
+			gene	rfaH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q0TAL4
+			locus_tag	LONAPIGH_00027
+			product	Transcription antitermination protein RfaH
+17401	17628	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00028
+			product	hypothetical protein
+17674	18318	CDS
+			gene	virB1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPY4
+			locus_tag	LONAPIGH_00029
+			product	Type IV secretion system protein virB1
+18302	18592	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00030
+			product	hypothetical protein
+18617	21370	CDS
+			gene	virB4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPY1
+			locus_tag	LONAPIGH_00031
+			product	Type IV secretion system protein virB4
+21381	22151	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00032
+			product	hypothetical protein
+22161	22418	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00033
+			product	hypothetical protein
+22430	23485	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00034
+			product	hypothetical protein
+23680	24408	CDS
+			gene	virB8
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7CEG3
+			locus_tag	LONAPIGH_00035
+			product	Type IV secretion system protein virB8
+24414	25343	CDS
+			gene	virB9
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPX6
+			locus_tag	LONAPIGH_00036
+			product	Type IV secretion system protein virB9
+25340	26542	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPX5
+			locus_tag	LONAPIGH_00037
+			product	Type IV secretion system protein virB10
+26554	27585	CDS
+			dbxref	COG:COG0630
+			gene	ptlH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7VSX3
+			locus_tag	LONAPIGH_00038
+			product	Type IV secretion system protein PtlH
+27588	27785	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00039
+			product	hypothetical protein
+27775	29610	CDS
+			gene	virD4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P18594
+			locus_tag	LONAPIGH_00040
+			product	Protein VirD4
+29607	29999	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00041
+			product	hypothetical protein
+30087	30401	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00042
+			product	hypothetical protein
+30424	30810	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00043
+			product	hypothetical protein
+30804	31220	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00044
+			product	hypothetical protein
+31217	31690	CDS
+			EC_number	3.1.31.-
+			dbxref	COG:COG0737
+			gene	yhcR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54602
+			locus_tag	LONAPIGH_00045
+			product	Endonuclease YhcR
+31772	32545	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00046
+			product	hypothetical protein
+32556	33146	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00047
+			product	hypothetical protein
+33157	33552	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00048
+			product	hypothetical protein
+33562	35889	CDS
+			EC_number	5.99.1.2
+			dbxref	COG:COG0550
+			gene	topB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14294
+			locus_tag	LONAPIGH_00049
+			product	DNA topoisomerase 3
+35901	36356	CDS
+			dbxref	COG:COG2916
+			gene	stpA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ACG1
+			locus_tag	LONAPIGH_00050
+			product	DNA-binding protein StpA
+36413	36820	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00051
+			product	hypothetical protein
+37034	37213	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00052
+			product	hypothetical protein
+37210	38034	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00053
+			product	hypothetical protein
+38145	38399	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00054
+			product	hypothetical protein
+38417	38692	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00055
+			product	hypothetical protein
+38689	38967	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00056
+			product	hypothetical protein
+40422	40661	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	LONAPIGH_00057
+			product	hypothetical protein
+41175	40849	CDS
+			gene	xerD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A0P0
+			locus_tag	LONAPIGH_00058
+			product	Tyrosine recombinase XerD
+41826	41290	CDS
+			dbxref	COG:COG0582
+			gene	xerH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O25386
+			locus_tag	LONAPIGH_00059
+			product	Tyrosine recombinase XerH
+42149	42673	CDS
+			EC_number	2.3.1.210
+			gene	wecD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_02027
+			locus_tag	LONAPIGH_00060
+			product	dTDP-fucosamine acetyltransferase

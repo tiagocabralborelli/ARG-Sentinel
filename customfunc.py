@@ -50,6 +50,7 @@ def parsnp (df,org, dirr, name):
     for c in df.itertuples():
         if c.specie == org:
             os.system(f'cp {c.path} {dirr}/{name}')
+            
 def convert_to_fasta (path):
     """Convert genbanks files into fasta
     ->Pam path: genbank files path""" 
@@ -168,16 +169,13 @@ def cataloger (path):
     df.drop_duplicates('accession', inplace = True)
     df.to_csv('catalogo_teste.csv')
     return df.head()
+
 def filldf (target,source):
-
-
-
-    
     """Preenche os dataframes criados pelo abricate com informações adicionais dos arquivos genbank
     ->Pam target: dataframe a ser preechido.
     ->Pam source: dataframe com as informações adicionais"""
+    
     target.set_index('file', inplace = True)
-
     target['colection_date'] = None #ok
     target['host'] = None
     target["source"] = None #ok
@@ -198,12 +196,40 @@ def filldf (target,source):
             target.loc[i.accession,['plasmid']] = i.plasmid
             target.loc[i.accession,['colection_date']] = i.colection_date
     return target
-def CoodToNum (coords):
+
+def SplitCoords (df, coord):
     """
-    Change coordenates writen with cardinal points to numeric
-    >>>> y S == -y
-    >>>> x W == -x
-    >>>> y N ==  y 
-    >>>> x E ==  x
+    Split coordenates intos two new coluns
+    
     """  
-    pass
+    if coord == "lat":
+        df['lat'] = df.coordenates.apply(lambda x: x.split(" ")[0:2])
+    if coord == "lon":
+        df['lon'] = df.coordenates.apply(lambda x: x.split(" ")[2:4])    
+    return df
+
+def NumCoord (x):
+    """Convert string coordenates into numeric
+    >>>> lat S == -lat
+    >>>> lon W == -lon
+    >>>> lat N ==  lat 
+    >>>> lon E ==  lon
+    """
+
+    if "S" in x:
+        x.remove("S")
+        x = -float(x[0])
+        
+    elif "N" in x:
+        x.remove("N")
+        x = float(x[0]) 
+        
+    elif "W" in x:
+        x.remove("W")
+        x = -float(x[0])
+        
+    elif "E" in x:
+        x.remove("E")
+        x = float(x[0])
+    
+    return x

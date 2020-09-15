@@ -1,0 +1,808 @@
+>Feature NODE_15_length_136795_cov_22.099162
+277	80	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00001
+			product	hypothetical protein
+766	326	CDS
+			gene	virB9
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RPX6
+			locus_tag	KLAOMLMB_00002
+			product	Type IV secretion system protein virB9
+1094	777	CDS
+			gene	virB8
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7CEG3
+			locus_tag	KLAOMLMB_00003
+			product	Type IV secretion system protein virB8
+1521	1033	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00004
+			product	hypothetical protein
+2096	1533	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00005
+			product	hypothetical protein
+2517	2089	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00006
+			product	hypothetical protein
+2861	2514	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00007
+			product	hypothetical protein
+4045	2873	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00008
+			product	hypothetical protein
+4318	4055	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00009
+			product	hypothetical protein
+6004	4337	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00010
+			product	hypothetical protein
+6376	6026	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00011
+			product	hypothetical protein
+6657	6376	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00012
+			product	hypothetical protein
+6993	6799	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00013
+			product	hypothetical protein
+7434	7042	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00014
+			product	hypothetical protein
+7768	7439	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00015
+			product	hypothetical protein
+7920	7774	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00016
+			product	hypothetical protein
+9387	7924	CDS
+			EC_number	3.4.24.-
+			gene	ftsH3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P72991
+			locus_tag	KLAOMLMB_00017
+			product	ATP-dependent zinc metalloprotease FtsH 3
+10393	9461	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00018
+			product	hypothetical protein
+10851	10588	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00019
+			product	hypothetical protein
+11452	10955	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00020
+			product	hypothetical protein
+11943	11455	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00021
+			product	hypothetical protein
+12040	12375	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00022
+			product	hypothetical protein
+12860	12390	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00023
+			product	hypothetical protein
+13224	12853	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00024
+			product	hypothetical protein
+13429	13235	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00025
+			product	hypothetical protein
+14318	13770	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00026
+			product	hypothetical protein
+14481	14831	CDS
+			dbxref	COG:COG4683
+			gene	higB2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O53468
+			locus_tag	KLAOMLMB_00027
+			product	Putative toxin HigB2
+14836	15138	CDS
+			dbxref	COG:COG1396
+			gene	higA1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WJA7
+			locus_tag	KLAOMLMB_00028
+			product	Antitoxin HigA1
+15458	15165	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00029
+			product	hypothetical protein
+15818	15546	CDS
+			dbxref	COG:COG0776
+			gene	hupB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ACF4
+			locus_tag	KLAOMLMB_00030
+			product	DNA-binding protein HU-beta
+16403	15876	CDS
+			EC_number	3.1.-.-
+			dbxref	COG:COG1525
+			gene	yncB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P94492
+			locus_tag	KLAOMLMB_00031
+			product	Endonuclease YncB
+16608	16420	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00032
+			product	hypothetical protein
+17491	16634	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00033
+			product	hypothetical protein
+17705	17478	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00034
+			product	hypothetical protein
+18226	17708	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00035
+			product	hypothetical protein
+18669	18223	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00036
+			product	hypothetical protein
+19028	18669	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00037
+			product	hypothetical protein
+19513	19085	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00038
+			product	hypothetical protein
+20407	19547	CDS
+			dbxref	COG:COG1651
+			gene	bdbD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O32218
+			locus_tag	KLAOMLMB_00039
+			product	Disulfide bond formation protein D
+21382	20423	CDS
+			EC_number	3.4.21.-
+			dbxref	COG:COG0616
+			gene	sppA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34525
+			locus_tag	KLAOMLMB_00040
+			product	Putative signal peptide peptidase SppA
+22236	21382	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00041
+			product	hypothetical protein
+22555	22241	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00042
+			product	hypothetical protein
+23018	22545	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00043
+			product	hypothetical protein
+23636	23115	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00044
+			product	hypothetical protein
+24160	23639	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00045
+			product	hypothetical protein
+24773	24165	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00046
+			product	hypothetical protein
+25042	26157	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00047
+			product	hypothetical protein
+26175	26609	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00048
+			product	hypothetical protein
+27300	27019	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00049
+			product	hypothetical protein
+28746	27646	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00050
+			product	hypothetical protein
+29018	28731	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00051
+			product	hypothetical protein
+29562	29023	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00052
+			product	hypothetical protein
+30061	31044	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00053
+			product	hypothetical protein
+31061	31354	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00054
+			product	hypothetical protein
+31356	31775	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00055
+			product	hypothetical protein
+32386	31835	CDS
+			gene	flhC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01891
+			locus_tag	KLAOMLMB_00056
+			product	Flagellar transcriptional regulator FlhC
+32991	32383	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00057
+			product	hypothetical protein
+33535	33002	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00058
+			product	hypothetical protein
+33807	33535	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00059
+			product	hypothetical protein
+34523	34885	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00060
+			product	hypothetical protein
+38537	34923	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00061
+			product	hypothetical protein
+39983	38550	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00062
+			product	hypothetical protein
+41025	39985	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00063
+			product	hypothetical protein
+42647	41136	CDS
+			EC_number	3.6.4.12
+			gene	addA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01451
+			locus_tag	KLAOMLMB_00064
+			product	ATP-dependent helicase/nuclease subunit A
+42934	42656	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00065
+			product	hypothetical protein
+43974	42934	CDS
+			gene	smc
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01894
+			locus_tag	KLAOMLMB_00066
+			product	Chromosome partition protein Smc
+45011	44136	CDS
+			gene	tus
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P16525
+			locus_tag	KLAOMLMB_00067
+			product	DNA replication terminus site-binding protein
+45829	45338	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00068
+			product	hypothetical protein
+46695	45826	CDS
+			EC_number	2.7.7.7
+			dbxref	COG:COG0847
+			gene	dnaQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03007
+			locus_tag	KLAOMLMB_00069
+			product	DNA polymerase III subunit epsilon
+47710	46700	CDS
+			dbxref	COG:COG4974
+			gene	xerD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31206
+			locus_tag	KLAOMLMB_00070
+			product	Tyrosine recombinase XerD
+48249	47713	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00071
+			product	hypothetical protein
+48529	48242	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00072
+			product	hypothetical protein
+48829	48548	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00073
+			product	hypothetical protein
+49091	49693	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00074
+			product	hypothetical protein
+50161	49709	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00075
+			product	hypothetical protein
+50663	50328	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00076
+			product	hypothetical protein
+50917	50675	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00077
+			product	hypothetical protein
+51194	50922	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00078
+			product	hypothetical protein
+55453	51191	CDS
+			EC_number	3.1.-.-
+			dbxref	COG:COG3209
+			gene	rhsC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:E0SGL7
+			locus_tag	KLAOMLMB_00079
+			product	Putative deoxyribonuclease RhsC
+56311	55586	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00080
+			product	hypothetical protein
+56799	56425	CDS
+			gene	matP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01073
+			locus_tag	KLAOMLMB_00081
+			product	Macrodomain Ter protein
+57036	56920	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00082
+			product	hypothetical protein
+57285	57046	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00083
+			product	hypothetical protein
+57636	57358	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00084
+			product	hypothetical protein
+59350	57623	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00085
+			product	hypothetical protein
+59914	59528	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00086
+			product	hypothetical protein
+60167	60021	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00087
+			product	hypothetical protein
+61223	60372	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00088
+			product	hypothetical protein
+61855	61298	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00089
+			product	hypothetical protein
+62147	61929	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00090
+			product	hypothetical protein
+62430	62161	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00091
+			product	hypothetical protein
+63028	62423	CDS
+			EC_number	3.1.3.89
+			dbxref	COG:COG1896
+			gene	yfbR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P76491
+			locus_tag	KLAOMLMB_00092
+			product	5'-deoxynucleotidase YfbR
+63302	63123	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00093
+			product	hypothetical protein
+65957	63504	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00094
+			product	hypothetical protein
+66431	66045	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00095
+			product	hypothetical protein
+67218	66664	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00096
+			product	hypothetical protein
+67723	67292	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00097
+			product	hypothetical protein
+69409	67784	CDS
+			EC_number	2.1.1.37
+			gene	hhaIM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P05102
+			locus_tag	KLAOMLMB_00098
+			product	Modification methylase HhaI
+69789	69487	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00099
+			product	hypothetical protein
+70211	69867	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00100
+			product	hypothetical protein
+70756	70403	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00101
+			product	hypothetical protein
+71016	70825	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00102
+			product	hypothetical protein
+71349	71074	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00103
+			product	hypothetical protein
+71806	71354	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00104
+			product	hypothetical protein
+72185	71796	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00105
+			product	hypothetical protein
+72471	72247	CDS
+			dbxref	COG:COG0633
+			gene	ycbX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75863
+			locus_tag	KLAOMLMB_00106
+			product	putative protein YcbX
+73421	72537	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00107
+			product	hypothetical protein
+73995	73495	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00108
+			product	hypothetical protein
+74625	74086	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00109
+			product	hypothetical protein
+75225	74890	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00110
+			product	hypothetical protein
+77083	75287	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00111
+			product	hypothetical protein
+78445	77168	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00112
+			product	hypothetical protein
+79655	78645	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00113
+			product	hypothetical protein
+80749	79718	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00114
+			product	hypothetical protein
+81329	80802	CDS
+			gene	ssb
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P25762
+			locus_tag	KLAOMLMB_00115
+			product	Single-stranded DNA-binding protein
+82301	81393	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00116
+			product	hypothetical protein
+83280	82312	CDS
+			EC_number	6.6.1.2
+			gene	cobS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P29933
+			locus_tag	KLAOMLMB_00117
+			product	Aerobic cobaltochelatase subunit CobS
+83685	83500	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00118
+			product	hypothetical protein
+83894	83802	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00119
+			product	hypothetical protein
+84309	83989	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00120
+			product	hypothetical protein
+84603	85244	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00121
+			product	hypothetical protein
+85367	86227	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00122
+			product	hypothetical protein
+89064	86266	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00123
+			product	hypothetical protein
+90187	89180	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00124
+			product	hypothetical protein
+90855	90184	CDS
+			EC_number	3.1.4.52
+			gene	pdeF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P77172
+			locus_tag	KLAOMLMB_00125
+			product	Cyclic di-GMP phosphodiesterase PdeF
+92117	90852	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00126
+			product	hypothetical protein
+92610	92080	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00127
+			product	hypothetical protein
+92924	92607	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00128
+			product	hypothetical protein
+95386	92939	CDS
+			gene	traC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P18004
+			locus_tag	KLAOMLMB_00129
+			product	Protein TraC
+96090	95383	CDS
+			dbxref	COG:COG1651
+			gene	dsbC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P55890
+			locus_tag	KLAOMLMB_00130
+			product	Thiol:disulfide interchange protein DsbC
+101770	96239	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00131
+			product	hypothetical protein
+102354	101971	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00132
+			product	hypothetical protein
+102945	102367	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00133
+			product	hypothetical protein
+104258	102942	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00134
+			product	hypothetical protein
+105172	104255	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00135
+			product	hypothetical protein
+105782	105156	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00136
+			product	hypothetical protein
+106060	105779	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00137
+			product	hypothetical protein
+106582	106205	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00138
+			product	hypothetical protein
+106725	106582	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00139
+			product	hypothetical protein
+107568	106906	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00140
+			product	hypothetical protein
+107945	107568	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00141
+			product	hypothetical protein
+108401	107955	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00142
+			product	hypothetical protein
+109040	108411	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00143
+			product	hypothetical protein
+109542	108997	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00144
+			product	hypothetical protein
+111457	109592	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00145
+			product	hypothetical protein
+114432	111454	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00146
+			product	hypothetical protein
+114600	115217	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00147
+			product	hypothetical protein
+115199	115432	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00148
+			product	hypothetical protein
+115432	117624	CDS
+			EC_number	5.99.1.2
+			dbxref	COG:COG0550
+			gene	topB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14294
+			locus_tag	KLAOMLMB_00149
+			product	DNA topoisomerase 3
+117639	118127	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00150
+			product	hypothetical protein
+118497	118219	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00151
+			product	hypothetical protein
+118729	118523	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00152
+			product	hypothetical protein
+119347	118730	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00153
+			product	hypothetical protein
+119659	119441	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00154
+			product	hypothetical protein
+119926	119663	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00155
+			product	hypothetical protein
+120521	119865	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00156
+			product	hypothetical protein
+121948	120521	CDS
+			EC_number	2.1.1.37
+			dbxref	COG:COG0270
+			gene	ydiO
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34939
+			locus_tag	KLAOMLMB_00157
+			product	putative BsuMI modification methylase subunit YdiO
+122452	121952	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00158
+			product	hypothetical protein
+122793	122461	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00159
+			product	hypothetical protein
+123284	122778	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00160
+			product	hypothetical protein
+123951	123277	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00161
+			product	hypothetical protein
+124207	123926	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00162
+			product	hypothetical protein
+124577	124200	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00163
+			product	hypothetical protein
+124896	125039	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00164
+			product	hypothetical protein
+125131	125766	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00165
+			product	hypothetical protein
+126091	125819	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00166
+			product	hypothetical protein
+127321	126140	CDS
+			gene	korB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07674
+			locus_tag	KLAOMLMB_00167
+			product	Transcriptional repressor protein KorB
+128110	127325	CDS
+			EC_number	3.6.-.-
+			dbxref	COG:COG1192
+			gene	soj
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37522
+			locus_tag	KLAOMLMB_00168
+			product	Sporulation initiation inhibitor protein Soj
+128595	128284	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00169
+			product	hypothetical protein
+128902	129717	CDS
+			EC_number	2.5.1.15
+			dbxref	COG:COG0294
+			gene	folP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AC13
+			locus_tag	KLAOMLMB_00170
+			product	Dihydropteroate synthase
+129804	130106	CDS
+			EC_number	5.4.2.10
+			dbxref	COG:COG1109
+			gene	glmM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P25177
+			locus_tag	KLAOMLMB_00171
+			product	Phosphoglucosamine mutase
+131781	130282	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00172
+			product	hypothetical protein
+132242	133114	CDS
+			EC_number	2.1.1.-
+			gene	ermD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q03986
+			locus_tag	KLAOMLMB_00173
+			product	rRNA adenine N-6-methyltransferase
+134948	133455	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00174
+			product	hypothetical protein
+135383	135159	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00175
+			product	hypothetical protein
+136117	135380	CDS
+			gene	bin3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20384
+			locus_tag	KLAOMLMB_00176
+			product	Putative transposon Tn552 DNA-invertase bin3
+136224	136715	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KLAOMLMB_00177
+			product	hypothetical protein

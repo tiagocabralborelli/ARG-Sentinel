@@ -1,0 +1,79 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EENIKJPO_00001	CDS	615				hypothetical protein
+EENIKJPO_00002	CDS	282				hypothetical protein
+EENIKJPO_00003	CDS	627				hypothetical protein
+EENIKJPO_00004	CDS	252				hypothetical protein
+EENIKJPO_00005	CDS	534	pld	3.1.4.4		Phospholipase D
+EENIKJPO_00006	CDS	2193				hypothetical protein
+EENIKJPO_00007	CDS	1092				hypothetical protein
+EENIKJPO_00008	CDS	1419				hypothetical protein
+EENIKJPO_00009	CDS	624				hypothetical protein
+EENIKJPO_00010	CDS	2145				hypothetical protein
+EENIKJPO_00011	CDS	582				hypothetical protein
+EENIKJPO_00012	CDS	1197				hypothetical protein
+EENIKJPO_00013	CDS	3048				hypothetical protein
+EENIKJPO_00014	CDS	564				hypothetical protein
+EENIKJPO_00015	CDS	402				hypothetical protein
+EENIKJPO_00016	CDS	534				hypothetical protein
+EENIKJPO_00017	CDS	720				hypothetical protein
+EENIKJPO_00018	CDS	1341				hypothetical protein
+EENIKJPO_00019	CDS	1104				hypothetical protein
+EENIKJPO_00020	CDS	705				hypothetical protein
+EENIKJPO_00021	CDS	354				hypothetical protein
+EENIKJPO_00022	CDS	3306	traC	2.7.7.-		DNA primase TraC
+EENIKJPO_00023	CDS	267				hypothetical protein
+EENIKJPO_00024	CDS	1188	yggR		COG2805	putative protein YggR
+EENIKJPO_00025	CDS	819				hypothetical protein
+EENIKJPO_00026	CDS	468				hypothetical protein
+EENIKJPO_00027	CDS	480				hypothetical protein
+EENIKJPO_00028	CDS	606				hypothetical protein
+EENIKJPO_00029	CDS	228				hypothetical protein
+EENIKJPO_00030	CDS	843				hypothetical protein
+EENIKJPO_00031	CDS	930				hypothetical protein
+EENIKJPO_00032	CDS	495				hypothetical protein
+EENIKJPO_00033	CDS	1695	luxQ	2.7.13.3		Autoinducer 2 sensor kinase/phosphatase LuxQ
+EENIKJPO_00034	CDS	1929	traI			Protein TraI
+EENIKJPO_00035	CDS	312	traJ			Protein TraJ
+EENIKJPO_00036	CDS	312				hypothetical protein
+EENIKJPO_00037	CDS	132				hypothetical protein
+EENIKJPO_00038	CDS	321				hypothetical protein
+EENIKJPO_00039	CDS	234				hypothetical protein
+EENIKJPO_00040	CDS	285				hypothetical protein
+EENIKJPO_00041	CDS	441	klcA			Antirestriction protein KlcA
+EENIKJPO_00042	CDS	306				hypothetical protein
+EENIKJPO_00043	CDS	411				hypothetical protein
+EENIKJPO_00044	CDS	237				hypothetical protein
+EENIKJPO_00045	CDS	114				hypothetical protein
+EENIKJPO_00046	CDS	231	ymoA			Modulating protein YmoA
+EENIKJPO_00047	CDS	339				hypothetical protein
+EENIKJPO_00048	CDS	861				hypothetical protein
+EENIKJPO_00049	CDS	180				hypothetical protein
+EENIKJPO_00050	CDS	267				hypothetical protein
+EENIKJPO_00051	CDS	450				hypothetical protein
+EENIKJPO_00052	CDS	498				hypothetical protein
+EENIKJPO_00053	CDS	507				hypothetical protein
+EENIKJPO_00054	CDS	444	stbB			Protein StbB
+EENIKJPO_00055	CDS	975	parM			Plasmid segregation protein ParM
+EENIKJPO_00056	CDS	741	xerD			Tyrosine recombinase XerD
+EENIKJPO_00057	CDS	486				hypothetical protein
+EENIKJPO_00058	CDS	96				hypothetical protein
+EENIKJPO_00059	CDS	249				hypothetical protein
+EENIKJPO_00060	CDS	96				hypothetical protein
+EENIKJPO_00061	CDS	1059				hypothetical protein
+EENIKJPO_00062	CDS	210				hypothetical protein
+EENIKJPO_00063	CDS	285				hypothetical protein
+EENIKJPO_00064	CDS	642				hypothetical protein
+EENIKJPO_00065	CDS	330				hypothetical protein
+EENIKJPO_00066	CDS	282	higA1		COG1396	Antitoxin HigA1
+EENIKJPO_00067	CDS	477	umuC		COG0389	Protein UmuC
+EENIKJPO_00068	CDS	546				hypothetical protein
+EENIKJPO_00069	CDS	573	hin_1		COG1961	DNA-invertase hin
+EENIKJPO_00070	CDS	1392				hypothetical protein
+EENIKJPO_00071	CDS	438	hin_2		COG1961	DNA-invertase hin
+EENIKJPO_00072	CDS	657			COG1357	Pentapeptide repeat protein
+EENIKJPO_00073	CDS	192				hypothetical protein
+EENIKJPO_00074	CDS	168				hypothetical protein
+EENIKJPO_00075	CDS	657				hypothetical protein
+EENIKJPO_00076	CDS	858	bla	3.5.2.6		Beta-lactamase TEM
+EENIKJPO_00077	CDS	1026	ftsI	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase FtsI
+EENIKJPO_00078	CDS	1590				hypothetical protein

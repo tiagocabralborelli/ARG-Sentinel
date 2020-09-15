@@ -1,0 +1,263 @@
+>Feature NODE_37_length_43294_cov_12.460632
+803	369	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00001
+			product	hypothetical protein
+1038	817	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00002
+			product	hypothetical protein
+1722	1039	CDS
+			EC_number	2.1.1.72
+			dbxref	COG:COG0863
+			gene	yhdJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28638
+			locus_tag	CAFGOAIM_00003
+			product	DNA adenine methyltransferase YhdJ
+3032	2106	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00004
+			product	hypothetical protein
+3426	3674	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00005
+			product	hypothetical protein
+3671	4108	CDS
+			EC_number	3.4.21.-
+			dbxref	COG:COG1974
+			gene	umuD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AG11
+			locus_tag	CAFGOAIM_00006
+			product	Protein UmuD
+4108	5382	CDS
+			dbxref	COG:COG0389
+			gene	umuC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04152
+			locus_tag	CAFGOAIM_00007
+			product	Protein UmuC
+5800	5384	CDS
+			gene	stbB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P11906
+			locus_tag	CAFGOAIM_00008
+			product	Protein StbB
+6773	5793	CDS
+			gene	parM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P11904
+			locus_tag	CAFGOAIM_00009
+			product	Plasmid segregation protein ParM
+7495	7187	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00010
+			product	hypothetical protein
+8226	7582	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00011
+			product	hypothetical protein
+9194	8406	CDS
+			dbxref	COG:COG4974
+			gene	xerD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WF33
+			locus_tag	CAFGOAIM_00012
+			product	Tyrosine recombinase XerD
+9880	9191	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00013
+			product	hypothetical protein
+10112	9873	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00014
+			product	hypothetical protein
+10815	11072	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00015
+			product	hypothetical protein
+11072	11662	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00016
+			product	hypothetical protein
+12027	11680	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00017
+			product	hypothetical protein
+12156	12491	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00018
+			product	hypothetical protein
+13743	12508	CDS
+			gene	cia_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P06716
+			locus_tag	CAFGOAIM_00019
+			product	Colicin-Ia
+14214	13789	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00020
+			product	hypothetical protein
+14471	14788	CDS
+			gene	sugE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O69279
+			locus_tag	CAFGOAIM_00021
+			product	Quaternary ammonium compound-resistance protein SugE
+15318	14785	CDS
+			dbxref	COG:COG3040
+			gene	blc
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A901
+			locus_tag	CAFGOAIM_00022
+			product	Outer membrane lipoprotein Blc
+16557	15412	CDS
+			EC_number	3.5.2.6
+			gene	ampC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P05193
+			locus_tag	CAFGOAIM_00023
+			product	Beta-lactamase
+16954	17142	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00024
+			product	hypothetical protein
+17152	18351	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00025
+			product	hypothetical protein
+19219	18515	CDS
+			gene	cia_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P06716
+			locus_tag	CAFGOAIM_00026
+			product	Colicin-Ia
+20844	19498	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00027
+			product	hypothetical protein
+21198	21800	CDS
+			gene	proQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00749
+			locus_tag	CAFGOAIM_00028
+			product	RNA chaperone ProQ
+21856	22350	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00029
+			product	hypothetical protein
+22347	22490	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00030
+			product	hypothetical protein
+22958	22725	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00031
+			product	hypothetical protein
+23566	23093	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00032
+			product	hypothetical protein
+24531	23683	CDS
+			EC_number	2.7.7.7
+			dbxref	COG:COG0847
+			gene	dnaQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03007
+			locus_tag	CAFGOAIM_00033
+			product	DNA polymerase III subunit epsilon
+24852	24571	CDS
+			dbxref	COG:COG3668
+			gene	relE2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9A5D7
+			locus_tag	CAFGOAIM_00034
+			product	Toxin RelE2
+25118	24849	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00035
+			product	hypothetical protein
+27103	26027	CDS
+			gene	repA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q52221
+			locus_tag	CAFGOAIM_00036
+			product	Replication initiation protein
+28212	28499	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00037
+			product	hypothetical protein
+28941	29474	CDS
+			gene	rfaH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00951
+			locus_tag	CAFGOAIM_00038
+			product	Transcription antitermination protein RfaH
+29728	30411	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00039
+			product	hypothetical protein
+30425	30991	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00040
+			product	hypothetical protein
+31259	31513	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00041
+			product	hypothetical protein
+31556	32008	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00042
+			product	hypothetical protein
+32058	32648	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00043
+			product	hypothetical protein
+32682	33749	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00044
+			product	hypothetical protein
+33749	34186	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00045
+			product	hypothetical protein
+34200	35882	CDS
+			gene	bfpB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9S142
+			locus_tag	CAFGOAIM_00046
+			product	Outer membrane lipoprotein BfpB
+35875	37170	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00047
+			product	hypothetical protein
+37157	37609	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00048
+			product	hypothetical protein
+37620	39173	CDS
+			dbxref	COG:COG2804
+			gene	tcpT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P29480
+			locus_tag	CAFGOAIM_00049
+			product	Toxin coregulated pilus biosynthesis protein T
+39186	40283	CDS
+			gene	tcpE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0C6C9
+			locus_tag	CAFGOAIM_00050
+			product	Toxin coregulated pilus biosynthesis protein E
+40301	40915	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00051
+			product	hypothetical protein
+40925	41485	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00052
+			product	hypothetical protein
+41470	42126	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CAFGOAIM_00053
+			product	hypothetical protein

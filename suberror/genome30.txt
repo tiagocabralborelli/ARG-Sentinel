@@ -1,0 +1,36 @@
+SUBID     	BioProject	BioSample	Organism
+--------------------------------------------------------
+SUB7607979	PRJNA641571	SAMN15356687	Staphylococcus warneri
+
+[] We ran your sequences through our Contamination Screen. The screen found 
+contigs that need to be trimmed and/or excluded. Please adjust the 
+sequences appropriately and then resubmit your sequences. After you remove the 
+contamination, trim any Ns at the ends of the sequence and remove any sequences
+that are shorter than 200 nt and not part of a multi-component scaffold.
+
+Note that hits in eukaryotic genomes to mitochondrial sequences can be ignored 
+when specific criteria are met. Those criteria are explained below.
+
+Note that mismatches between the name of the adaptor/primer identified in the screen 
+and the sequencing technology used to generate the sequencing data should not be used 
+to discount the validity of the screen results as the adaptors/primers of many 
+different sequencing platforms share sequence similarity.
+
+
+
+[] Some of the sequences hit primers or adaptors used in Illumina or 
+454 or other sequencing strategies or platforms.  Adaptor at the 
+end of a sequence should be removed. However, if adaptors are 
+present within sequences then you should strongly consider 
+splitting the sequences at the adaptors because the adaptor sequence 
+could have been the region of overlap, causing a misassembly.
+
+
+Screened 145 sequences, 2,622,389 bp.
+1 sequence with locations to mask/trim
+
+Trim:
+Sequence name, length, span(s), apparent source
+NODE_89_length_388_cov_0.276817	388	368..388	adaptor:NGB00740.1
+
+

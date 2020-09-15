@@ -1,0 +1,61 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+LONAPIGH_00001	CDS	279				hypothetical protein
+LONAPIGH_00002	CDS	423	klcA			Antirestriction protein KlcA
+LONAPIGH_00003	CDS	156				hypothetical protein
+LONAPIGH_00004	CDS	297				hypothetical protein
+LONAPIGH_00005	CDS	981				hypothetical protein
+LONAPIGH_00006	CDS	882	bla	3.5.2.6		Carbapenem-hydrolyzing beta-lactamase KPC
+LONAPIGH_00007	CDS	558	tnpR			Transposon Tn3 resolvase
+LONAPIGH_00008	CDS	969	bin3			Putative transposon Tn552 DNA-invertase bin3
+LONAPIGH_00009	CDS	669				Iron-sulfur cluster carrier protein
+LONAPIGH_00010	CDS	216				hypothetical protein
+LONAPIGH_00011	CDS	285				hypothetical protein
+LONAPIGH_00012	CDS	483				hypothetical protein
+LONAPIGH_00013	CDS	255				hypothetical protein
+LONAPIGH_00014	CDS	354				hypothetical protein
+LONAPIGH_00015	CDS	444				hypothetical protein
+LONAPIGH_00016	CDS	873	pir			PI protein
+LONAPIGH_00017	CDS	516	dnaJ			Chaperone protein DnaJ
+LONAPIGH_00018	CDS	237				hypothetical protein
+LONAPIGH_00019	CDS	552				hypothetical protein
+LONAPIGH_00020	CDS	270				hypothetical protein
+LONAPIGH_00021	CDS	243				hypothetical protein
+LONAPIGH_00022	CDS	339				hypothetical protein
+LONAPIGH_00023	CDS	165				hypothetical protein
+LONAPIGH_00024	CDS	258				hypothetical protein
+LONAPIGH_00025	CDS	546				hypothetical protein
+LONAPIGH_00026	CDS	1161				hypothetical protein
+LONAPIGH_00027	CDS	510	rfaH		COG0250	Transcription antitermination protein RfaH
+LONAPIGH_00028	CDS	228				hypothetical protein
+LONAPIGH_00029	CDS	645	virB1			Type IV secretion system protein virB1
+LONAPIGH_00030	CDS	291				hypothetical protein
+LONAPIGH_00031	CDS	2754	virB4			Type IV secretion system protein virB4
+LONAPIGH_00032	CDS	771				hypothetical protein
+LONAPIGH_00033	CDS	258				hypothetical protein
+LONAPIGH_00034	CDS	1056				hypothetical protein
+LONAPIGH_00035	CDS	729	virB8			Type IV secretion system protein virB8
+LONAPIGH_00036	CDS	930	virB9			Type IV secretion system protein virB9
+LONAPIGH_00037	CDS	1203				Type IV secretion system protein virB10
+LONAPIGH_00038	CDS	1032	ptlH		COG0630	Type IV secretion system protein PtlH
+LONAPIGH_00039	CDS	198				hypothetical protein
+LONAPIGH_00040	CDS	1836	virD4			Protein VirD4
+LONAPIGH_00041	CDS	393				hypothetical protein
+LONAPIGH_00042	CDS	315				hypothetical protein
+LONAPIGH_00043	CDS	387				hypothetical protein
+LONAPIGH_00044	CDS	417				hypothetical protein
+LONAPIGH_00045	CDS	474	yhcR	3.1.31.-	COG0737	Endonuclease YhcR
+LONAPIGH_00046	CDS	774				hypothetical protein
+LONAPIGH_00047	CDS	591				hypothetical protein
+LONAPIGH_00048	CDS	396				hypothetical protein
+LONAPIGH_00049	CDS	2328	topB	5.99.1.2	COG0550	DNA topoisomerase 3
+LONAPIGH_00050	CDS	456	stpA		COG2916	DNA-binding protein StpA
+LONAPIGH_00051	CDS	408				hypothetical protein
+LONAPIGH_00052	CDS	180				hypothetical protein
+LONAPIGH_00053	CDS	825				hypothetical protein
+LONAPIGH_00054	CDS	255				hypothetical protein
+LONAPIGH_00055	CDS	276				hypothetical protein
+LONAPIGH_00056	CDS	279				hypothetical protein
+LONAPIGH_00057	CDS	240				hypothetical protein
+LONAPIGH_00058	CDS	327	xerD			Tyrosine recombinase XerD
+LONAPIGH_00059	CDS	537	xerH		COG0582	Tyrosine recombinase XerH
+LONAPIGH_00060	CDS	525	wecD	2.3.1.210		dTDP-fucosamine acetyltransferase

@@ -1,0 +1,92 @@
+[20:07:26] This is prokka 1.13
+[20:07:26] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[20:07:26] Homepage is https://github.com/tseemann/prokka
+[20:07:26] Local time is Wed Jun 24 20:07:26 2020
+[20:07:26] You are tiago
+[20:07:26] Operating system is linux
+[20:07:26] You have BioPerl 1.007002
+[20:07:26] System has 12 cores.
+[20:07:26] Will use maximum of 8 cores.
+[20:07:26] Annotating as >>> Bacteria <<<
+[20:07:26] Generating locus_tag from '/home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/pEC537BN37.fasta' contents.
+[20:07:26] Setting --locustag CAFGOAIM from MD5 caf08a269d86bc6c5d965155b3f2280d
+[20:07:26] Creating new output folder: /home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pEC537BN37
+[20:07:26] Running: mkdir -p \/home\/tiago\/documentos\/github\/ARG\-Sentinel\/suberror\/plasmids_annot\/annot\/pEC537BN37
+[20:07:26] Using filename prefix: pEC537BN37.XXX
+[20:07:26] Setting HMMER_NCPU=1
+[20:07:26] Writing log to: /home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pEC537BN37/pEC537BN37.log
+[20:07:26] Command: /home/tiago/anaconda3/bin/prokka --outdir /home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pEC537BN37 --prefix pEC537BN37 /home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/pEC537BN37.fasta
+[20:07:26] Appending to PATH: /home/tiago/anaconda3/bin
+[20:07:26] Looking for 'aragorn' - found /home/tiago/anaconda3/bin/aragorn
+[20:07:26] Determined aragorn version is 1.2
+[20:07:26] Looking for 'barrnap' - found /home/tiago/anaconda3/bin/barrnap
+[20:07:26] Determined barrnap version is 0.9
+[20:07:26] Looking for 'blastp' - found /home/tiago/anaconda3/bin/blastp
+[20:07:26] Determined blastp version is 2.9
+[20:07:26] Looking for 'cmpress' - found /home/tiago/anaconda3/bin/cmpress
+[20:07:26] Determined cmpress version is 1.1
+[20:07:26] Looking for 'cmscan' - found /home/tiago/anaconda3/bin/cmscan
+[20:07:26] Determined cmscan version is 1.1
+[20:07:26] Looking for 'egrep' - found /usr/bin/egrep
+[20:07:26] Looking for 'find' - found /usr/bin/find
+[20:07:26] Looking for 'grep' - found /usr/bin/grep
+[20:07:26] Looking for 'hmmpress' - found /home/tiago/anaconda3/bin/hmmpress
+[20:07:26] Determined hmmpress version is 3.3
+[20:07:26] Looking for 'hmmscan' - found /home/tiago/anaconda3/bin/hmmscan
+[20:07:26] Determined hmmscan version is 3.3
+[20:07:26] Looking for 'java' - found /home/tiago/anaconda3/bin/java
+[20:07:26] Looking for 'less' - found /usr/bin/less
+[20:07:26] Looking for 'makeblastdb' - found /home/tiago/anaconda3/bin/makeblastdb
+[20:07:26] Determined makeblastdb version is 2.9
+[20:07:26] Looking for 'minced' - found /home/tiago/anaconda3/bin/minced
+[20:07:26] Determined minced version is 4.2
+[20:07:26] Looking for 'parallel' - found /home/tiago/anaconda3/bin/parallel
+[20:07:26] Determined parallel version is 20160622
+[20:07:26] Looking for 'prodigal' - found /home/tiago/anaconda3/bin/prodigal
+[20:07:26] Determined prodigal version is 2.6
+[20:07:26] Looking for 'prokka-genbank_to_fasta_db' - found /home/tiago/anaconda3/bin/prokka-genbank_to_fasta_db
+[20:07:26] Looking for 'sed' - found /usr/bin/sed
+[20:07:26] Looking for 'tbl2asn' - found /home/tiago/anaconda3/bin/tbl2asn
+[20:07:26] Determined tbl2asn version is 25.7
+[20:07:26] Using genetic code table 11.
+[20:07:26] Loading and checking input file: /home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/pEC537BN37.fasta
+[20:07:26] Wrote 1 contigs totalling 43294 bp.
+[20:07:26] Predicting tRNAs and tmRNAs
+[20:07:26] Running: aragorn -l -gc11  -w \/home\/tiago\/documentos\/github\/ARG\-Sentinel\/suberror\/plasmids_annot\/annot\/pEC537BN37\/pEC537BN37\.fna
+[20:07:26] Found 0 tRNAs
+[20:07:26] Predicting Ribosomal RNAs
+[20:07:26] Running Barrnap with 8 threads
+[20:07:27] Found 0 rRNAs
+[20:07:27] Skipping ncRNA search, enable with --rfam if desired.
+[20:07:27] Total of 0 tRNA + rRNA features
+[20:07:27] Searching for CRISPR repeats
+[20:07:27] Found 0 CRISPRs
+[20:07:27] Predicting coding sequences
+[20:07:27] Contigs total 43294 bp, so using meta mode
+[20:07:27] Running: prodigal -i \/home\/tiago\/documentos\/github\/ARG\-Sentinel\/suberror\/plasmids_annot\/annot\/pEC537BN37\/pEC537BN37\.fna -c -m -g 11 -p meta -f sco -q
+[20:07:28] Found 53 CDS
+[20:07:28] Connecting features back to sequences
+[20:07:28] Not using genus-specific database. Try --usegenus to enable it.
+[20:07:28] Annotating CDS, please be patient.
+[20:07:28] Will use 8 CPUs for similarity searching.
+[20:07:28] There are still 53 unannotated CDS left (started with 53)
+[20:07:28] Will use blast to search against /home/tiago/anaconda3/bin/../db/kingdom/Bacteria/sprot with 8 CPUs
+[20:07:28] Running: cat \/home\/tiago\/documentos\/github\/ARG\-Sentinel\/suberror\/plasmids_annot\/annot\/pEC537BN37\/sprot\.faa | parallel --gnu --plain -j 8 --block 724 --recstart '>' --pipe blastp -query - -db /home/tiago/anaconda3/bin/../db/kingdom/Bacteria/sprot -evalue 1e-06 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/tiago\/documentos\/github\/ARG\-Sentinel\/suberror\/plasmids_annot\/annot\/pEC537BN37\/sprot\.blast 2> /dev/null
+[20:07:29] Deleting unwanted file: /home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pEC537BN37/sprot.faa
+[20:07:29] Deleting unwanted file: /home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pEC537BN37/sprot.blast
+[20:07:29] There are still 36 unannotated CDS left (started with 53)
+[20:07:29] Will use hmmer3 to search against /home/tiago/anaconda3/bin/../db/hmm/HAMAP.hmm with 8 CPUs
+[20:07:29] Running: cat \/home\/tiago\/documentos\/github\/ARG\-Sentinel\/suberror\/plasmids_annot\/annot\/pEC537BN37\/HAMAP\.hmm\.faa | parallel --gnu --plain -j 8 --block 406 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-06 --cpu 1 /home/tiago/anaconda3/bin/../db/hmm/HAMAP.hmm /dev/stdin > \/home\/tiago\/documentos\/github\/ARG\-Sentinel\/suberror\/plasmids_annot\/annot\/pEC537BN37\/HAMAP\.hmm\.hmmer3 2> /dev/null
+[20:07:30] Deleting unwanted file: /home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pEC537BN37/HAMAP.hmm.faa
+[20:07:30] Deleting unwanted file: /home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pEC537BN37/HAMAP.hmm.hmmer3
+[20:07:30] Labelling remaining 34 proteins as 'hypothetical protein'
+[20:07:30] Found 18 unique /gene codes.
+[20:07:30] Fixed 2 duplicate /gene - cia_1 cia_2
+[20:07:30] Fixed 1 colliding /gene names.
+[20:07:30] Adding /locus_tag identifiers
+[20:07:30] Assigned 53 locus_tags to CDS and RNA features.
+[20:07:30] Writing outputs to /home/tiago/documentos/github/ARG-Sentinel/suberror/plasmids_annot/annot/pEC537BN37/
+[20:07:30] Generating annotation statistics file
+[20:07:30] Generating Genbank and Sequin files
+[20:07:30] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.13 from https://github.com/tseemann/prokka' -Z \/home\/tiago\/documentos\/github\/ARG\-Sentinel\/suberror\/plasmids_annot\/annot\/pEC537BN37\/pEC537BN37\.err -i \/home\/tiago\/documentos\/github\/ARG\-Sentinel\/suberror\/plasmids_annot\/annot\/pEC537BN37\/pEC537BN37\.fsa 2> /dev/null
+[20:07:31] Could not run command: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.13 from https://github.com/tseemann/prokka' -Z \/home\/tiago\/documentos\/github\/ARG\-Sentinel\/suberror\/plasmids_annot\/annot\/pEC537BN37\/pEC537BN37\.err -i \/home\/tiago\/documentos\/github\/ARG\-Sentinel\/suberror\/plasmids_annot\/annot\/pEC537BN37\/pEC537BN37\.fsa 2> /dev/null

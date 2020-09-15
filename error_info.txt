@@ -1,0 +1,77 @@
+genome40.txt
+NODE_8_length_162295_cov_6.723261	162295	162267..162295	adaptor:NGB00738.1
+
+genome27.txt
+NODE_104_length_1714_cov_3.711455	1714	1..35	adaptor:NGB00729.1
+
+NODE_117_length_1112_cov_0.400790	1112	1..38	adaptor:NGB00737.1
+
+NODE_130_length_669_cov_0.407018	669	1..27	adaptor:NGB00729.1
+
+NODE_16_length_80024_cov_9.500882	80024	79978..80024	adaptor:NGB00737.1
+
+NODE_25_length_57741_cov_9.066150	57741	1..22	adaptor:NGB00729.1
+
+NODE_37_length_38740_cov_11.554644	38740	1..37	adaptor:NGB00737.1
+
+NODE_63_length_8617_cov_5.823550	8617	1..35	adaptor:NGB00729.1
+
+NODE_72_length_5308_cov_5.320791	5308	1..29	adaptor:NGB00737.1
+
+NODE_9_length_114192_cov_9.353843	114192	1..23	adaptor:NGB00729.1
+
+genome42.txt
+NODE_44_length_36300_cov_6.584901	36300	1..36	adaptor:NGB00740.1
+
+NODE_51_length_29481_cov_6.021850	29481	29444..29481	adaptor:NGB00740.1
+
+genome36.txt
+NODE_20_length_102837_cov_14.135539	102837	102803..102837	adaptor:NGB00746.1
+
+genome37.txt
+NODE_22_length_110488_cov_3.172635	110488	1..24	adaptor:NGB00735.1
+
+genome30.txt
+NODE_89_length_388_cov_0.276817	388	368..388	adaptor:NGB00740.1
+
+genome14.txt
+NODE_43_length_39911_cov_6.437406	39911	1..35	adaptor:NGB00728.1
+
+NODE_57_length_14007_cov_6.672634	14007	13972..14007	adaptor:NGB00736.1
+
+genome22.txt
+NODE_68_length_811_cov_0.174157	811	1..26	adaptor:NGB00744.1
+
+genome9.txt
+NODE_11_length_230104_cov_3.345327	230104	230067..230104	adaptor:NGB00743.1
+
+genome38.txt
+NODE_23_length_49512_cov_6.457390	49512	1..49	adaptor:NGB00730.1
+
+genome21.txt
+NODE_24_length_73859_cov_8.106697	73859	1..21	adaptor:NGB00728.1
+
+NODE_37_length_43711_cov_7.942814	43711	43668..43711	adaptor:NGB00728.1
+
+genome32.txt
+NODE_1258_length_381_cov_0.088652	381	1..26	adaptor:NGB00742.1
+
+NODE_423_length_743_cov_0.063665	743	1..23	adaptor:NGB00729.1
+
+NODE_739_length_520_cov_0.061758	520	1..30	adaptor:NGB00742.1
+
+NODE_78_length_2163_cov_0.187016	2163	2141..2163	adaptor:NGB00742.1
+
+genome48.txt
+NODE_25_length_81606_cov_12.587680	81606	81588..81606	adaptor:NGB00730.1
+
+NODE_26_length_72208_cov_11.852820	72208	1..34	adaptor:NGB00730.1
+
+NODE_71_length_5897_cov_10.770956	5897	1..21	adaptor:NGB00730.1
+
+genome8.txt
+NODE_1_length_402830_cov_5.671572	402830	402788..402830	adaptor:NGB00730.1
+
+genome12.txt
+NODE_16_length_107846_cov_19.311396	107846	107818..107846	adaptor:NGB00746.1
+

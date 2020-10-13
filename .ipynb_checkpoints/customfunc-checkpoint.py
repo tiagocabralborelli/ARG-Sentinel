@@ -50,6 +50,7 @@ def parsnp (df,org, dirr, name):
     for c in df.itertuples():
         if c.specie == org:
             os.system(f'cp {c.path} {dirr}/{name}')
+            
 def convert_to_fasta (path):
     """Convert genbanks files into fasta
     ->Pam path: genbank files path""" 
@@ -168,16 +169,13 @@ def cataloger (path):
     df.drop_duplicates('accession', inplace = True)
     df.to_csv('catalogo_teste.csv')
     return df.head()
+
 def filldf (target,source):
-
-
-
-    
     """Preenche os dataframes criados pelo abricate com informações adicionais dos arquivos genbank
     ->Pam target: dataframe a ser preechido.
     ->Pam source: dataframe com as informações adicionais"""
+    
     target.set_index('file', inplace = True)
-
     target['colection_date'] = None #ok
     target['host'] = None
     target["source"] = None #ok
@@ -198,6 +196,7 @@ def filldf (target,source):
             target.loc[i.accession,['plasmid']] = i.plasmid
             target.loc[i.accession,['colection_date']] = i.colection_date
     return target
+
 def SplitCoords (df, coord):
     """
     Split coordenates intos two new coluns
@@ -234,3 +233,20 @@ def NumCoord (x):
         x = float(x[0])
     
     return x
+def construct_dataframe(path_to_spreadsheet,spreadsheet_name,catalog):
+    """Creates a pandas dataframse from a given ARGs spreadsheet
+    Parameters:
+    -> path_to_spreadsheet:
+        path to locate the directory where the files to be converted into dataframes are.
+    -> spreadsheet_name:
+        file name to convert into a pandas dataframe.
+    -> catalog_brazil:
+        spreadsheet containing informations on bacterial genomes.
+    """
+    import pandas as pd
+    import customfunc
+    dataframe = pd.read_csv(f"{path_to_spreadsheet}/{spreadsheet_name}", sep = 't', names = ['file','sequence','start','end','strand','gene','coverage','coverage_map','gaps','coverage_pec','identity_perc','database','accession','product','resistance'], index_col = False)
+    dataframe['file'] = dataframe['file'].apply(lambda file_path: file_path.split("/")[-1])
+    dataframe = customfunc.filldf(dataframe,catalog)
+    dataframe.reset_index(inplace = True)
+    return dataframe

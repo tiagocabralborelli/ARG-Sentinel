@@ -233,3 +233,20 @@ def NumCoord (x):
         x = float(x[0])
     
     return x
+def construct_dataframe(path_to_spreadsheet,spreadsheet_name,catalog):
+    """Creates a pandas dataframse from a given ARGs spreadsheet
+    Parameters:
+    -> path_to_spreadsheet:
+        path to locate the directory where the files to be converted into dataframes are.
+    -> spreadsheet_name:
+        file name to convert into a pandas dataframe.
+    -> catalog_brazil:
+        spreadsheet containing informations on bacterial genomes.
+    """
+    import pandas as pd
+    import customfunc
+    dataframe = pd.read_csv(f"{path_to_spreadsheet}/{spreadsheet_name}", sep = 't', names = ['file','sequence','start','end','strand','gene','coverage','coverage_map','gaps','coverage_pec','identity_perc','database','accession','product','resistance'], index_col = False)
+    dataframe['file'] = dataframe['file'].apply(lambda file_path: file_path.split("/")[-1])
+    #Como crirar uma função que precisa de vaviáveis globais já definidas. O dataframse catalogo nem sempre pode ter esse nome. Devo criar ele toda vez que precisar? como inserir a criação na função?
+    dataframe = customfunc.filldf(dataframe,catalog)
+    return dataframe

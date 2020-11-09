@@ -42,6 +42,7 @@ def extract (df,sp,gene,inp):
                     else:
                         fasta.write(f'{f.seq[items.start-1:items.end+1].reverse_complement()}\n')
     fasta.close()
+    
 def parsnp (df,org, dirr, name):
     "Copia os genomas de uma mesma especies para um diretorio separado e executa o parsnp"
     import os
@@ -59,6 +60,7 @@ def convert_to_fasta (path):
     gbfiles = glob.glob(f"{path}/*.gbff")
     for c in gbfiles:
         f = SeqIO.convert(f"{c}","genbank",f"{c}.fasta","fasta")
+        
 def SwitchMonths (x):
     """Troca os meses pelos seus respectvios números.
     ->Pam x: Dados para serem alterados """
@@ -195,6 +197,8 @@ def filldf (target,source):
             target.loc[i.accession,['strain']] = i.strain
             target.loc[i.accession,['plasmid']] = i.plasmid
             target.loc[i.accession,['colection_date']] = i.colection_date
+            
+    target = target.reset_index()
     return target
 
 def SplitCoords (df, coord):
@@ -247,6 +251,16 @@ def construct_dataframe(path_to_spreadsheet,spreadsheet_name,catalog):
     import customfunc
     dataframe = pd.read_csv(f"{path_to_spreadsheet}/{spreadsheet_name}", sep = 't', names = ['file','sequence','start','end','strand','gene','coverage','coverage_map','gaps','coverage_pec','identity_perc','database','accession','product','resistance'], index_col = False)
     dataframe['file'] = dataframe['file'].apply(lambda file_path: file_path.split("/")[-1])
+    #Como crirar uma função que precisa de vaviáveis globais já definidas. O dataframse catalogo nem sempre pode ter esse nome. Devo criar ele toda vez que precisar? como inserir a criação na função?
     dataframe = customfunc.filldf(dataframe,catalog)
-    dataframe.reset_index(inplace = True)
     return dataframe
+
+def importar_df (caminho_do_df,nome_do_db):
+    """Importa o dataframe, faz as modificações ans colunas file e tag e preenche com os dados encontrados no catalogo"""
+    import pandas as pd
+    df = pd.read_csv(f"{caminho_do_df}", sep = '\t', names = ['file','sequence','start','end','strand','gene','coverage','coverage_map','gaps','coverage_pec','identity_perc','database','accession','product','resistance'])
+    df['file'] = df['file'].apply(lambda caminho: caminho.split("/")[-1])
+    df['tag'] = f"{nome_do_db}"
+    df = df.reset_index()
+    return df
+    

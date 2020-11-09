@@ -1,7 +1,0 @@
-locus_tag	ftype	length_bp	gene	EC_number	COG	product
-OPMNFDHN_00001	CDS	207				hypothetical protein
-OPMNFDHN_00002	CDS	90				hypothetical protein
-OPMNFDHN_00003	CDS	1263	pre			Plasmid recombination enzyme
-OPMNFDHN_00004	CDS	399	ble			Bleomycin resistance protein
-OPMNFDHN_00005	CDS	771	knt	2.7.7.-		Kanamycin nucleotidyltransferase
-OPMNFDHN_00006	CDS	837				hypothetical protein

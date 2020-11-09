@@ -1,8 +1,0 @@
->Feature NODE_43_length_2345_cov_2403.472395
-1617	883	CDS
-			EC_number	2.1.1.184
-			gene	ermC'
-			inference	ab initio prediction:Prodigal:2.6
-			inference	similar to AA sequence:UniProtKB:P13956
-			locus_tag	CCDKKEHC_00001
-			product	rRNA adenine N-6-methyltransferase

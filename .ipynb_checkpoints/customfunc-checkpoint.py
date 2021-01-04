@@ -255,12 +255,3 @@ def construct_dataframe(path_to_spreadsheet,spreadsheet_name,catalog):
     dataframe = customfunc.filldf(dataframe,catalog)
     return dataframe
 
-def importar_df (caminho_do_df,nome_do_db):
-    """Importa o dataframe, faz as modificações ans colunas file e tag e preenche com os dados encontrados no catalogo"""
-    import pandas as pd
-    df = pd.read_csv(f"{caminho_do_df}", sep = '\t', names = ['file','sequence','start','end','strand','gene','coverage','coverage_map','gaps','coverage_pec','identity_perc','database','accession','product','resistance'])
-    df['file'] = df['file'].apply(lambda caminho: caminho.split("/")[-1])
-    df['tag'] = f"{nome_do_db}"
-    df = df.reset_index()
-    return df
-    

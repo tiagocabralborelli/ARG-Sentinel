@@ -1,36 +1,36 @@
-assembly,source,specie
-genome2,LCR,Acinetobacter baumannii
-genome37,SANGUE,Burkholderia cepacia
-genome27,SANGUE,Acinetobacter pitti
-genome3,LIQUIDO PERITONEAL,Escherichia  coli
-genome20,SANGUE,Klebsiella pneumoniae
-genome38,SANGUE,Escherichia  coli
-genome42,SANGUE,Escherichia  coli
-genome44,LIQ. ASCITICO,Escherichia  coli
-genome45,SANGUE,Escherichia  coli
-genome50,SANGUE,Escherichia  coli
-genome25,SANGUE,Enterobacter asburiae
-genome49,LIQ. ASCITICO,Enterobacter cloacae
-genome48,L.C.R,Klebsiella pneumoniae
-genome1,LBA,Klebsiella pneumoniae
-genome16,SANGUE,Klebsiella pneumoniae
-genome24,SANGUE,Klebsiella pneumoniae
-genome36,SANGUE,Klebsiella pneumoniae
-genome41,LIQ. ASCITICO,Klebsiella pneumoniae
-genome43,SANGUE,Klebsiella pneumoniae
-genome40,SANGUE,Morganella morganii
-genome8,LIQUIDO PERITONEAL,Pseudomonas aeruginosa
-genome9,LBA,Pseudomonas aeruginosa
-genome47,LBA,Pseudomonas aeruginosa
-genome11,SANGUE,Ralstonia mannitolilytica
-genome12,SANGUE,Ralstonia mannitolilytica
-genome32,SANGUE DE CATETER,Staphyloccoccus  epidermidis
-genome28,SANGUE,Staphyloccoccus aureus
-genome33,SANGUE DE CATETER,Staphyloccoccus aureus
-genome29,SANGUE,Staphyloccoccus epidermidis
-genome18,SANGUE,Staphyloccoccus haemolyticus
-genome22,SANGUE,Staphyloccoccus warneri
-genome30,SANGUE,Staphyloccoccus warneri
-genome14,SANGUE,Stenotrophomonas maltophilia
-genome21,SANGUE,Stenotrophomonas maltophilia
-genome31,SANGUE,Streptococcus gallolyticos
+assembly,registro,source,specie
+genome2,112M3,LCR,A. pittii
+genome37,540A,SANGUE,B. cepacia
+genome27,466A,SANGUE,A. pittii
+genome3,126M3,LIQUIDO PERITONEAL,E. coli
+genome20,659A,SANGUE,K. variicola
+genome38,508A,SANGUE,E. coli
+genome42,537B,SANGUE,E. coli
+genome44,92M3,LIQ. ASCITICO,E.  coli
+genome45,522B,SANGUE,E. coli
+genome50,456A,SANGUE,E. coli
+genome25,790C,SANGUE,E. asburiae
+genome49,91M3,LIQ. ASCITICO,E. roggenkampii
+genome48,112M3,L.C.R,K. pneumoniae
+genome1,98M3,LBA,K. pneumoniae
+genome16,614A,SANGUE,K. quasipneumoniae
+genome24,764A,SANGUE,K. pneumoniae
+genome36,508B,SANGUE,K. pneumoniae
+genome41,125M3,LIQ. ASCITICO,K. pneumoniae
+genome43,457A,SANGUE,K. oxytoca
+genome40,538A,SANGUE,M. morganii
+genome8,140M3,LIQUIDO PERITONEAL,P. aeruginosa
+genome9,155M3,LBA,P. aeruginosa
+genome47,104M3,LBA,P. aeruginosa
+genome11,451A,SANGUE,R. mannitolilytica
+genome12,547A,SANGUE,R. mannitolilytica
+genome32,605A,SANGUE DE CATETER,S. epidermidis
+genome28,481A,SANGUE,S. aureus
+genome33,468A,SANGUE DE CATETER,S. aureus
+genome29,452B,SANGUE,S. epidermidis
+genome18,637C,SANGUE,S. haemolyticus
+genome22,732B,SANGUE,S. capitis
+genome30,579A,SANGUE,S. capitis
+genome14,599B,SANGUE,S. maltophilia
+genome21,685B,SANGUE,S. maltophilia
+genome31,471B,SANGUE,S. gallolyticos

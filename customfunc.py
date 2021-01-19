@@ -255,3 +255,20 @@ def construct_dataframe(path_to_spreadsheet,spreadsheet_name,catalog):
     dataframe = customfunc.filldf(dataframe,catalog)
     return dataframe
 
+def transferir_genomas(origem, nome_diretorio, genomas):
+    import os, shutil
+    try:
+        os.makedirs(f"{nome_diretorio}")
+    except FileExistsError:
+        print("O diretório já existe")
+    destino = f"{os.getcwd()}/{nome_diretorio}"
+    for genoma in genomas:
+        shutil.copy(f"{origem}/{genoma}", destino)
+        
+def converter_gbff_fasta(diretorio):
+    from Bio import SeqIO
+    import glob, os
+    gbff = glob.glob(f"{diretorio}/*.gbff")
+    for genoma_gb in gbff:
+        SeqIO.convert(f"{genoma_gb}","genbank",f"{genoma_gb}.fasta","fasta")
+        os.remove(genoma_gb)

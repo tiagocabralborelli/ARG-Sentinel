@@ -1,0 +1,702 @@
+accession,colection_date,host,source,coord,country,organism,strain,plasmid
+GCF_002113285.1_ASM211328v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B11(2017),B11(2017),Na
+GCA_004369765.1_ASM436976v1_genomic.gbff,Mar-2017,Oreochromis niloticus,brain,Na,Brazil,Streptococcus agalactiae,SA22AQUAVET,Na
+GCA_001267925.1_ASM126792v1_genomic.gbff,2006,wheat root,surface-sterilized wheat roots,Na,"Germany: Oberpfalz, Neumarkt",Herbaspirillum hiltneri N3,N3,Na
+GCA_007097455.1_ASM709745v1_genomic.gbff,2011,Homo sapiens,urine,Na,Brazil,Corynebacterium aurimucosum,2271,Na
+GCF_002029925.1_ASM202992v1_genomic.gbff,Feb-2017,Canis lupus familiaris,ear,23.954 S 46.3355 W,Brazil: Sao Paulo,Pseudomonas aeruginosa,ICBDVIM-2,Na
+GCF_001009075.1_v1_genomic.gbff,1999-01-01,pepper,Na,Na,USA,Xanthomonas euvesicatoria,490,Na
+GCF_001008975.1_v1_genomic.gbff,1994-01-01,pepper,Na,Na,USA,Xanthomonas euvesicatoria,199,Na
+GCA_002881535.1_ASM288153v1_genomic.gbff,2013-01-13,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA220,Na
+GCF_002112825.1_ASM211282v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B5(2017),B5(2017),Na
+GCA_001657915.1_ASM165791v1_genomic.gbff,Jan-2013,Homo sapiens,"Oral cavity, infant (2 months of age)",22.43 S 47.38 W,Brazil,Streptococcus vestibularis,22-06 S6,Na
+GCF_002104645.1_ASM210464v1_genomic.gbff,Nov-2016,Na,brown mussels (Perna perna),23.9726 S 46.3919 W,Brazil: Santos,Escherichia coli,TM2CRO,Na
+GCF_002113495.1_ASM211349v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R16(2017),R16(2017),Na
+GCF_002909505.1_ASM290950v1_genomic.gbff,2017,South American Coati (Nasua nasua),rectal swab,Na,Brazil: Sao Paulo,Escherichia coli,ECPET31,Na
+GCF_004116935.1_ASM411693v1_genomic.gbff,2015,Homo sapiens,urine,22.5309 S 48.2642 W,"Brazil: Botucatu, Sao Paulo State",Escherichia coli,BR64-DEC,Na
+GCF_003194715.1_ASM319471v1_genomic.gbff,Nov-2014,cow,feces,Na,Brazil,Escherichia coli,16VS,Na
+GCA_001865715.1_ASM186571v1_genomic.gbff,2002,Na,mineral media supplemented with vegetable oil,Na,Brazil: Curitiba,Burkholderia contaminans,LTEB,Na
+GCF_002113335.1_ASM211333v1_genomic.gbff,Aug-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R44(2017),R44(2017),Na
+GCA_000750515.1_ASM75051v1_genomic.gbff,2009-02-17,Oncorhynchus mykiss,brain,Na,Brazil,Weissella ceti,WS74,Na
+GCF_002140155.1_ASM214015v1_genomic.gbff,Jul-2014,Na,riverbed of Promissao reservoir,21.1849 S 49.4549 W,"Brazil: Sao Paulo, Promissao reservoir",Micromonospora sp. NBS 11-29,NBS 11/29,Na
+GCF_001009955.1_ASM100995v1_genomic.gbff,2013,tomato,tomato,Na,USA,Xanthomonas perforans,TB9,Na
+GCF_003204935.1_ASM320493v1_genomic.gbff,2012,Homo sapiens,tap,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,2032,Na
+GCF_002735945.1_ASM273594v1_genomic.gbff,20-Oct-2014,Na,Rio Negro river,Na,Brazil: Manaus,Chromobacterium violaceum,CV1192,Na
+GCF_002113055.1_ASM211305v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B27(2017),B27(2017),Na
+GCA_001455405.1_ASM145540v1_genomic.gbff,Na,Gallus gallus domesticus,cellulitis,Na,Na,Escherichia coli,RS76,Na
+GCF_001969075.1_ASM196907v1_genomic.gbff,2004,swine,kidney,Na,Brazil: Sao Paulo,Leptospira interrogans serovar Pomona,GR5,Na
+GCA_001906895.1_ASM190689v1_genomic.gbff,Jan-2013,Homo sapiens,"oral cavity, infant (13 months of age)",22.43 S 47.38 W,Brazil,Streptococcus salivarius,34-19 S9,Na
+GCF_000007245.1_ASM724v1_genomic.gbff,Na,Na,Na,Na,Na,Xylella fastidiosa Temecula1,Temecula1,Na
+GCF_001009285.1_ASM100928v1_genomic.gbff,2011,tomato,tomato,Na,USA,Xanthomonas gardneri,SM406-11,Na
+GCA_001601825.1_ASM160182v1_genomic.gbff,2010-12,Na,CACIAM 66 non-axenic culture of unicellular cyanobacterium started from freshwater,5.080599548369309 S 49.319751262664795 W,Brazil: Tucurui,Limnobacter sp. CACIAM 66H1,Na,Na
+GCA_001969465.1_ASM196946v1_genomic.gbff,2016-06-11,Sheep,Na,Na,Brazil: Para,Corynebacterium pseudotuberculosis,PA05,Na
+GCF_001685165.1_ASM168516v1_genomic.gbff,2011,swine,Preputial swab,Na,Brazil: Sao Paulo,Actinobaculum suis,C1-22-1,Na
+GCF_001981425.1_ASM198142v1_genomic.gbff,2001,Capybara,kidney,Na,Brazil: Sao Paulo,Leptospira santarosai serovar Bananal,2ACAP,Na
+GCF_001008905.1_v1_genomic.gbff,2009-01-01,pepper,Na,Na,USA,Xanthomonas euvesicatoria,681,Na
+GCF_004125365.1_ASM412536v1_genomic.gbff,08-Aug-2015,Na,Marine water sample collected about 100 m from Turtle Beach,Na,Brazil: Trindade Island,Staphylococcus warneri,TRPF4,unnamed1
+GCF_003326315.1_ASM332631v1_genomic.gbff,2016,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_4987,Na
+GCF_002027505.1_ASM202750v1_genomic.gbff,2006,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Enterococcus faecium,LIM695,Na
+GCF_003183865.1_ASM318386v1_genomic.gbff,25-Mar-2017,Homo sapiens,blood,22.826174 S 47.064371 W,Brazil: Campinas,Escherichia coli,40H,Na
+GCF_003326385.1_ASM332638v1_genomic.gbff,2013,Homo sapiens,ascitic fluid,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_4219,Na
+GCA_000698945.1_LGO_A23_AS7_genomic.gbff,Jun-1999,Citrus reticulata,plant tissue,Na,Brazil: Sao Paulo,Streptomyces wadayamensis,A23,Na
+GCF_002113445.1_ASM211344v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R27(2017),R27(2017),Na
+GCF_003204865.1_ASM320486v1_genomic.gbff,2012,Homo sapiens,drain,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,2031,Na
+GCF_002112315.1_ASM211231v1_genomic.gbff,Aug-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R47(2017),R47(2017),Na
+GCA_002295185.1_ASM229518v1_genomic.gbff,07-Jul-2014,Homo sapiens,rectal swab,18.8816 S 48.2599 W,"Brazil: Uberlandia, MG",Klebsiella pneumoniae,KPC05,pKPC05
+GCF_001008825.1_v1_genomic.gbff,1999-01-01,pepper,Na,Na,USA,Xanthomonas euvesicatoria,515,Na
+GCA_002881355.1_ASM288135v1_genomic.gbff,2010-05-26,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA85,Na
+GCA_002751885.1_ASM275188v1_genomic.gbff,2014,Na,Probiotic animal feed,Na,Brazil: Sao Paulo,Bacillus velezensis,FTC01,Na
+GCA_002881395.1_ASM288139v1_genomic.gbff,2010-06-11,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA102,Na
+GCA_000500915.1_Q27bRhosp1.0_genomic.gbff,21-Oct-2011,Na,"5 liters of water from the Tucurui Power Plant Reservoir, point M5 collected 50cm beneath the lake surface, then filtered by negative pressure for posterior culture in BG-11 medium",3.7632 S 49.6836 W,Brazil: Tucurui Power Plant Reservoir,Rhodobacter sp. CACIA14H1,Na,Na
+GCF_002112345.1_ASM211234v1_genomic.gbff,Aug-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R43(2017),R43(2017),Na
+GCF_001009365.1_v1_genomic.gbff,26-Oct-2006,tomato,tomato,Na,USA,Xanthomonas perforans,Xp5-6,Na
+GCF_002112755.1_ASM211275v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B9(2017),B9(2017),Na
+GCA_001913845.2_ASM191384v2_genomic.gbff,21-Oct-2011,Na,freshwater lake,3.855694 S 49.62316699999997 W,Brazil: Tucurui,Limnothrix sp. CACIAM 69d,Na,Na
+GCF_002631045.1_ASM263104v1_genomic.gbff,2003-04,Homo sapiens,blood,Na,Brazil: Sao Paulo,Klebsiella pneumoniae subsp. pneumoniae,KPBr1,Na
+GCF_004120865.1_ASM412086v1_genomic.gbff,2017,Gallus gallus,liver,3.4495075 N 76.5157671 W,Colombia: Cali,Salmonella enterica subsp. enterica serovar Gallinarum,FTA303,Na
+GCF_001957225.1_ASM195722v1_genomic.gbff,15-Oct-2016,Na,seawater,23.9772 S 46.4014 W,Brazil: Santos,Escherichia coli,ICBEC2AM,Na
+GCA_001039265.1_ASM103926v1_genomic.gbff,Na,Na,Lago dos Indios,Na,Na,Synechococcus sp. GFB01,GFB01,Na
+GCF_003204725.1_ASM320472v1_genomic.gbff,2012,Homo sapiens,catheter,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1509,Na
+GCF_003183875.1_ASM318387v1_genomic.gbff,10-Jan-2017,Homo sapiens,urine,22.826174 S 47.064371 W,Brazil: Campinas,Escherichia coli,200H,Na
+GCA_007197875.1_ASM719787v1_genomic.gbff,20-Dec-2015,Na,Sediment,62.58 S 60.33 W,"Antarctica: Whalers Bay, Deception Island",Brevibacillus sp. LEMMJ03,LEMMJ03,Na
+GCA_002994485.1_ASM299448v1_genomic.gbff,2007,Na,Freshwater,19.32 S 42.32 W,"Brazil: Minas Gerais State, Rio Doce State Park, Lake Dom Helvecio",Chromobacterium amazonense,56AF,Na
+GCF_003248265.1_ASM324826v1_genomic.gbff,16-Oct-2016,Homo sapiens,Postoperative transudate,16.9717347 S 65.4329181 W,Bolivia: Cochabamba,Escherichia coli,EcIB36,Na
+GCA_000708525.1_ASM70852v1_genomic.gbff,21-Oct-2011,Na,"5 liters of water from the Tucurui Power Plant Reservoir, point M5 collected 50cm beneath the lake surface, then filtered by negative pressure for posterior culture in BG-11 medium",3.7632 S 49.6836 W,Brazil,Cyanobium sp. CACIAM 14,Na,Na
+GCF_002113705.1_ASM211370v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B25(2017),B25(2017),Na
+GCA_001442675.1_ASM144267v1_genomic.gbff,15-Sep-2013,Tupinambis merianae,Na,Na,Brazil,Salmonella enterica subsp. enterica serovar Infantis,LPM-ST02,Na
+GCA_002881695.1_ASM288169v1_genomic.gbff,2014-02-14,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA374,Na
+GCF_002112285.1_ASM211228v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R4(2017),R4(2017),Na
+GCF_003363295.1_ASM336329v1_genomic.gbff,2016-04-10,Chelonia mydas,blood,Na,Brazil: Ubatuba,Citrobacter freundii,TV1575CF,Na
+GCA_002374075.1_ASM237407v1_genomic.gbff,2001-06-02,Bos taurus,mastitis,Na,Brazil: Minas Gerais,Staphylococcus aureus,4185,pRJ101
+GCF_002113165.1_ASM211316v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B19(2017),B19(2017),Na
+GCF_001649625.1_ASM164962v1_genomic.gbff,2010,Homo sapiens,catheter,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM552,Na
+GCF_000731085.1_ASM73108v1_genomic.gbff,Jun-2000,Na,cow rumen,Na,"USA: Ithaca, NY",Streptococcus equinus,HC5,Na
+GCA_006547305.1_ASM654730v1_genomic.gbff,2012,Homo sapiens,Urine sample,Na,Argentina,Corynebacterium phoceense,272,Na
+GCA_001044155.1_ASM104415v1_genomic.gbff,Na,bovine,Na,Na,Na,Corynebacterium pilosum,CIP103422,Na
+GCF_003204805.1_ASM320480v1_genomic.gbff,2014,Homo sapiens,swab,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,4116,Na
+GCF_002529065.1_ASM252906v1_genomic.gbff,2013,Na,water sample from urban lake,23.5874 S 46.6590 W,Brazil,Klebsiella pneumoniae,IBL24,Na
+GCF_001742345.1_ASM174234v1_genomic.gbff,Na,Saccharum officinarum SP80-1842,Na,Na,Brazil,Burkholderia seminalis,TC3.4.2R3,Na
+GCF_000175155.1_ASM17515v1_genomic.gbff,Na,Na,Na,Na,Na,Xanthomonas citri pv. aurantifolii str. ICPB 10535,ICPB 10535,Na
+GCF_002113045.1_ASM211304v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B26(2017),B26(2017),Na
+GCF_001009825.1_ASM100982v1_genomic.gbff,18-Sep-2012,tomato,tomato,Na,USA,Xanthomonas perforans,GEV909,Na
+GCF_003321225.1_ASM332122v1_genomic.gbff,2012,Homo sapiens,swab,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_2026,Na
+GCA_001442695.1_ASM144269v1_genomic.gbff,2013-03-03,Gorilla gorilla gorilla,Na,Na,Brazil,Salmonella enterica subsp. enterica serovar Infantis,LPM-ST01,Na
+GCF_002104365.1_ASM210436v1_genomic.gbff,2014,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,4477,Na
+GCA_001906885.1_ASM190688v1_genomic.gbff,Jan-2013,Homo sapiens,"Oral cavity, infant (2 months of age)",22.43 S 47.38 W,Brazil,Streptococcus salivarius,22-08 S7,Na
+GCF_001649975.1_ASM164997v1_genomic.gbff,2012,Homo sapiens,tracheal aspirate,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM1132,Na
+GCF_002112905.1_ASM211290v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B36(2017),B36(2017),Na
+GCF_003044115.1_ASM304411v1_genomic.gbff,2016-03,Na,soil from Brazilian tropical mangrove,25.01261 S 47.9338687 W,Brazil: Sao Paulo,Blastopirellula marina,HEX PRIS-MGV,Na
+GCF_002113325.1_ASM211332v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R9(2017),R9(2017),Na
+GCF_001469065.1_ASM146906v1_genomic.gbff,2014,Bos taurus (cow),milk,Na,Brazil,Staphylococcus aureus,1364,Na
+GCA_002881435.1_ASM288143v1_genomic.gbff,2011,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA159,Na
+GCA_007050555.1_ASM705055v1_genomic.gbff,09-Mar-2016,Malus domestica,Na,28.21 S 50.02 W,Brazil: Santa Catarina,Pseudomonas syringae pv. syringae,IBSBF 3261,Na
+GCF_001592725.1_ASM159272v1_genomic.gbff,2009,Homo sapiens,perianal swab,19.8178 S 43.9485 W,Brazil: Belo Horizonte,Enterococcus faecium,VRE16,Na
+GCA_002775105.1_ASM277510v1_genomic.gbff,Na,Homo sapiens,Na,23.11383850811712 S 43.09043884277344 W,Brazil: Rio de Janeiro,Corynebacterium striatum,2247,Na
+GCA_002882465.1_ASM288246v1_genomic.gbff,2014-01-23,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA333,Na
+GCF_000969225.1_ASM96922v1_genomic.gbff,Na,Homo sapiens,Na,Na,Brazil,Staphylococcus aureus,FCFHV36,Na
+GCF_003176675.1_ASM317667v1_genomic.gbff,May-2017,snake,mouth injury,Na,Brazil: Sao Paulo,Enterobacter hormaechei,SERP1,Na
+GCF_002104225.1_ASM210422v1_genomic.gbff,Nov-2016,Crassostrea,Na,23.9871 S 46.3086 W,Brazil: Santos,Escherichia coli,C60,Na
+GCA_004766535.1_ASM476653v1_genomic.gbff,2000,Phaseolus vulgaris,root nodules,Na,Brazil: Federal District,Rhizobium sp. SEMIA 4088,SEMIA 4088,Na
+GCF_003204975.1_ASM320497v1_genomic.gbff,2012,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Pseudomonas aeruginosa,LIM1547,Na
+GCA_001969145.2_ASM196914v2_genomic.gbff,Na,Equus caballus,Renal abscess,Na,Na,Corynebacterium pseudotuberculosis,MB278,Na
+GCA_001040945.1_ASM104094v1_genomic.gbff,1984-01-10,Na,plant (maize/sorghum/rice),Na,"Brazil: Seropedica, Rio de Janeiro",Herbaspirillum seropedicae,Z67,Na
+GCA_002882375.1_ASM288237v1_genomic.gbff,2013-11-21,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA330,Na
+GCA_001907045.1_ASM190704v1_genomic.gbff,Jan-2013,Homo sapiens,"oral cavity, infant (15 months of age)",22.43 S 47.38 W,Brazil,Streptococcus salivarius,39-07 S15,Na
+GCF_003204855.1_ASM320485v1_genomic.gbff,2013,Homo sapiens,catheter,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1703,Na
+GCF_001640565.1_ASM164056v1_genomic.gbff,Oct-2008,Tithonia diversifolia,Na,Na,Brazil: Sao Paulo,Streptomyces sp. RTd22,RTd22,Na
+GCA_001700405.1_ASM170040v1_genomic.gbff,Mar-2015,Homo sapiens,urine,18.8815815 S 48.259917299999984 W,Brazil,Escherichia coli,ECO37,Na
+GCF_001009395.1_v1_genomic.gbff,26-Oct-2006,tomato,tomato,Na,USA,Xanthomonas perforans,Xp9-5,Na
+GCA_001447175.1_ASM144717v1_genomic.gbff,2009-02-01,Canis lupus familiaris,Na,Na,Brazil,Clostridioides difficile,Z31,Na
+GCA_004766495.1_ASM476649v1_genomic.gbff,1964,Phaseolus vulgaris,root nodules,Na,Argentina,Rhizobium sp. SEMIA 439,SEMIA 439,Na
+GCF_001984845.1_ASM198484v1_genomic.gbff,Oct-2016,Na,chicken breast,23.48 S 46.63 W,Brazil: Sao Paulo,Escherichia coli,CF341,Na
+GCF_002119075.1_ASM211907v1_genomic.gbff,May-2015,Canine,respiratory tract,7.0178 S 37.275 W,Brazil: Paraiba,Klebsiella pneumoniae,Kp76,Na
+GCA_000764045.2_ASM76404v2_genomic.gbff,Nov-1997,Equus caballus,pectoral abscess,Na,"USA: Vacaville, CA",Corynebacterium pseudotuberculosis,MB20,Na
+GCF_003183885.1_ASM318388v1_genomic.gbff,2016-08-26,Homo sapiens,urine,22.826174 S 47.064371 W,Brazil: Campinas,Escherichia coli,51H,Na
+GCF_003321425.1_ASM332142v1_genomic.gbff,2011,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_1421,Na
+GCF_002112455.1_ASM211245v1_genomic.gbff,Aug-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R33(2017),R33(2017),Na
+GCA_001400055.1_ASM140005v1_genomic.gbff,14-Oct-2013,Spheniscus magellanicus (magellanic penguin),feces,30.1 S 50.12 W,"Brazil: Cidreira, Rio Grande do Sul",Enterococcus faecalis,P8-1,Na
+GCF_002113735.1_ASM211373v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B21(2017),B21(2017),Na
+GCA_001611705.1_ASM161170v1_genomic.gbff,2013-10-08,Homo sapiens,rectal swab,30.01 S 51.15 W,Brazil: Porto Alegre,Escherichia coli,1099F,Na
+GCF_003584245.1_ASM358424v1_genomic.gbff,1998-12,Canis lupus familiaris,feces,Na,Brazil: Campinas,Escherichia coli,AP155 (HE-8),Na
+GCA_007097675.1_ASM709767v1_genomic.gbff,2011,Homo sapiens,urine,Na,Brazil,Corynebacterium aurimucosum,2226,Na
+GCF_001009535.1_ASM100953v1_genomic.gbff,2010,tomato,tomato,Na,USA,Xanthomonas gardneri,SM177-10,Na
+GCF_005153305.1_ASM515330v1_genomic.gbff,2015,Bos taurus,milk,20.7796 S 42.8617 W,Brazil,Staphylococcus aureus,2030RH1,Na
+GCF_003321375.1_ASM332137v1_genomic.gbff,2012,Homo sapiens,feces,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_1478,Na
+GCF_001649955.1_ASM164995v1_genomic.gbff,2012,Homo sapiens,swab,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM1128,Na
+GCA_002007035.1_ASM200703v1_genomic.gbff,12-Nov-2016,Bos taurus,Vaccine strain,29 S 50 W,Brazil,Bacillus anthracis,Brazilian Vaccinal,pX01
+GCF_003204395.1_ASM320439v1_genomic.gbff,2015,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Pseudomonas aeruginosa,LIM4320,Na
+GCF_003264855.1_ASM326485v1_genomic.gbff,13-Dec-2010,Na,agricultural soil,21.3232 S 48.1534 W,Brazil: Pradopolis-SP,Dyella jiangningensis,FCAV SCS01,Na
+GCF_003204995.1_ASM320499v1_genomic.gbff,2011,Homo sapiens,urine,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1054,Na
+GCA_001659645.1_ASM165964v1_genomic.gbff,Jan-2013,Homo sapiens,Na,22.43 S 47.38 W,Brazil,Streptococcus salivarius,20-12 S2,Na
+GCF_001009745.1_v1_genomic.gbff,2006-12-12,tomato,tomato,Na,USA,Xanthomonas perforans,Xp17-12,Na
+GCA_003074615.1_ASM307461v1_genomic.gbff,1999,Homo sapiens,stool,Na,Brazil: Ribeirao Preto,Salmonella enterica subsp. enterica serovar Typhimurium,662ST,Na
+GCF_002112915.1_ASM211291v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B34(2017),B34(2017),Na
+GCF_001649615.1_ASM164961v1_genomic.gbff,2010,Homo sapiens,tracheal aspirate,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM565,Na
+GCF_003268475.1_ASM326847v1_genomic.gbff,2008,Na,soil,38.0667 S 176.36670000000004 E,New Zealand: Tikitere,Thermogemmatispora tikiterensis,T81,Na
+GCA_003415655.1_ASM341565v1_genomic.gbff,2010-05-12,rhodolith,Na,Na,Brazil: Abrolhos,Vibrio maerlii,G62,Na
+GCA_002881275.1_ASM288127v1_genomic.gbff,2005,Nile tilapia,Na,Na,Brazil,Streptococcus agalactiae,SA9,Na
+GCF_001649795.1_ASM164979v1_genomic.gbff,2011,Homo sapiens,tracheal aspirate,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM1126,Na
+GCF_001456195.1_ASM145619v1_genomic.gbff,2009-11-01,coffee,Na,21.5923 S 48.3674 W,"Brazil: Matao, Sao Paulo",Xylella fastidiosa,3124,Na
+GCF_000503755.1_Bcereus_genomic.gbff,10-Apr-2013,Na,mangrove sediment,Na,"Brazil: Bertioga, SP",Bacillus thuringiensis JM-Mgvxx-63,JM-Mgvxx-63,Na
+GCF_002018995.1_ASM201899v1_genomic.gbff,2011,Homo sapiens,tracheal aspirate,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,891,Na
+GCA_003325995.1_ASM332599v1_genomic.gbff,2010,Na,Bolonha Lake,1.4205132788680637 S 48.433122262358665 W,Brazil:Belem,Hyphomonas sp. CACIAM 19H1,CACIAM 19H1,Na
+GCF_001009135.1_ASM100913v1_genomic.gbff,2010-01-01,pepper,pepper,Na,USA,Xanthomonas euvesicatoria,685,Na
+GCA_002882745.1_ASM288274v1_genomic.gbff,2014-02-14,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA375,Na
+GCF_002261085.1_ASM226108v1_genomic.gbff,2016,Na,chicken meat from slaughterhouse,23.5505 S 46.6333 W,Brazil,Salmonella enterica subsp. enterica serovar Heidelberg,SF12,Na
+GCF_001183565.1_ASM118356v1_genomic.gbff,2011,Swine,urine,Na,Brazil: Sao Paulo,Actinobaculum suis,U311,Na
+GCA_002094005.1_ASM209400v1_genomic.gbff,Jan-2013,Homo sapiens,Na,22.43 S 47.38 W,Brazil,Streptococcus salivarius,85-06 S24,Na
+GCF_003327585.1_ASM332758v1_genomic.gbff,2012,Homo sapiens,body fluid,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_4234,Na
+GCA_003074555.1_ASM307455v1_genomic.gbff,1998,Homo sapiens,stool,Na,Brazil: Ribeirao Preto,"Salmonella enterica subsp. enterica serovar 4,[5],12:i:-",633STi,Na
+GCF_003204755.1_ASM320475v1_genomic.gbff,2012,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1283,Na
+GCF_003312405.1_ASM331240v1_genomic.gbff,2013,Homo sapiens,feces,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Enterococcus faecium,1584,Na
+GCA_004369785.1_ASM436978v1_genomic.gbff,Mar-2017,Oreochromis niloticus,brain,Na,Brazil,Streptococcus agalactiae,SA06AQUAVET,Na
+GCF_003204985.1_ASM320498v1_genomic.gbff,2012,Homo sapiens,drain,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,2039,Na
+GCF_001009865.1_ASM100986v1_genomic.gbff,19-Sep-2012,tomato,tomato,Na,USA,Xanthomonas perforans,GEV917,Na
+GCA_003332845.1_ASM333284v1_genomic.gbff,2005-02-21,Homo sapiens,urine,22.90 S 43.20 W,Brazil: Rio de Janeiro,Enterococcus faecium,CL-6729,Na
+GCF_004116595.1_ASM411659v1_genomic.gbff,2015,Homo sapiens,urine,22.5309 S 48.2642 W,"Brazil: Botucatu, Sao Paulo State",Escherichia coli,BR03-DEC,Na
+GCF_003095455.1_ASM309545v1_genomic.gbff,2013,Homo sapiens,urine,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,LIM1753,Na
+GCF_002112365.1_ASM211236v1_genomic.gbff,Aug-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R41(2017),R41(2017),Na
+GCF_003204765.1_ASM320476v1_genomic.gbff,2012,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1299,Na
+GCF_001981505.1_ASM198150v1_genomic.gbff,2008,capybara,kidney,Na,Brazil: Sao Paulo,Leptospira santarosai,M52/8-19,Na
+GCF_002029935.1_ASM202993v1_genomic.gbff,Mar-2013,Homo sapiens,Rectal swab,0.1194 S 67.0868 W,Brazil: Amazon,Morganella morganii,ICBMmBL-II-04(2),Na
+GCF_001516605.1_ASM151660v1_genomic.gbff,2009,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Stenotrophomonas maltophilia,SM17,Na
+GCF_001008895.1_v1_genomic.gbff,2008-01-01,pepper,Na,Na,USA,Xanthomonas euvesicatoria,679,Na
+GCF_002112625.1_ASM211262v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R20(2017),R20(2017),Na
+GCA_000959705.2_ASM95970v2_genomic.gbff,17-Dec-2010,Homo sapiens,stool,25.4455 S 49.2393 W,Brazil: Curitiba,Aeromonas caviae,8LM,Na
+GCF_003338595.1_ASM333859v1_genomic.gbff,2012,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_1411,Na
+GCF_001730215.1_ASM173021v1_genomic.gbff,17-Feb-2006,Na,seawater,Na,Brazil: Santos,Aeromonas caviae,CH129,Na
+GCA_000252345.2_ASM25234v2_genomic.gbff,Na,Na,open ocean,Na,Brazil: Abrolhos Bank,Vibrio campbellii PEL22A,PEL22A,Na
+GCF_001009615.1_ASM100961v1_genomic.gbff,2012,tomato,tomato,Na,USA,Xanthomonas gardneri,SM795-12,Na
+GCF_002112835.1_ASM211283v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B39(2017),B39(2017),Na
+GCF_003252635.1_ASM325263v1_genomic.gbff,06-Feb-2018,Na,cloacal swab,36.353894 S 72.5279 W,Chile: Chillan,Escherichia coli,CDR398B,Na
+GCA_001906915.1_ASM190691v1_genomic.gbff,Jan-2013,Homo sapiens,"oral cavity, infant (13 months of age)",22.43 S 47.38 W,Brazil,Streptococcus salivarius,34-24 S10,Na
+GCA_001941685.1_ASM194168v1_genomic.gbff,Jan-2011,Arenosclera brasiliensis,Na,Na,"Brazil: Joao Fernandinho Beach, Buzios",Pseudovibrio sp. Ab134,Ab134,Na
+GCF_001009475.1_v1_genomic.gbff,15-May-2012,tomato,tomato,Na,USA,Xanthomonas perforans,GEV839,Na
+GCF_003204835.1_ASM320483v1_genomic.gbff,2011,Homo sapiens,catheter,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1056,Na
+GCF_002114355.1_ASM211435v1_genomic.gbff,Mar-2013,Na,Rectal swab,0.1194 S 67.0868 W,Brazil: Amazon,Escherichia coli,ICBEcBL-I-09(2),Na
+GCA_001969065.1_ASM196906v1_genomic.gbff,Na,Equus caballus,Liver abscess,Na,Na,Corynebacterium pseudotuberculosis,MB122,Na
+GCF_002104635.1_ASM210463v1_genomic.gbff,Nov-2016,Na,oysters (Crassostrea spp.),23.9878 S 46.2951 W,Brazil: Santos,Klebsiella pneumoniae,BO2,Na
+GCF_002113575.1_ASM211357v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B8(2017),B8(2017),Na
+GCA_004369745.1_ASM436974v1_genomic.gbff,Mar-2017,Oreochromis niloticus,brain,Na,Brazil,Streptococcus agalactiae,SA12AQUAVET,Na
+GCF_002113105.1_ASM211310v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B22(2017),B22(2017),Na
+GCF_003186455.1_ASM318645v1_genomic.gbff,2011,Homo sapiens,anal abscess,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Pseudomonas aeruginosa,LIM1030,Na
+GCF_001009945.1_ASM100994v1_genomic.gbff,2013,tomato,tomato,Na,USA,Xanthomonas perforans,TB6,Na
+GCF_003204635.1_ASM320463v1_genomic.gbff,2012,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1309,Na
+GCF_004120895.1_ASM412089v1_genomic.gbff,2017,Gallus gallus,liver,3.4495075 N 76.5157671 W,Colombia: Cali,Salmonella enterica subsp. enterica serovar Gallinarum,GDX58,Na
+GCA_002881515.1_ASM288151v1_genomic.gbff,2012-12-05,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA218,Na
+GCF_004118895.1_ASM411889v1_genomic.gbff,2015,Homo sapiens,urine,22.5309 S 48.2642 W,"Brazil: Botucatu, Sao Paulo State",Escherichia coli,BR43-DEC,Na
+GCF_002156655.1_ASM215665v1_genomic.gbff,13-Mar-2013,Magellanic penguin,footpad infection,23.9863 S 46.3084 W,Brazil: Santos,Pseudomonas aeruginosa,ICB10P,Na
+GCF_003204235.1_ASM320423v1_genomic.gbff,2015,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Pseudomonas aeruginosa,LIM4308,Na
+GCF_001009855.1_ASM100985v1_genomic.gbff,19-Sep-2012,tomato,tomato,Na,USA,Xanthomonas perforans,GEV915,Na
+GCF_001982465.1_ASM198246v1_genomic.gbff,2007,Homo sapiens,blood,23.5975 S 46.6439 W,Brazil,Aeromonas hydrophila,Ah-HSP,unnamed
+GCF_002260995.1_ASM226099v1_genomic.gbff,2015,swine,slaughterhouse,23.5505 S 46.6333 W,Brazil,Salmonella enterica subsp. enterica serovar Typhimurium,STy015,Na
+GCF_003321235.1_ASM332123v1_genomic.gbff,2012,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_1427,Na
+GCF_003363215.1_ASM336321v1_genomic.gbff,2016-04-10,Chelonia mydas,blood,Na,Brazil: Ubatuba,Enterobacter hormaechei,TV1575ECL,Na
+GCF_003335525.1_ASM333552v1_genomic.gbff,2016-03,Na,soil from Brazilian tropical mangrove,23.8964 S 46.2139 W,Brazil: Sao Paulo,Blastopirellula cremea,HEX-2 MGV,Na
+GCA_002881375.1_ASM288137v1_genomic.gbff,2010-05-26,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA95,Na
+GCA_001921675.1_47.1_genomic.gbff,20-Aug-2009,Homo sapiens,nasal sample,14.8619 S 40.8445 W,Brazil: Vitoria da Conquista,Staphylococcus sp. 47.1,47.1,Na
+GCA_001969485.1_ASM196948v1_genomic.gbff,2016-06-11,Sheep,Na,Na,Brazil: Para,Corynebacterium pseudotuberculosis,PA06,Na
+GCA_001921695.1_C80_genomic.gbff,29-Aug-2012,Homo sapiens,nasal sample,14.8619 S 40.8445 W,Brazil: Vitoria da Conquista,Staphylococcus aureus,C80,Na
+GCF_001008885.1_v1_genomic.gbff,2003-01-01,pepper,Na,Na,USA,Xanthomonas euvesicatoria,586,Na
+GCA_003074575.1_ASM307457v1_genomic.gbff,1998,Homo sapiens,stool,Na,Brazil: Ribeirao Preto,"Salmonella enterica subsp. enterica serovar 4,[5],12:i:-",607STi,Na
+GCA_001907065.1_ASM190706v1_genomic.gbff,Jan-2013,Homo sapiens,"oral cavity, infant (15 months age)",22.43 S 47.38 W,Brazil,Streptococcus salivarius,85-04 S22,Na
+GCA_004122835.1_ASM412283v1_genomic.gbff,2012-05-12,Homo sapiens,pleural liquid,30.0277 S 51.2287 W,Brazil: Porto Alegre,Streptococcus pyogenes,SC06,Na
+GCA_002881555.1_ASM288155v1_genomic.gbff,2013-03-07,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA245,Na
+GCA_000687355.2_ASM68735v2_genomic.gbff,1999,Homo sapiens,cerebrospinal fluid,25.42778 S 49.27306 W,Brazil: Parana,Aeromonas enteropelogenes,1999lcr,Na
+GCF_001456295.1_ASM145629v1_genomic.gbff,2009-11-01,Plum,Plant xylem,23.0962 S 46.7287 W,"Brazil: Jarinu, Sao Paulo",Xylella fastidiosa,Pr8x,Na
+GCF_002112255.1_ASM211225v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R5(2017),R5(2017),Na
+GCF_002112765.1_ASM211276v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B6(2017),B6(2017),Na
+GCF_003217695.1_ASM321769v1_genomic.gbff,06-Feb-2018,Na,cloacal swab,36.353894 S 72.5279 W,Chile: Chillan,Salmonella enterica subsp. enterica,CDR398A,Na
+GCA_001730135.1_ASM173013v1_genomic.gbff,02-Apr-2015,Na,Madin-Darby Bovine Kidney (MDBK) cells,Na,Brazil,Acholeplasma laidlawii,MDBK/IPV,Na
+GCF_004116875.1_ASM411687v1_genomic.gbff,2015,Homo sapiens,urine,22.5309 S 48.2642 W,"Brazil: Botucatu, Sao Paulo State",Escherichia coli,BR25-DEC,Na
+GCF_002018415.1_ASM201841v1_genomic.gbff,Sep-2016,Na,seawater,23.9723 S 46.3295 W,Brazil: Sao Paulo,Enterobacter cloacae,ICBECLAM6,Na
+GCA_002077215.1_ASM207721v1_genomic.gbff,2014-02-10,Na,Mangrove soil,25.4178 S 48.7155 W,Brazil: Paranagua,Bacillus safensis,BRM1,Na
+GCF_002113725.1_ASM211372v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B23(2017),B23(2017),Na
+GCA_001969155.1_ASM196915v1_genomic.gbff,Na,Equus caballus,Pectoral abscess,Na,Na,Corynebacterium pseudotuberculosis,MB336,Na
+GCF_002797055.1_ASM279705v1_genomic.gbff,2013,Melopsittacus undulatus,cloacal swab,23.527379 S 46.409250 W,Brazil: Sao Paulo,Escherichia coli,PA58,Na
+GCA_001907055.1_ASM190705v1_genomic.gbff,Jan-2013,Homo sapiens,"oral cavity, infant (12 months age)",22.43 S 47.38 W,Brazil,Streptococcus salivarius,40-02 S18,Na
+GCF_002113425.1_ASM211342v1_genomic.gbff,Aug-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R34(2017),R34(2017),Na
+GCF_001500225.1_ASM150022v1_genomic.gbff,2003,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,Ab03,Na
+GCF_001009045.1_v1_genomic.gbff,1995-01-01,pepper,Na,Na,USA,Xanthomonas euvesicatoria,376,Na
+GCA_002094045.1_ASM209404v1_genomic.gbff,Jan-2013,Homo sapiens,"oral cavity, infant (15 months age)",22.43 S 47.38 W,Brazil,Streptococcus salivarius,85-02 s21,Na
+GCF_002145455.1_ASM214545v1_genomic.gbff,Mar-2013,Homo sapiens,feces,0.1194 S 67.0868 W,Brazil: Amazon,Enterobacter kobei,EkBL-II-14(1),Na
+GCA_002794435.1_ASM279443v1_genomic.gbff,11-Jun-2016,Sheep,lymph node,1.3661443 S 47.6758706 W,Brazil: Para,Corynebacterium pseudotuberculosis,PA08; A19,Na
+GCA_004122655.1_ASM412265v1_genomic.gbff,2010-05,Homo sapiens,urine,30.0277 S 51.2287 W,Brazil: Porto Alegre,Staphylococcus saprophyticus,SS546,Na
+GCF_002027515.1_ASM202751v1_genomic.gbff,2006,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Enterococcus faecium,LIM699,Na
+GCF_002018425.1_ASM201842v1_genomic.gbff,Sep-2016,Na,seawater,23.9753 S 46.3222 W,Brazil: Sao Paulo,Escherichia coli,ICBECAM7,Na
+GCA_002881315.1_ASM288131v1_genomic.gbff,2009,Nile tilapia,Kidney,Na,Brazil,Streptococcus agalactiae,SA79,Na
+GCA_001969095.2_ASM196909v2_genomic.gbff,Na,Equus caballus,Pectoral abscess,Na,Na,Corynebacterium pseudotuberculosis,MB154,Na
+GCF_001456315.1_ASM145631v1_genomic.gbff,2009-11-01,Hibiscus,Plant xylem,22.8977 S 47.0614 W,"Brazil: Jarinu, Sao Paulo",Xylella fastidiosa,Hib4,Na
+GCF_001009405.1_v1_genomic.gbff,26-Oct-2006,tomato,tomato,Na,USA,Xanthomonas perforans,Xp10-13,Na
+GCF_000949385.2_ASM94938v2_genomic.gbff,Aug-1992,Na,sugarcane soil,Na,"Brazil: Sao Paulo, Piracicaba",Pseudomonas sp. LFM046,LFM046,unnamed
+GCA_000503195.1_CACIA14H2Blastomonas_genomic.gbff,21-Oct-2011,Na,"5 liters of water from the Tucurui Power Plant Reservoir, point M5 collected 50cm beneath the lake surface, then filtered by negative pressure for posterior culture in BG-11 medium",3.7632 S 49.6836 W,Brazil,Blastomonas sp. CACIA14H2,Na,Na
+GCF_002019025.1_ASM201902v1_genomic.gbff,2011,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,923,Na
+GCF_001617545.1_ASM161754v1_genomic.gbff,14-Apr-2014,Homo sapiens,tracheal secretion,1.44097 S 48.4807 W,Brazil: Belem,Acinetobacter pittii,IEC338SC,Na
+GCF_002018965.1_ASM201896v1_genomic.gbff,2010,Homo sapiens,tracheal aspirate,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,502,Na
+GCA_004369875.1_ASM436987v1_genomic.gbff,Jul-2016,Oreochromis niloticus,brain,Na,Brazil,Streptococcus agalactiae,SApx7AQUAVET,Na
+GCA_004122895.1_ASM412289v1_genomic.gbff,2015-05-08,Homo sapiens,postoperative wound infection,30.0277 S 51.2287 W,Brazil: Porto Alegre,Streptococcus pyogenes,SC18,Na
+GCF_001009095.1_ASM100909v1_genomic.gbff,2010-01-01,pepper,pepper,Na,USA,Xanthomonas euvesicatoria,683,Na
+GCF_001758135.1_ASM175813v1_genomic.gbff,2011,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM941,Na
+GCF_000007685.1_ASM768v1_genomic.gbff,Na,Na,Na,Na,Na,Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130,Fiocruz L1-130,Na
+GCF_002104355.1_ASM210435v1_genomic.gbff,2013,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,1787,Na
+GCA_004122595.1_ASM412259v1_genomic.gbff,2009-10,Homo sapiens,urine,30.0277 S 51.2287 W,Brazil: Porto Alegre,Staphylococcus saprophyticus,SS410,Na
+GCF_001586755.1_ASM158675v1_genomic.gbff,1999-11-09,Na,water,8.33325 S 36.5907 W,"Brazil: Arcoverde reservoir, PE",Cylindrospermopsis raciborskii ITEP-A1,ITEP-A1,Na
+GCF_002113125.1_ASM211312v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B20(2017),B20(2017),Na
+GCA_000255515.2_ASM25551v2_genomic.gbff,2008,Na,distillery Japungu of norteast Brazil,Na,Brazil: Santa Rita,Lactobacillus vini JP7.8.9,JP7.8.9,Na
+GCF_002113185.1_ASM211318v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B18(2017),B18(2017),Na
+GCF_002005885.1_ASM200588v1_genomic.gbff,2014,Homo sapiens,feces,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Enterococcus faecium,LIM4247,Na
+GCF_002208025.1_ASM220802v1_genomic.gbff,Nov-2012,Canis lupus familiaris,saliva,23.512 S 46.6277 W,Brazil,Escherichia coli,ECC8,Na
+GCF_003095515.1_ASM309551v1_genomic.gbff,2012,Homo sapiens,bone marrow,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,LIM1372,Na
+GCF_003204255.1_ASM320425v1_genomic.gbff,2015,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Pseudomonas aeruginosa,LIM4293,Na
+GCF_003204515.1_ASM320451v1_genomic.gbff,2012,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Pseudomonas aeruginosa,LIM1209,Na
+GCA_001579925.1_ASM157992v1_genomic.gbff,Jun-2002,Equus ferus caballus,Na,Na,USA: California,Corynebacterium pseudotuberculosis,MB66,Na
+GCF_002003705.1_ASM200370v1_genomic.gbff,15-Jan-2010,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella aerogenes,LIM107,Na
+GCF_001650215.1_ASM165021v1_genomic.gbff,Oct-2008,Tithonia diversifolia,Na,Na,Brazil: Sao Paulo,Streptomyces sp. RTd22,RTd22,Na
+GCF_002005825.1_ASM200582v1_genomic.gbff,2013,Homo sapiens,feces,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Enterococcus faecium,LIM1590,Na
+GCF_003173315.1_ASM317331v1_genomic.gbff,25-Jan-2017,Homo sapiens,urine,22.826174 S 47.064371 W,Brazil: Campinas,Escherichia coli,50H,Na
+GCA_002909035.1_ASM290903v1_genomic.gbff,2013,Na,Buffalo raw milk refrigeration tanks,Na,Brazil: Rio Grande do Sul,Pseudomonas fluorescens,PL5.4,Na
+GCA_001750465.1_ASM175046v1_genomic.gbff,2010-05-12,Saccharum officinarum,Na,Na,Brazil: Bom Jesus dos Perdoes,Pseudomonas putida,IAC-RBcr5,Na
+GCF_002112855.1_ASM211285v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B40(2017),B40(2017),Na
+GCF_001009845.1_ASM100984v1_genomic.gbff,27-Sep-2012,tomato,tomato,Na,USA,Xanthomonas perforans,GEV936,Na
+GCA_004122885.1_ASM412288v1_genomic.gbff,2015-08-26,Homo sapiens,sputum,30.0277 S 51.2287 W,Brazil: Porto Alegre,Streptococcus pyogenes,SC21,Na
+GCA_001190905.2_ASM119090v2_genomic.gbff,2012-08-05,Oreochromis niloticus,kidney,Na,Brazil,Francisella noatunensis subsp. orientalis,FNO01,Na
+GCA_000988235.1_ASM98823v1_genomic.gbff,Na,Homo sapiens,ear discharge of child,Na,Na,Corynebacterium xerosis,ATCC 373,Na
+GCA_002245595.1_ASM224559v1_genomic.gbff,02-Feb-2012,Homo sapiens,tracheal aspirate,18.8816 S 48.2599 W,"Brazil: Uberlandia, MG",Acinetobacter baumannii,13,pAb13_1
+GCF_000813405.1_ASM81340v1_genomic.gbff,2013,Nymphicus hollandicus,air sac swab,Na,Brazil: Sao Paulo,Bordetella avium,Nh1210,Na
+GCA_002321945.1_ASM232194v1_genomic.gbff,Na,Na,water,Na,Brazil: Rio de Janeiro Funil water reservoir,Cylindrospermopsis raciborskii CYRF,CYRF,Na
+GCA_001579885.2_ASM157988v2_genomic.gbff,Nov-2000,Equus ferus caballus,Na,Na,USA: California,Corynebacterium pseudotuberculosis,MB30,Na
+GCF_000442355.1_SA16_genome_assembly_genomic.gbff,2009,Homo sapiens,blood,Na,Brazil: MG,Staphylococcus aureus SA16,SA16,Na
+GCF_003242945.1_ASM324294v1_genomic.gbff,2014,Homo sapiens,feces,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Enterococcus faecium,4278,Na
+GCF_001649765.1_ASM164976v1_genomic.gbff,2011,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM1049,Na
+GCF_003112085.1_ASM311208v1_genomic.gbff,2013,swine,lung,Na,Brazil: Minas Gerais,Actinobacillus suis,AS108/13,Na
+GCF_001009675.1_v1_genomic.gbff,2006-10-12,tomato,tomato,Na,USA,Xanthomonas perforans,Xp3-15,Na
+GCA_001659655.1_ASM165965v1_genomic.gbff,Jan-2013,Homo sapiens,Na,22.43 S 47.38 W,Brazil,Streptococcus salivarius,20-02 S1,Na
+GCF_000007145.1_ASM714v1_genomic.gbff,Na,Na,Na,Na,Na,Xanthomonas campestris pv. campestris str. ATCC 33913,ATCC 33913,Na
+GCF_003335505.1_ASM333550v1_genomic.gbff,2016-03,Na,soil from Brazilian tropical mangrove,23.8964 S 46.2139 W,Brazil: Sao Paulo,Blastopirellula cremea,HEX PRIS-MGV,Na
+GCA_000444805.1_B._pumilus_genomic.gbff,Jun-2008,Na,mangrove swamp,Na,Brazil,Bacillus safensis,CCMA-560,Na
+GCF_001685155.1_ASM168515v1_genomic.gbff,2011,swine,Preputial swab,Na,Brazil: Sao Paulo,Actinobaculum suis,C1-9-1,Na
+GCF_001758125.1_ASM175812v1_genomic.gbff,2004,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM3732,Na
+GCF_001982505.1_ASM198250v1_genomic.gbff,Aug-2016,Na,chicken breast meat,23.34 S 46.42 W,Brazil: Sao Paulo,Escherichia coli,CF1-2,Na
+GCF_001649815.1_ASM164981v1_genomic.gbff,2013,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM1820,Na
+GCF_003204685.1_ASM320468v1_genomic.gbff,2011,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1057,Na
+GCF_001649675.1_ASM164967v1_genomic.gbff,2011,Homo sapiens,tracheal aspirate,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM891,Na
+GCA_002882275.1_ASM288227v1_genomic.gbff,2012,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA212,Na
+GCF_003321295.1_ASM332129v1_genomic.gbff,2015,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_4290,Na
+GCF_001907955.1_ASM190795v1_genomic.gbff,2016,Na,Lettuce,23.55 S 46.63 W,Brazil: Sao Paulo,Klebsiella pneumoniae,301,Na
+GCA_001657925.1_ASM165792v1_genomic.gbff,Jan-2013,Homo sapiens,"Oral cavity, infant (2 months of age)",22.43 S 47.38 W,Brazil,Streptococcus vestibularis,22-03 S4,Na
+GCA_003577555.1_ASM357755v1_genomic.gbff,Oct-2014,Na,"Freshwater sample, Lake Agua Preta",1.408034 S 48.402564 W,"Brazil: Lake Agua Preta, PA",Escherichia coli,APC43A,Na
+GCF_003194705.1_ASM319470v1_genomic.gbff,Jan-2018,female dog,urinary tract,Na,Brazil,Klebsiella pneumoniae,preta,Na
+GCA_002881215.1_ASM288121v1_genomic.gbff,2003,Nile tilapia,Na,Na,Brazil,Streptococcus agalactiae,SA1,Na
+GCF_002104185.1_ASM210418v1_genomic.gbff,2016,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,4490,Na
+GCF_002112445.1_ASM211244v1_genomic.gbff,Aug-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R35(2017),R35(2017),Na
+GCF_002112685.1_ASM211268v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R15(2017),R15(2017),Na
+GCA_002775065.1_ASM277506v1_genomic.gbff,Mar-2011,Homo sapiens,catheter,23.073414748499108 S 43.13438415527344 W,Brazil: Rio de Janeiro,Corynebacterium striatum,2245,Na
+GCA_007109275.1_ASM710927v1_genomic.gbff,2011,Homo sapiens,urine,Na,Brazil,Corynebacterium aurimucosum,2299,Na
+GCF_003204555.1_ASM320455v1_genomic.gbff,2010,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,630,Na
+GCF_001009785.1_ASM100978v1_genomic.gbff,1905-07-02,tomato,tomato,Na,USA,Xanthomonas perforans,Xp2010,Na
+GCF_003204905.1_ASM320490v1_genomic.gbff,2013,Homo sapiens,catheter,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1673,Na
+GCF_001680585.1_ASM168058v1_genomic.gbff,2010-05-06,Na,chicken carcass,20.8049 S 55.1871 W,Brazil: Mato Grosso do Sul,Salmonella enterica subsp. enterica serovar Minnesota,SAL65505,pSAL65505
+GCF_000761115.1_ASM76111v1_genomic.gbff,May-2012,Euterpe oleracea,mesocarp,Na,Brazil,Lactococcus lactis,AI06,Na
+GCF_001649875.1_ASM164987v1_genomic.gbff,2011,Homo sapiens,tracheal aspirate,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM997,Na
+GCF_002241015.1_ASM224101v1_genomic.gbff,Mar-2013,Na,feces,0.1194 S 67.0868 W,Brazil: Amazon,Enterobacter kobei,ICBEaBL-III-03(2),Na
+GCF_001009445.1_v1_genomic.gbff,2006-11-01,tomato,tomato,Na,USA,Xanthomonas perforans,Xp11-2,Na
+GCA_002881255.1_ASM288125v1_genomic.gbff,2004,Nile tilapia,Na,Na,Brazil,Streptococcus agalactiae,SA5,Na
+GCF_001469085.1_ASM146908v1_genomic.gbff,2014,Bos taurus (cow),milk,Na,Brazil,Staphylococcus aureus,302,Na
+GCF_003095575.1_ASM309557v1_genomic.gbff,2011,Homo sapiens,tracheal aspirate,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,LIM1071,Na
+GCA_001592925.1_ASM159292v1_genomic.gbff,May-2004,Na,Poultry Farm,22.819046216405944 S 47.07089653238654 W,Brazil,Salmonella enterica subsp. enterica,PT4_IOC4647/2004,unnamed
+GCA_002881415.1_ASM288141v1_genomic.gbff,2011,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA136,Na
+GCA_004766515.1_ASM476651v1_genomic.gbff,Na,Phaseolus vulgaris,root nodules,Na,Na,Rhizobium sp. SEMIA 4032,SEMIA 4032,Na
+GCA_001990245.1_ASM199024v1_genomic.gbff,20-Aug-2015,Bos taurus,liver from bovine aborted fetus,29 S 50 W,Brazil,Bacillus anthracis,SPV842_15,Na
+GCF_003173295.1_ASM317329v1_genomic.gbff,2016-08-22,Homo sapiens,urine,22.825733 S 47.064217 W,Brazil: Campinas,Escherichia coli,77H,Na
+GCF_003121315.1_ASM312131v1_genomic.gbff,2013-08-12,Na,compost,Na,Brazil: Sao Paulo,Gordonia paraffinivorans,MTZ 041,Na
+GCA_007097445.1_ASM709744v1_genomic.gbff,2011,Homo sapiens,urine,Na,Brazil,Corynebacterium aurimucosum,2218,Na
+GCF_001746765.1_ASM174676v1_genomic.gbff,Jan-2011,Na,urban river water,23.141 S 48.1614 W,Brazil,Klebsiella pneumoniae,KP171,Na
+GCF_003194695.1_ASM319469v1_genomic.gbff,Nov-2017,horse,Na,Na,Brazil,Klebsiella pneumoniae,5R,Na
+GCF_003326295.1_ASM332629v1_genomic.gbff,2017,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_5006,Na
+GCA_000223095.2_ASM22309v2_genomic.gbff,Na,Homo sapiens,patient with cholera-like diarrhea,Na,Na,Vibrio cholerae O1 str. Amazonia,Amazonia,Na
+GCF_000175135.1_ASM17513v1_genomic.gbff,Na,Na,Na,Na,Na,Xanthomonas citri pv. aurantifolii str. ICPB 11122,ICPB 11122,Na
+GCF_003327505.1_ASM332750v1_genomic.gbff,2013,Homo sapiens,body fluid,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_4229,Na
+GCA_002882555.1_ASM288255v1_genomic.gbff,2014-02-05,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA341,Na
+GCA_003333265.1_ASM333326v1_genomic.gbff,2016,Na,water,Na,Brazil,Candidatus Halocyntiibacter alkanivorans,Bin25-node5,Na
+GCA_001989595.1_ASM198959v1_genomic.gbff,27-Jul-2015,Sheep,Na,Na,Brazil: Para,Corynebacterium pseudotuberculosis,PA04,Na
+GCA_005696395.1_ASM569639v1_genomic.gbff,2000,Leporinus sp.,gut,Na,Brazil: Amazon region near Manaus,Bacillus velezensis,P34,Na
+GCF_002119085.1_ASM211908v1_genomic.gbff,2015-06-07,Homo sapiens,urine,23.5596 S 46.7395 W,Brazil: Sao Paulo,Klebsiella pneumoniae,KPHU468,Na
+GCF_002224125.1_ASM222412v1_genomic.gbff,21-Aug-2014,Na,sediment,23.6188 S 47.3894 W,"Brazil: Sao Paulo, Itupararanga reservoir",Streptomyces sp. NBS 14/10,NBS 14/10,Na
+GCF_003327515.1_ASM332751v1_genomic.gbff,2011,Homo sapiens,peritoneal fluid,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_4235,Na
+GCF_003204615.1_ASM320461v1_genomic.gbff,2011,Homo sapiens,catheter,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1058,Na
+GCF_003204365.1_ASM320436v1_genomic.gbff,2012,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Pseudomonas aeruginosa,LIM1136,Na
+GCF_002113205.1_ASM211320v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B16(2017),B16(2017),Na
+GCF_003204485.1_ASM320448v1_genomic.gbff,2012,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Pseudomonas aeruginosa,LIM1595,Na
+GCF_003095495.1_ASM309549v1_genomic.gbff,2012,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,LIM1375,Na
+GCA_002245665.1_ASM224566v1_genomic.gbff,18-Oct-2011,Na,bedside table,18.8816 S 48.2599 W,Brazil,Acinetobacter baumannii,15,pAb15_1
+GCF_002018145.1_ASM201814v1_genomic.gbff,2012,horse,urine,Na,Brazil: Rio de Janeiro,Leptospira kirschneri serovar Grippotyphosa,UCR5RB1,Na
+GCF_003326395.1_ASM332639v1_genomic.gbff,2016,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_4985,Na
+GCA_004923245.1_ASM492324v1_genomic.gbff,2008,Na,meat pie,Na,Brazil: Rio de Janeiro,Enterococcus faecium,E86,Na
+GCF_001009165.1_ASM100916v1_genomic.gbff,2004-01-01,pepper,pepper,Na,USA,Xanthomonas euvesicatoria,F4-2,Na
+GCF_001005615.1_ASM100561v1_genomic.gbff,30-Sep-2013,Homo sapiens,blood,Na,"Brazil: Sao Paulo, Hospital das Clinicas",Enterococcus faecium,VRE1558,Na
+GCF_002233655.1_ASM223365v1_genomic.gbff,2016-11,Na,"seafood, marine bivalve",23.9761 S 46.3723 W,Brazil: Sao Vicente,Enterococcus faecium,ICBEf1B,Na
+GCA_002094035.1_ASM209403v1_genomic.gbff,Jan-2013,Homo sapiens,"oral cavity, infant (15 months age)",22.43 S 47.38 W,Brazil,Streptococcus salivarius,39-01 S14,Na
+GCF_002113405.1_ASM211340v1_genomic.gbff,Aug-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R31(2017),R31(2017),Na
+GCA_001676955.1_ASM167695v1_genomic.gbff,15-Apr-1978,Na,pasteurized commercial milk,Na,Brazil,Staphylococcus aureus,A53,Na
+GCF_003321305.1_ASM332130v1_genomic.gbff,2012,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_1202,Na
+GCF_002005905.1_ASM200590v1_genomic.gbff,2014,Homo sapiens,feces,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Enterococcus faecium,LIM4275,Na
+GCF_001010035.1_ASM101003v1_genomic.gbff,2012-11-01,tomato,tomato,Na,USA,Xanthomonas perforans,GEV1026,Na
+GCF_001617985.1_ASM161798v1_genomic.gbff,2009,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Stenotrophomonas maltophilia,SM16,Na
+GCF_003321215.1_ASM332121v1_genomic.gbff,2017,Homo sapiens,urine,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_5001,Na
+GCF_003957475.1_ASM395747v1_genomic.gbff,12-Feb-2000,Eucalyptus grandis x Eucalyptus urophylla,Na,Na,"Brazil: Teixeiras de Freitas, Bahia State",Xanthomonas axonopodis pv. eucalyptorum,LPF 602,Na
+GCF_004116795.1_ASM411679v1_genomic.gbff,2015,Homo sapiens,urine,22.5309 S 48.2642 W,"Brazil: Botucatu, Sao Paulo State",Escherichia coli,BR10-DEC,Na
+GCF_001009885.1_ASM100988v1_genomic.gbff,28-Sep-2012,tomato,tomato,Na,USA,Xanthomonas perforans,GEV940,Na
+GCA_001921685.1_C18_genomic.gbff,29-Aug-2012,Homo sapiens,nasal sample,14.8619 S 40.8445 W,Brazil: Vitoria da Conquista,Staphylococcus aureus,C18,Na
+GCF_001877015.1_ASM187701v1_genomic.gbff,2013,swine,lung,Na,Brazil: Sao Paulo,Glaesserella parasuis,Hp100/13,Na
+GCA_003031465.1_ASM303146v1_genomic.gbff,2014-09-22,Homo sapiens,nasal swab,22.9 S 43.2 W,Brazil: Rio de Janeiro,Staphylococcus aureus,CR14-035,Na
+GCF_002133405.1_ASM213340v1_genomic.gbff,07-Nov-2016,dog,rectal swab,Na,Brazil: Sao Paulo,Escherichia coli,EC-H,Na
+GCF_002104405.1_ASM210440v1_genomic.gbff,Nov-2016,Na,brown mussels (Perna perna),23.9871 S 46.3086 W,Brazil: Santos,Escherichia coli,6M,Na
+GCF_003321385.1_ASM332138v1_genomic.gbff,2012,Homo sapiens,urine,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_1422,Na
+GCA_007197855.1_ASM719785v1_genomic.gbff,20-Dec-2015,Na,Sediment,62.58 S 60.42 W,"Antarctica: Fumarole Bay, Deception Island",Geobacillus sp. LEMMJ02,LEMMJ02,Na
+GCA_004122745.1_ASM412274v1_genomic.gbff,2011-12-12,Homo sapiens,oropharynx,30.0277 S 51.2287 W,Brazil: Porto Alegre,Streptococcus pyogenes,WB147,Na
+GCF_001981455.1_ASM198145v1_genomic.gbff,2006,goat,urine,Na,Brazil: Rio de Janeiro,Leptospira santarosai serovar Grippotyphosa,M72/6-6,Na
+GCF_002922925.1_ASM292292v1_genomic.gbff,Mar-2012,equine,liver,25.428417 S 49.271996 W,Brazil: Curitiba,Escherichia coli,10E,Na
+GCA_002881295.1_ASM288129v1_genomic.gbff,2006,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA16,Na
+GCF_001957205.1_ASM195720v1_genomic.gbff,15-Oct-2016,Na,seawater,23.9759 S 46.3716 W,Brazil: Santos,Escherichia coli,ICBEC3AM,Na
+GCF_002019005.1_ASM201900v1_genomic.gbff,2011,Homo sapiens,tracheal aspirate,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,895,Na
+GCF_004116835.1_ASM411683v1_genomic.gbff,2015,Homo sapiens,urine,22.5309 S 48.2642 W,"Brazil: Botucatu, Sao Paulo State",Escherichia coli,BR02-DEC,Na
+GCF_001747365.1_ASM174736v2_genomic.gbff,14-Jun-2013,Spheniscus magellanicus,foot pad lesion,23.986278 S 46.30836899999997 W,Brazil: Santos,Escherichia coli,ICBEC7P,pICBEC7Pmcr
+GCF_002155125.1_ASM215512v1_genomic.gbff,Nov-2012,dog,rectal swab,23.5119 S 46.6275 W,Brazil,Escherichia coli,Ec56AC1,Na
+GCF_001009795.1_v1_genomic.gbff,17-Sep-2012,tomato,tomato,Na,USA,Xanthomonas perforans,GEV904,Na
+GCA_001566695.1_ASM156669v1_genomic.gbff,16-Oct-2014,Homo sapiens,ascitic fluid,30.03 S 51.20 W,Brazil: Porto Alegre,Serratia marcescens,3691F,Na
+GCA_001617605.1_ASM161760v1_genomic.gbff,2014,Na,soil,Na,Antarctica: King George Island,Rummeliibacillus stabekisii,PP9,Na
+GCA_004369855.1_ASM436985v1_genomic.gbff,Jun-2017,Oreochromis niloticus,brain,Na,Brazil,Streptococcus agalactiae,SApx2AQUAVET,Na
+GCF_002112565.1_ASM211256v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R25(2017),R25(2017),Na
+GCF_002018105.1_ASM201810v1_genomic.gbff,2006,fox,urine,Na,Brazil: Mato Grosso do Sul,Leptospira kirschneri serovar Pomona,M110/06,Na
+GCF_002112695.1_ASM211269v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R11(2017),R11(2017),Na
+GCF_003204715.1_ASM320471v1_genomic.gbff,2012,Homo sapiens,urine,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1257,Na
+GCA_001678925.1_ASM167892v1_genomic.gbff,Na,Homo sapiens,blood,Na,Na,Escherichia coli,H1827/12,Na
+GCF_002112385.1_ASM211238v1_genomic.gbff,Aug-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R39(2017),R39(2017),Na
+GCA_001663495.1_ASM166349v1_genomic.gbff,2015-08-10,goat,Abscess,Na,Brazil: Para,Corynebacterium pseudotuberculosis,PA02,Na
+GCF_002113765.1_ASM211376v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B17(2017),B17(2017),Na
+GCF_002006005.1_ASM200600v1_genomic.gbff,2013,Homo sapiens,rectal swab,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Enterococcus faecium,LIM1547,Na
+GCA_002115485.1_ASM211548v1_genomic.gbff,17-Jan-2012,Homo sapiens,skin,30.0331 S 51.23 W,Brazil: Porto Alegre,Streptococcus pyogenes,WB151,Na
+GCA_004122685.1_ASM412268v1_genomic.gbff,2010-05,Homo sapiens,urine,30.0277 S 51.2287 W,Brazil: Porto Alegre,Staphylococcus saprophyticus,SS543,Na
+GCA_003350325.1_ASM335032v1_genomic.gbff,2010-05-12,rhodolith,Na,Na,Brazil: Abrolhos,Vibrio rhodolitus,G98,Na
+GCF_002157345.1_ASM215734v1_genomic.gbff,Mar-2013,Homo sapiens,feces,0.1194 S 67.0868 W,Brazil: Amazon,Klebsiella pneumoniae,ICBKpBL-III-02(1),Na
+GCF_002113655.1_ASM211365v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B33(2017),B33(2017),Na
+GCF_001957215.1_ASM195721v1_genomic.gbff,Aug-2009,Na,sewage,23.4355 S 48.6832 W,Brazil,Escherichia coli,Ec1333,pEC1333
+GCF_001009325.1_ASM100932v1_genomic.gbff,2011,tomato,tomato,Na,USA,Xanthomonas gardneri,SM605-11,Na
+GCF_001995205.1_ASM199520v1_genomic.gbff,2013,swine,urine,Na,Brazil: Rio de Janeiro,Leptospira interrogans serovar Australis,SU5,Na
+GCF_004803435.1_ASM480343v1_genomic.gbff,2015,Bos taurus,milk,20.779580 S 42.861657 W,Brazil,Staphylococcus aureus,3059,Na
+GCF_001708145.1_ASM170814v1_genomic.gbff,Nov-2014,bovine,feces,22.788842992587245 S 48.50738525390625 W,Brazil,Escherichia coli,Ec47VL,pEC47a
+GCA_002115465.1_ASM211546v1_genomic.gbff,2012-05-12,Homo sapiens,Oropharynx,31.0331 S 51.23 W,Brazil: Porto Alegre,Streptococcus pyogenes,WB155,Na
+GCA_004122635.1_ASM412263v1_genomic.gbff,2010-05,Homo sapiens,urine,30.0277 S 51.2287 W,Brazil: Porto Alegre,Staphylococcus saprophyticus,SS536,Na
+GCA_003996795.1_Ca-2_genomic.gbff,2013,Coragyps atratus,cloacal,22.90278 S 43.2075 W,Brazil: Rio de Janeiro,Enterococcus faecalis,Ca-2,Na
+GCA_004121605.1_ASM412160v1_genomic.gbff,2008-08,Homo sapiens,urine,30.0277 S 51.2287 W,Brazil: Porto Alegre,Staphylococcus saprophyticus,SS45,Na
+GCA_000499805.2_ASM49980v2_genomic.gbff,Jul-2010,Homo sapiens,bronchitis secretion from patient in hospital,Na,France: Troyes,Corynebacterium ulcerans FRC58,FRC58,Na
+GCF_002113025.1_ASM211302v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B28(2017),B28(2017),Na
+GCF_001010095.1_ASM101009v1_genomic.gbff,1994-01-01,pepper,Na,Na,USA,Xanthomonas euvesicatoria,181,Na
+GCF_003664545.1_ASM366454v1_genomic.gbff,10-Oct-2017,Na,Rectal swab,23.6495818 S 46.6193802 W,Brazil: Sao Paulo,Escherichia coli,A102,Na
+GCA_004114635.1_ASM411463v1_genomic.gbff,2016-03-30,Homo sapiens,bronchoalveolar lavage,30.0277 S 51.2287 W,Brazil: Porto Alegre,Streptococcus pyogenes,SC23,Na
+GCA_003789125.1_ASM378912v1_genomic.gbff,Oct-2016,Homo sapiens,abdominal collection,30.0277 S 51.2287 W,Brazil:Porto Alegre,Klebsiella pneumoniae,OT1,Na
+GCA_002114135.1_ASM211413v1_genomic.gbff,Dec-2009,Na,Ornithogenic soil,62.09 S 58.27 W,"Antarctica: King George Island, South Shetland archipelago",Microbacterium sp. LEMMJ01,LEMMJ01,Na
+GCA_001906995.1_ASM190699v1_genomic.gbff,Jan-2013,Homo sapiens,"oral cavity, infant (10 months of age)",22.43 S 47.38 W,Brazil,Streptococcus salivarius,37-09 S13,Na
+GCF_002112965.1_ASM211296v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B31(2017),B31(2017),Na
+GCF_001008965.1_v1_genomic.gbff,1995-01-01,pepper,Na,Na,USA,Xanthomonas euvesicatoria,259,Na
+GCF_001008805.1_v1_genomic.gbff,1997-01-01,pepper,Na,Na,USA,Xanthomonas euvesicatoria,329,Na
+GCA_003261075.1_ASM326107v1_genomic.gbff,07-Jan-2017,canine,purulent material,Na,Brazil,Escherichia coli,LBV005/17,pR005
+GCF_002018935.1_ASM201893v1_genomic.gbff,2010,Homo sapiens,tracheal aspirate,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,499,Na
+GCA_002881455.1_ASM288145v1_genomic.gbff,2011,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA184,Na
+GCF_001009685.1_v1_genomic.gbff,26-Oct-2006,tomato,tomato,Na,USA,Xanthomonas perforans,Xp8-16,Na
+GCA_002321935.1_ASM232193v1_genomic.gbff,Na,Na,water,Na,Brazil: Brasilia Paranoa Lake,Cylindrospermopsis raciborskii CYLP,CYLP,Na
+GCA_001186445.1_ASM118644v1_genomic.gbff,Na,Equus caballus,Na,Na,Na,Corynebacterium pseudotuberculosis,E19,Na
+GCF_002005815.1_ASM200581v1_genomic.gbff,2012,Homo sapiens,feces,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Enterococcus faecium,LIM918,Na
+GCF_001009315.1_ASM100931v1_genomic.gbff,2011,tomato,tomato,Na,USA,Xanthomonas gardneri,SM413-11,Na
+GCF_002104315.1_ASM210431v1_genomic.gbff,2013,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,1799,Na
+GCF_002005805.1_ASM200580v1_genomic.gbff,2013,Homo sapiens,rectal swab,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Enterococcus faecium,LIM1530,Na
+GCA_003583875.1_ASM358387v1_genomic.gbff,28-Jul-2015,Homo sapiens,Rectal mucose,18.8815815 S 48.259917299999984 W,"Brazil: Uberlandia, MG",Klebsiella quasipneumoniae,KP121,unnamed
+GCF_003284835.1_ASM328483v1_genomic.gbff,2016,Homo sapiens,tracheal aspirate,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_4509,Na
+GCF_002112545.1_ASM211254v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R26(2017),R26(2017),Na
+GCA_000472025.1_Gordonia_amicalis_CCMA-559_genomic.gbff,2006,Na,mangrove swamp soil,Na,Brazil,Gordonia amicalis CCMA-559,CCMA-559,Na
+GCA_001579865.1_ASM157986v1_genomic.gbff,Dec-1996,Equus ferus caballus,Na,Na,USA: California,Corynebacterium pseudotuberculosis,MB14,Na
+GCF_002260985.1_ASM226098v1_genomic.gbff,2015,poultry,slaughterhouse,25.2521 S 52.0215 W,Brazil,Salmonella enterica subsp. enterica serovar Typhimurium,STy06,Na
+GCA_003332225.1_ASM333222v1_genomic.gbff,2001,Na,soil,Na,Brazil: Santana hill in Porto Alegre,Bacillus cereus,8A,Na
+GCF_003072465.1_ASM307246v1_genomic.gbff,2013-04-02,Kentomonas sorsogonicus,female Sarcophaga sp. gut,12.91 N 123.59 E,Philippines: Sorsogon,Candidatus Kinetoplastibacterium sorsogonicusi,MF-08,Na
+GCA_003713175.1_ASM371317v1_genomic.gbff,2013,Megascops choliba,Cloacal of Tropical Screech Owl,22.90278 S 43.2075 W,Brazil,Enterococcus faecium,E1298,Na
+GCA_002300775.1_ASM230077v1_genomic.gbff,2010,Homo sapiens,blood,16.4048 S 49.1518 W,Brazil,Klebsiella pneumoniae,B17,pB17
+GCF_001952685.1_ASM195268v1_genomic.gbff,1998,Buffalo,Urine,Na,Brazil:Sao Paulo,Leptospira santarosai serovar Guaricura,M4/98,Na
+GCF_003326365.1_ASM332636v1_genomic.gbff,2016,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_4990,Na
+GCF_001456335.2_ASM145633v3_genomic.gbff,2009-11-01,Citrus,Plant xylem,28.506825 S 59.044826 W,Argentina: Corrientes,Xylella fastidiosa,Fb7,Na
+GCA_001906965.1_ASM190696v1_genomic.gbff,Jan-2013,Homo sapiens,"oral cavity, infant (10 months of age)",22.43 S 47.38 W,Brazil,Streptococcus salivarius,37-08 S12,Na
+GCF_002240965.1_ASM224096v1_genomic.gbff,Mar-2013,Na,Rectal swab,0.1194 S 67.0868 W,Brazil: Amazon,Escherichia coli,ICBEc03,Na
+GCA_000988225.1_ASM98822v1_genomic.gbff,Na,Homo sapiens,urine,Na,Brazil,Corynebacterium striatum,1961,Na
+GCF_001649895.1_ASM164989v1_genomic.gbff,2011,Homo sapiens,bronchoalveolar lavage,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM1099,Na
+GCF_002112515.1_ASM211251v1_genomic.gbff,Aug-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R29(2017),R29(2017),Na
+GCA_002881615.1_ASM288161v1_genomic.gbff,2014-02-05,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA343,Na
+GCA_002295145.1_ASM229514v1_genomic.gbff,2009,Homo sapiens,blood,8.0543 S 34.8813 W,Brazil,Klebsiella pneumoniae,B04,pB04
+GCF_001009205.1_ASM100920v1_genomic.gbff,2011-01-01,pepper,pepper,Na,USA,Xanthomonas euvesicatoria,689,Na
+GCF_003204525.1_ASM320452v1_genomic.gbff,2013,Homo sapiens,catheter,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1756,Na
+GCA_007097425.1_ASM709742v1_genomic.gbff,2011,Homo sapiens,urine,Na,Brazil,Corynebacterium aurimucosum,2274,Na
+GCF_002112925.1_ASM211292v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B32(2017),B32(2017),Na
+GCF_002113545.1_ASM211354v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R10(2017),R10(2017),Na
+GCA_000007045.1_ASM704v1_genomic.gbff,Na,Na,Na,Na,Na,Streptococcus pneumoniae R6,R6,Na
+GCF_003204435.1_ASM320443v1_genomic.gbff,2012,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Pseudomonas aeruginosa,LIM1256,Na
+GCA_002115505.1_ASM211550v1_genomic.gbff,2011-08-03,Homo sapiens,blood,30.0331 S 51.23 W,Brazil: Porto Alegre,Streptococcus pyogenes,WB136,Na
+GCF_002113295.1_ASM211329v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B10(2017),B10(2017),Na
+GCF_002104175.1_ASM210417v1_genomic.gbff,2013,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,1714,Na
+GCF_001008985.1_v1_genomic.gbff,1996-01-01,pepper,Na,Na,USA,Xanthomonas euvesicatoria,315,Na
+GCA_002881595.1_ASM288159v1_genomic.gbff,2013-08-08,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA289,Na
+GCF_002112395.1_ASM211239v1_genomic.gbff,Aug-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R38(2017),R38(2017),Na
+GCA_006378125.1_ASM637812v1_genomic.gbff,2008,Homo sapiens,sputum,42.284361 N 83.727866 W,"USA:Ann Arbor, MI",Herbaspirillum seropedicae,AU13965,Na
+GCF_002104265.1_ASM210426v1_genomic.gbff,2013,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,1849,Na
+GCF_002113215.1_ASM211321v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B15(2017),B15(2017),Na
+GCA_000478365.1_Hputei1.0_genomic.gbff,Na,Na,well water,Na,Japan: Osaka,Herbaspirillum huttiense subsp. putei IAM 15032,IAM 15032,Na
+GCF_002027475.1_ASM202747v1_genomic.gbff,2008,Homo sapiens,feces,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Enterococcus faecium,LIM559,Na
+GCF_003856295.1_ASM385629v1_genomic.gbff,02-Mar-2017,Na,soil,21.018 S 47.7645 W,Brazil: Jardinopolis,Escherichia coli,S376,Na
+GCF_000007665.1_ASM766v1_genomic.gbff,Na,Na,Na,Na,Na,Leifsonia xyli subsp. xyli str. CTCB07,CTCB07,Na
+GCF_001649595.1_ASM164959v1_genomic.gbff,2013,Homo sapiens,swab,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM1819,Na
+GCF_000007165.1_ASM716v1_genomic.gbff,Na,Na,Na,Na,Na,Xanthomonas axonopodis pv. citri str. 306,306,Na
+GCF_002018825.1_ASM201882v1_genomic.gbff,Sep-2016,Na,seawater,23.9892 S 46.2979 W,Brazil: Sao Paulo,Escherichia coli,ICBECAM12,Na
+GCA_002881155.1_ASM288115v1_genomic.gbff,2006,Nile tilapia,brain,Na,Brazil,Streptococcus agalactiae,SA30,Na
+GCF_001010085.1_ASM101008v1_genomic.gbff,15-Nov-2012,tomato,tomato,Na,USA,Xanthomonas perforans,GEV1063,Na
+GCF_001982555.1_ASM198255v1_genomic.gbff,Nov-2016,Na,seawater,23.98 S 46.3 W,Brazil: Santos,Escherichia coli,ICBEC13AM,Na
+GCF_002115565.1_ASM211556v1_genomic.gbff,Nov-2016,Na,brown mussels (Perna perna),23.976 S 46.3726 W,Brazil: Santos,Escherichia coli,MM,Na
+GCF_002133385.1_ASM213338v1_genomic.gbff,07-Nov-2016,Homo sapiens,rectal swab,Na,Brazil: Sao Paulo,Escherichia coli,EC-LS,Na
+GCA_000255495.2_ASM25549v2_genomic.gbff,Na,Na,Na,Na,Na,Lactobacillus vini DSM 20605,DSM 20605,Na
+GCF_001469015.1_ASM146901v1_genomic.gbff,2014,Bos taurus (cow),milk,Na,Brazil,Staphylococcus aureus,1269,Na
+GCF_001982585.1_ASM198258v1_genomic.gbff,Mar-2013,Homo sapiens,Rectal swab,0.1194 S 67.0868 W,Brazil: Amazon,Escherichia coli,ICBEcBL-II-13,Na
+GCF_002113595.1_ASM211359v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B3(2017),B3(2017),Na
+GCF_001649705.1_ASM164970v1_genomic.gbff,2011,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM929,Na
+GCF_001756815.1_ASM175681v1_genomic.gbff,2003,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM3705,Na
+GCF_003321335.1_ASM332133v1_genomic.gbff,2012,Homo sapiens,feces,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_1484,Na
+GCA_003350295.1_ASM335029v1_genomic.gbff,2016-09-10,Tetraodontidae,skin,Na,Brazil: Arraial do Cabo,Vibrio sp. A511,A511,Na
+GCA_000565345.1_costicolaLMG11651_genomic.gbff,Feb-2011,Na,sediment of Socompa Lake,Na,Argentina,Salinivibrio costicola subsp. costicola ATCC 33508 = LMG 11651,LMG 11651,Na
+GCF_003204355.1_ASM320435v1_genomic.gbff,2012,Homo sapiens,feces,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Pseudomonas aeruginosa,LIM1166,Na
+GCF_002112485.1_ASM211248v1_genomic.gbff,Aug-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R32(2017),R32(2017),Na
+GCF_002018035.1_ASM201803v1_genomic.gbff,2011,rat,urine,Na,Brazil: Parana,Leptospira borgpetersenii serovar Ballum,LO-24,Na
+GCF_001679905.1_ASM167990v1_genomic.gbff,Mar-2013,Homo sapiens,rectal swab,2.91402 S 59.9919 W,Brazil,Pseudomonas aeruginosa,ET02,Na
+GCA_001657895.1_ASM165789v1_genomic.gbff,Jan-2013,Homo sapiens,"Oral cavity, infant (2 months age)",22.43 S 47.38 W,Brazil,Streptococcus salivarius,2202 S3,Na
+GCF_001982515.1_ASM198251v1_genomic.gbff,Mar-2013,Homo sapiens,Rectal swab,0.1194 S 67.0868 W,Brazil: Amazon,Klebsiella pneumoniae,ICBKpBL-I-05(3),Na
+GCA_007097565.1_ASM709756v1_genomic.gbff,22-Mar-1999,Bos taurus,milk,Na,Brazil: Andrelandia,Staphylococcus agnetis,3682,pRJ109
+GCF_001010005.1_ASM101000v1_genomic.gbff,2012-10-09,tomato,tomato,Na,USA,Xanthomonas perforans,GEV993,Na
+GCA_002882205.1_ASM288220v1_genomic.gbff,2012-01-31,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA201,Na
+GCF_001009935.1_ASM100993v1_genomic.gbff,2012-11-01,tomato,tomato,Na,USA,Xanthomonas perforans,GEV1044,Na
+GCF_002113255.1_ASM211325v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B14(2017),B14(2017),Na
+GCF_003186505.1_ASM318650v1_genomic.gbff,2015,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Pseudomonas aeruginosa,LIM4447,Na
+GCF_000412595.1_spc777-v1_genomic.gbff,Feb-2000,Na,Na,Na,Brazil: Sao Paulo Botanical Institute,Microcystis aeruginosa SPC777,SPC777,Na
+GCF_001008915.1_v1_genomic.gbff,2008-01-01,pepper,Na,Na,USA,Xanthomonas euvesicatoria,678,Na
+GCA_001611715.1_ASM161171v1_genomic.gbff,2014-04-29,Homo sapiens,rectal swab,30.03 S 51.20 W,Brazil: Porto Alegre,Escherichia coli,2610F,Na
+GCA_002882835.1_ASM288283v1_genomic.gbff,2015-06-09,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA623,Na
+GCF_003326305.1_ASM332630v1_genomic.gbff,2017,Homo sapiens,urine,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_5003,Na
+GCF_001010025.1_ASM101002v1_genomic.gbff,2012-10-10,tomato,tomato,Na,USA,Xanthomonas perforans,GEV1001,Na
+GCF_001008815.1_v1_genomic.gbff,1995-01-01,pepper,Na,Na,USA,Xanthomonas euvesicatoria,206,Na
+GCA_000565325.1_saliniS10B_genomic.gbff,Feb-2011,Na,stromatolite of Socompa Lake,Na,Argentina,Salinivibrio socompensis S10B,S10B,Na
+GCF_002104705.1_ASM210470v1_genomic.gbff,2013,Homo sapiens,catheter,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,1853,Na
+GCF_000934325.3_ASM93432v3_genomic.gbff,2010,Bovine,slaughterhouse,19 S 44 W,Brazil: Sao Paulo,Mycobacterium bovis,SP38,Na
+GCA_000195475.2_ASM19547v2_genomic.gbff,Na,Na,diseased coral,Na,Na,Vibrio coralliilyticus P1,P1,Na
+GCA_004122715.1_ASM412271v1_genomic.gbff,2004-07-09,Homo sapiens,blood,30.0277 S 51.2287 W,Brazil: Porto Alegre,Streptococcus pyogenes,WB75a,Na
+GCF_003097475.1_ASM309747v1_genomic.gbff,2011,Homo sapiens,tracheal aspirate,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,LIM2005,Na
+GCF_001704175.2_ASM170417v2_genomic.gbff,1999,rat,Kidney,Na,Brazil: Sao Paulo,Leptospira inadai serovar Lyme,M34/99,Na
+GCF_000387405.2_bt_cbt_v2.0_genomic.gbff,Apr-1994,Na,soil sample,Na,Brazil,Bacillus thuringiensis T01-328,T01-328,Na
+GCF_001516595.1_ASM151659v1_genomic.gbff,2009,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Stenotrophomonas maltophilia,SM45,Na
+GCA_003194405.1_ASM319440v1_genomic.gbff,2015,Homo sapiens,Blood,22.9 S 43.2 W,Brazil: Rio de Janeiro,Staphylococcus aureus,CHU15-056,Na
+GCA_004369845.1_ASM436984v1_genomic.gbff,May-2017,Oreochromis niloticus,brain,Na,Brazil,Streptococcus agalactiae,SA98AQUAVET,Na
+GCA_002775055.1_ASM277505v1_genomic.gbff,Na,Homo sapiens,blood,22.89262280727793 S 43.16253662109375 W,Brazil: Rio de Janeiro,Corynebacterium striatum,2230,Na
+GCF_001009465.1_v1_genomic.gbff,2006-12-07,tomato,tomato,Na,USA,Xanthomonas perforans,Xp15-11,Na
+GCF_002240935.1_ASM224093v1_genomic.gbff,Mar-2013,Na,Rectal swab,0.1194 S 67.0868 W,Brazil: Amazon,Escherichia coli,ICBEc07,Na
+GCF_003095475.1_ASM309547v1_genomic.gbff,2013,Homo sapiens,tracheal aspirate,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,LIM1738,Na
+GCF_004120935.1_ASM412093v1_genomic.gbff,2017,Gallus gallus,liver,3.4495075 N 76.5157671 W,Colombia: Buga,Salmonella enterica subsp. enterica serovar Gallinarum,Buga,Na
+GCA_001601815.1_ASM160181v1_genomic.gbff,2011,Na,CACIAM 22 non-axenic culture of unicellular cyanobacterium started from water sample from Bolonha Lake,1.4205132788680637 S 48.433122262358665 W,"Brazil: Belem, Bolonha Lake",Flavihumibacter sp. CACIAM 22H1,Na,Na
+GCF_001952675.1_ASM195267v1_genomic.gbff,2001,bovine,urine,Na,Brazil: Parana,Leptospira santarosai serovar Grippotyphosa,LO-9,Na
+GCF_002112705.1_ASM211270v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R12(2017),R12(2017),Na
+GCF_004116695.1_ASM411669v1_genomic.gbff,2015,Homo sapiens,urine,22.5309 S 48.2642 W,"Brazil: Botucatu, Sao Paulo State",Escherichia coli,BR07-DEC,Na
+GCF_003204565.1_ASM320456v1_genomic.gbff,2010,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,642,Na
+GCF_000496595.1_ASM49659v1_genomic.gbff,Na,Citrus sinensis,Na,Na,Brazil,Candidatus Liberibacter americanus str. Sao Paulo,Sao Paulo,Na
+GCF_003321195.1_ASM332119v1_genomic.gbff,2016,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_4996,Na
+GCA_001692705.1_ASM169270v1_genomic.gbff,2012,Homo sapiens,urine,30.038616006116044 S 51.20721101760864 W,Brazil: South,Enterococcus faecalis,F165,Na
+GCA_000988205.1_ASM98820v1_genomic.gbff,Na,Homo sapiens,Na,Na,Brazil,Corynebacterium minutissimum,1941,Na
+GCA_001969175.1_ASM196917v1_genomic.gbff,Na,Equus caballus,Pectoral abscess,Na,Na,Corynebacterium pseudotuberculosis,MB44,Na
+GCF_001730205.1_ASM173020v1_genomic.gbff,27-Mar-2007,Na,zooplankton from seawater,Na,Brazil: Santos,Aeromonas caviae,CHZ306,Na
+GCA_003194105.1_ASM319410v1_genomic.gbff,2009,Homo sapiens newborn,Antonio Pedro University Hospital,22.8952 S 43.1124 W,Brazil: Niteroi,Staphylococcus aureus,13420,Na
+GCF_002104395.1_ASM210439v1_genomic.gbff,Nov-2016,Na,brown mussels (Perna perna),23.9728 S 46.3849 W,Brazil: Santos,Klebsiella pneumoniae,JM2CRO,Na
+GCF_000006725.1_ASM672v1_genomic.gbff,Na,Na,Na,Na,Na,Xylella fastidiosa 9a5c,9a5c,Na
+GCF_001401895.1_ASM140189v1_genomic.gbff,2005,rat,kidney,Na,Brazil: Sao Paulo,Leptospira kirschneri serovar Mozdok,M36/05,Na
+GCF_001009665.1_v1_genomic.gbff,1998,tomato,tomato,Na,USA,Xanthomonas perforans,Xp4B,Na
+GCF_002113785.1_ASM211378v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B12(2017),B12(2017),Na
+GCF_002005875.1_ASM200587v1_genomic.gbff,2013,Homo sapiens,feces,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Enterococcus faecium,LIM1586,Na
+GCF_001469105.1_ASM146910v1_genomic.gbff,2014,Bos taurus (cow),milk,Na,Brazil,Staphylococcus aureus,170,Na
+GCF_002112745.1_ASM211274v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B7(2017),B7(2017),Na
+GCF_003204885.1_ASM320488v1_genomic.gbff,2013,Homo sapiens,swab,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1844,Na
+GCF_002112305.1_ASM211230v1_genomic.gbff,Aug-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R45(2017),R45(2017),Na
+GCA_002148405.1_ASM214840v1_genomic.gbff,21-Oct-2011,Na,non-axenic culture of unicellular cyanobacterium started from freshwater lake,3.856 S 49.623 W,Brazil: Tucurui,Alkalinema sp. CACIAM 70d,Na,Na
+GCA_000513715.1_saliniS351.0_genomic.gbff,Feb-2011,Na,water of Socompa Lake,Na,Argentina,Salinivibrio socompensis S35,S35,Na
+GCF_004284565.1_ASM428456v1_genomic.gbff,Dec-2016,cat,Na,Na,Brazil: Paraiba,Klebsiella pneumoniae,C4,Na
+GCF_003335485.1_ASM333548v1_genomic.gbff,2016-03,Na,soil from Brazilian tropical mangrove,23.8964 S 46.2139 W,Brazil: Sao Paulo,Blastopirellula cremea,HEX-1 MGV,Na
+GCF_001009055.1_v1_genomic.gbff,1998-01-01,pepper,Na,Na,USA,Xanthomonas euvesicatoria,455,Na
+GCA_003996775.1_Ca-18_genomic.gbff,2013,Coragyps atratus,cloacal,22.90278 S 43.2075 W,Brazil: Rio de Janeiro,Enterococcus faecalis,Ca-18,Na
+GCF_003204645.1_ASM320464v1_genomic.gbff,2013,Homo sapiens,body fluid,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1763,Na
+GCA_002882035.1_ASM288203v1_genomic.gbff,2011,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA132,Na
+GCA_001611725.1_ASM161172v1_genomic.gbff,2013-11-08,Homo sapiens,rectal swab,30.01 S 51.15 W,Brazil: Porto Alegre,Escherichia coli,1326F,Na
+GCA_001456175.1_ASM145617v1_genomic.gbff,2015-07-03,sheep,lymph node,1.2852925793638545 S 47.911376953125 W,Brazil: Para,Corynebacterium pseudotuberculosis,PA01,Na
+GCA_004122605.1_ASM412260v1_genomic.gbff,2009-10,Homo sapiens,urine,30.0277 S 51.2287 W,Brazil: Porto Alegre,Staphylococcus saprophyticus,SS413,Na
+GCA_002881495.1_ASM288149v1_genomic.gbff,2012,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA209,Na
+GCA_003859745.1_ASM385974v1_genomic.gbff,20-Dec-2007,Homo sapiens,feces,25.4446001 S 49.240046 W,Brazil,Aeromonas veronii bv. sobria,312M,Na
+GCF_001456355.1_ASM145635v1_genomic.gbff,1998-01-01,Homo sapiens,Eye,23.5475 S 46.6361 W,"Brazil: Sao Paulo,SP",Mycobacterium saopaulense,EPM10906,Na
+GCA_001400065.1_ASM140006v1_genomic.gbff,16-Oct-2013,Spheniscus magellanicus (magellanic penguin),feces,30.10 S 50.12 W,"Brazil: Cidreira, Rio Grande do Sul",Enterococcus faecalis,P9-1,Na
+GCA_004122875.1_ASM412287v1_genomic.gbff,2013-09-26,Homo sapiens,sputum,30.0277 S 51.2287 W,Brazil: Porto Alegre,Streptococcus pyogenes,SC08,Na
+GCA_001907005.1_ASM190700v1_genomic.gbff,Jan-2013,Homo sapiens,"oral cavity, infant (15 months of age)",22.43 S 47.38 W,Brazil,Streptococcus salivarius,39-09 S16,Na
+GCA_002093995.1_ASM209399v1_genomic.gbff,Jan-2013,Homo sapiens,"oral cavity, infant (13 months of age)",22.43 S 47.38 W,Brazil,Streptococcus salivarius,34-09 S8,Na
+GCA_000186325.2_ASM18632v1_genomic.gbff,Na,Na,Na,Na,Na,Dietzia cinnamea P4,P4,Na
+GCF_002104125.1_ASM210412v1_genomic.gbff,Nov-2016,Perna perna,Na,23.9724 S 46.3502 W,Brazil: Santos,Escherichia coli,EM1CRO,Na
+GCF_003321315.1_ASM332131v1_genomic.gbff,2013,Homo sapiens,swab,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_2162,Na
+GCF_002018795.1_ASM201879v1_genomic.gbff,Sep-2016,Na,seawater,23.9789 S 46.3165 W,Brazil: Sao Paulo,Escherichia coli,ICBECAM8,Na
+GCF_002909585.1_ASM290958v1_genomic.gbff,2017,South American Coati (Nasua nasua),rectal swab,Na,Brazil: Sao Paulo,Escherichia coli,ECPET36,Na
+GCF_001009385.1_ASM100938v1_genomic.gbff,26-Oct-2006,tomato,tomato,Na,USA,Xanthomonas perforans,Xp7-12,Na
+GCF_002112995.1_ASM211299v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B30(2017),B30(2017),Na
+GCF_002112425.1_ASM211242v1_genomic.gbff,Aug-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R36(2017),R36(2017),Na
+GCA_002881475.1_ASM288147v1_genomic.gbff,2011,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA195,Na
+GCF_002240945.1_ASM224094v1_genomic.gbff,Mar-2013,Na,feces,0.1194 S 67.0868 W,Brazil: Amazon,Escherichia coli,ICBEcBL-III-02(2),Na
+GCA_001693555.1_ASM169355v1_genomic.gbff,2015-06-25,Homo sapiens,urine,Na,Brazil:South,Escherichia coli,E2,Na
+GCF_002240955.1_ASM224095v1_genomic.gbff,Mar-2013,Na,Rectal swab,0.1194 S 67.0868 W,Brazil: Amazon,Escherichia coli,ICBEc09,Na
+GCA_001921665.1_ASM192166v1_genomic.gbff,29-Aug-2012,Homo sapiens,milk sample,14.8619 S 40.8445 W,Brazil: Vitoria da Conquista,Staphylococcus aureus,LC33,Na
+GCA_001579825.1_ASM157982v1_genomic.gbff,Oct-1996,Equus ferus caballus,Na,Na,USA: California,Corynebacterium pseudotuberculosis,MB11,Na
+GCF_002104485.1_ASM210448v1_genomic.gbff,Nov-2016,Na,oysters (Crassostrea spp.),23.976 S 46.3726 W,Brazil: Santos,Escherichia coli,MO,Na
+GCA_000310065.1_ASM31006v1_genomic.gbff,Na,Na,Na,Na,Na,Acidipropionibacterium acidipropionici ATCC 4875,ATCC 4875,Na
+GCF_003321105.1_ASM332110v1_genomic.gbff,2013,Homo sapiens,swab,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_1563,Na
+GCF_001008835.1_v1_genomic.gbff,2000-01-01,pepper,Na,Na,USA,Xanthomonas euvesicatoria,526,Na
+GCF_003284885.1_ASM328488v1_genomic.gbff,2012,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1510,Na
+GCF_001649605.2_ASM164960v2_genomic.gbff,May-2011,Homo sapiens,rectal swab,17.678 S 44.816 W,Brazil,Klebsiella aerogenes,Ea77,pEA77a
+GCF_001009125.1_ASM100912v1_genomic.gbff,2010-01-01,pepper,pepper,Na,USA,Xanthomonas euvesicatoria,684,Na
+GCF_002112635.1_ASM211263v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R21(2017),R21(2017),Na
+GCF_003204425.1_ASM320442v1_genomic.gbff,2016,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Pseudomonas aeruginosa,LIM4519,Na
+GCF_001009605.1_ASM100960v1_genomic.gbff,2010,tomato,tomato,Na,USA,Xanthomonas gardneri,SM220-10,Na
+GCF_001649805.1_ASM164980v1_genomic.gbff,2011,Homo sapiens,catheter,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM1029,Na
+GCA_002209465.1_ASM220946v1_genomic.gbff,18-Mar-2015,Homo sapiens,cerebrospinal fluid,18.8816 S 48.2599 W,Brazil: Uberlandia,Klebsiella pneumoniae,KPC40,Na
+GCF_001623485.1_ASM162348v1_genomic.gbff,05-Dec-2013,Na,shrimp pond,32.2053 S 52.1783 W,"Brazil: Praia do Cassino, Rio Grande, Rio Grande do Sul",Nodularia spumigena CENA596,CENA596,Na
+GCF_003095615.1_ASM309561v1_genomic.gbff,2011,Homo sapiens,central nervous system,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,LIM964,Na
+GCF_002112885.1_ASM211288v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B37(2017),B37(2017),Na
+GCA_002882645.1_ASM288264v1_genomic.gbff,2014-02-05,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA346,Na
+GCF_002113365.1_ASM211336v1_genomic.gbff,Aug-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R40(2017),R40(2017),Na
+GCF_002104215.1_ASM210421v1_genomic.gbff,2014,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,4182,Na
+GCA_001969825.1_ASM196982v1_genomic.gbff,2006-04,Vigna unguiculata,root nodules,Na,Brazil: Lavras,Bradyrhizobium sp. UFLA 03-321,UFLA 03-321,Na
+GCF_002104255.1_ASM210425v1_genomic.gbff,2014,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,4281,Na
+GCA_001942005.2_ASM194200v2_genomic.gbff,2016-08-20,sheep,Na,Na,Brazil: Para,Corynebacterium pseudotuberculosis,PA07,Na
+GCF_001417585.1_ASM141758v1_genomic.gbff,2000,swine,liver,Na,Brazil: Parana,Leptospira interrogans serovar Canicola,LO-3,Na
+GCF_003217655.1_ASM321765v1_genomic.gbff,06-Feb-2018,Na,cloacal swab,36.353894 S 72.5279 W,Chile: Chillan,Escherichia coli,CDR401,Na
+GCA_002881335.1_ASM288133v1_genomic.gbff,2009,Nile tilapia,Na,Na,Brazil,Streptococcus agalactiae,SA81,Na
+GCF_004116895.1_ASM411689v1_genomic.gbff,2015,Homo sapiens,urine,22.5309 S 48.2642 W,"Brazil: Botucatu, Sao Paulo State",Escherichia coli,BR29-DEC,Na
+GCA_002881865.1_ASM288186v1_genomic.gbff,2008,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA75,Na
+GCF_001009545.1_ASM100954v1_genomic.gbff,2012-09-11,tomato,tomato,Na,USA,Xanthomonas perforans,GEV893,Na
+GCF_001718175.1_ASM171817v1_genomic.gbff,2012,pig,fecal swab,18.584322 S 46.51315299999999 W,Brazil: Minas Gerais State,Klebsiella pneumoniae,606B,unnamed1
+GCF_001984855.1_ASM198485v1_genomic.gbff,Aug-2016,Na,chicken breast,23.51 S 46.47 W,Brazil: Sao Paulo,Escherichia coli,CF111,Na
+GCF_001009295.1_ASM100929v1_genomic.gbff,2010,tomato,toamto,Na,USA,Xanthomonas gardneri,SM234-10,Na
+GCA_002881175.1_ASM288117v1_genomic.gbff,2006,Nile tilapia,brain,Na,Brazil,Streptococcus agalactiae,SA33,Na
+GCA_003945985.1_ASM394598v1_genomic.gbff,03-Mar-2007,Na,frescal cheese,29 S 50 W,Brazil: Rio Grande do Sul,Enterococcus durans,18S,Na
+GCF_003217675.1_ASM321767v1_genomic.gbff,06-Feb-2018,Na,cloacal swab,36.353894 S 72.5279 W,Chile: Chillan,Escherichia coli,CDR391,Na
+GCF_001456275.1_ASM145627v1_genomic.gbff,Na,Na,Na,Na,Na,Xylella fastidiosa,U24D,Na
+GCF_003934205.1_ASM393420v1_genomic.gbff,02-Mar-2017,Na,soil,21.018 S 47.7645 W,Brazil: Jardinopolis,Escherichia coli,S366,Na
+GCA_003086275.1_ASM308627v1_genomic.gbff,01-Jul-2015,Na,fish,22.54 S 43.12 W,Brazil,Plesiomonas shigelloides,FM82,Na
+GCA_003789135.1_ASM378913v1_genomic.gbff,Oct-2016,Homo sapiens,abdominal collection,30.0277 S 51.2287 W,Brazil:Porto Alegre,Kluyvera ascorbata,OT2,Na
+GCA_001645745.1_ASM164574v1_genomic.gbff,2015-03-25,Homo sapiens,anal swab,18.8815815 S 48.259917299999984 W,Brazil,Klebsiella pneumoniae subsp. pneumoniae,KPC45,Na
+GCF_003321255.1_ASM332125v1_genomic.gbff,2014,Homo sapiens,feces,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_4303,Na
+GCF_003326375.1_ASM332637v1_genomic.gbff,2012,Homo sapiens,feces,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_1277,Na
+GCF_004116915.1_ASM411691v1_genomic.gbff,2015,Homo sapiens,urine,22.5309 S 48.2642 W,"Brazil: Botucatu, Sao Paulo State",Escherichia coli,BR32-DEC,Na
+GCF_002113375.1_ASM211337v1_genomic.gbff,Aug-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R37(2017),R37(2017),Na
+GCF_002967715.1_ASM296771v1_genomic.gbff,2016-03,Na,soil from Brazilian tropical mangrove,23.8964 S 46.2139 W,Brazil: Sao Paulo,Blastopirellula marina,HEX-2 MGV,Na
+GCF_004116855.1_ASM411685v1_genomic.gbff,2015,Homo sapiens,urine,22.5309 S 48.2642 W,"Brazil: Botucatu, Sao Paulo State",Escherichia coli,BR14-DEC,Na
+GCA_002882125.1_ASM288212v1_genomic.gbff,2011,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA191,Na
+GCF_002192975.1_ASM219297v1_genomic.gbff,2013,Homo sapiens,urine,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,1721,Na
+GCF_000332475.2_gls454202v02_genomic.gbff,Na,Na,environmental source (water),Na,Brazil,Leptospira yanagawae serovar Saopaulo str. Sao Paulo = ATCC 700523,Sao Paulo,Na
+GCF_002018815.1_ASM201881v1_genomic.gbff,Sep-2016,Na,seawater,23.9705 S 46.339 W,Brazil: Sao Paulo,Escherichia coli,ICBECAM5,Na
+GCF_001758085.1_ASM175808v1_genomic.gbff,Na,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM3695,Na
+GCF_002134765.1_ASM213476v1_genomic.gbff,14-Dec-2015,cow,rectal swab,22.5 S 46.32 W,Brazil: Sao Paulo,Escherichia coli,13B,Na
+GCF_002112505.1_ASM211250v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R28(2017),R28(2017),Na
+GCF_002241025.1_ASM224102v1_genomic.gbff,Mar-2013,Na,feces,0.1194 S 67.0868 W,Brazil: Amazon,Escherichia coli,ICBEcBL-II-11(1),Na
+GCF_001758065.1_ASM175806v1_genomic.gbff,2002,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM3689,Na
+GCF_002104715.1_ASM210471v1_genomic.gbff,2015,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,4326,Na
+GCF_001010015.1_ASM101001v1_genomic.gbff,2012-10-09,tomato,tomato,Na,USA,Xanthomonas perforans,GEV968,Na
+GCF_002113685.1_ASM211368v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B2(2017),B2(2017),Na
+GCF_001009925.1_ASM100992v1_genomic.gbff,2012-11-01,tomato,tomato,Na,USA,Xanthomonas perforans,GEV1054,Na
+GCF_003204795.1_ASM320479v1_genomic.gbff,2013,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1707,Na
+GCA_002881575.1_ASM288157v1_genomic.gbff,2013-06-06,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA256,Na
+GCF_001995195.1_ASM199519v1_genomic.gbff,2012,Ovine,Urine,Na,Brazil: Rio de Janeiro,Leptospira interrogans serovar Hardjo,OV5,Na
+GCF_002009885.1_ASM200988v1_genomic.gbff,25-Apr-2014,Na,"Upflow Anaerobic Sludge Blanket (UASB) biodigestor operated at 45C, used to treat sugarcane vinasse",21.3589 S 48.0658 W,Brazil: Pradopolis,Clostridium beijerinckii,Br21,Na
+GCF_001009485.1_v1_genomic.gbff,24-Aug-2012,tomato,tomato,Na,USA,Xanthomonas perforans,GEV872,Na
+GCF_001009765.1_v1_genomic.gbff,2006-12-12,tomato,tomato,Na,USA,Xanthomonas perforans,Xp18-15,Na
+GCF_004116815.1_ASM411681v1_genomic.gbff,2015,Homo sapiens,urine,22.5309 S 48.2642 W,"Brazil: Botucatu, Sao Paulo State",Escherichia coli,BR12-DEC,Na
+GCF_000785435.1_ASM78543v1_genomic.gbff,Aug-1992,Na,sugarcane plantation soil,Na,"Brazil: Sao Paulo, Piracicaba",Paraburkholderia sacchari,LMG 19450,Na
+GCA_002775095.1_ASM277509v1_genomic.gbff,Na,Homo sapiens,blood,22.933100746980394 S 43.16253062109365 W,Brazil: Rio de Janeiro,Corynebacterium striatum,2023,Na
+GCF_001009175.1_ASM100917v1_genomic.gbff,2004-01-01,pepper,pepper,Na,USA,Xanthomonas euvesicatoria,H3-2,Na
+GCF_002112605.1_ASM211260v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R22(2017),R22(2017),Na
+GCF_001456235.1_ASM145623v1_genomic.gbff,2009-11-01,Citrus,Plant xylem,20.2686 S 50.5485 W,"Brazil: Jales, Sao Paulo",Xylella fastidiosa,J1a12,Na
+GCF_002113625.1_ASM211362v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B38(2017),B38(2017),Na
+GCA_003333305.1_ASM333330v1_genomic.gbff,2016,Na,water,Na,Brazil,Candidatus Colwellia aromaticivorans,Bin11-node4,Na
+GCA_000750535.1_ASM75053v1_genomic.gbff,2010-06-21,Oncorhynchus mykiss,brain,Na,Brazil,Weissella ceti,WS105,Na
+GCF_001412475.2_ASM141247v2_genomic.gbff,2000,swine,liver,Na,Brazil: Parana,Leptospira interrogans serovar Canicola,LO-4,Na
+GCF_002113565.1_ASM211356v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B4(2017),B4(2017),Na
+GCF_003321155.1_ASM332115v1_genomic.gbff,2016,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_4998,Na
+GCF_001009625.1_ASM100962v1_genomic.gbff,2012,tomato,tomato,Na,USA,Xanthomonas gardneri,SM775-12,Na
+GCF_002019035.1_ASM201903v1_genomic.gbff,2011,Homo sapiens,catheter,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,991,Na
+GCF_004296375.1_ASM429637v1_genomic.gbff,Apr-2008,Na,pasteurized fruit juice samples,Na,Brazil: Campinas,Bacillus paralicheniformis,BH19,Na
+GCF_000968715.1_ASM96871v1_genomic.gbff,2009,Na,Saline lake,Na,"Peru: Lambayeque, San Jose",Halomonas sp. HG01,HG01,Na
+GCF_001718115.1_ASM171811v1_genomic.gbff,2011,Homo sapiens,catheter tip,23.56 S 46.6473 W,Brazil,Klebsiella pneumoniae,1194,unnamed1
+GCA_000259875.1_ASM25987v1_genomic.gbff,Na,Na,open ocean water sample collected over the continental slope off the West Coast of Africa between the Cape Verde and Canary Islands,20.68 N 24.23 W,Na,Vibrio campbellii DS40M4,DS40M4,Na
+GCA_001906975.1_ASM190697v1_genomic.gbff,Jan-2013,Homo sapiens,"oral cavity, infant (15 months age)",22.43 S 47.38 W,Brazil,Streptococcus salivarius,84-12 S20,Na
+GCF_001009705.1_ASM100970v1_genomic.gbff,2006-10-12,tomato,tomato,Na,USA,Xanthomonas perforans,Xp4-20,Na
+GCA_003333325.1_ASM333332v1_genomic.gbff,2016,Na,water,Na,Brazil,Candidatus Ulvibacter alkanivorans,Bin25-node4,Na
+GCF_002112985.1_ASM211298v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B29(2017),B29(2017),Na
+GCA_001969085.2_ASM196908v2_genomic.gbff,Na,Equus caballus,Septic arthritis in hock,Na,Na,Corynebacterium pseudotuberculosis,MB295,Na
+GCF_002113245.1_ASM211324v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B13(2017),B13(2017),Na
+GCF_002113465.1_ASM211346v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R24(2017),R24(2017),Na
+GCA_002881235.1_ASM288123v1_genomic.gbff,2007,Nile tilapia,brain,Na,Brazil,Streptococcus agalactiae,SA53,Na
+GCA_001657905.1_ASM165790v1_genomic.gbff,Jan-2013,Homo sapiens,"Oral cavity, infant (2 months of age)",22.43 S 47.38 W,Brazil,Streptococcus vestibularis,22-04 S5,Na
+GCF_002113485.1_ASM211348v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R19(2017),R19(2017),Na
+GCF_001008995.1_v1_genomic.gbff,1998-01-01,pepper,Na,Na,USA,Xanthomonas euvesicatoria,354,Na
+GCF_002113135.1_ASM211313v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B1(2017),B1(2017),Na
+GCF_003326435.1_ASM332643v1_genomic.gbff,2012,Homo sapiens,ascitic fluid,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC-4224,Na
+GCA_003074635.1_ASM307463v1_genomic.gbff,1999,Homo sapiens,stool,Na,Brazil: Ribeirao Preto,"Salmonella enterica subsp. enterica serovar 4,[5],12:i:-",691Sti,Na
+GCA_001044175.1_ASM104417v1_genomic.gbff,Na,bovine,Na,Na,Na,Corynebacterium renale,CIP 52.96,Na
+GCF_002113525.1_ASM211352v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R14(2017),R14(2017),Na
+GCF_003204595.1_ASM320459v1_genomic.gbff,2011,Homo sapiens,tracheal aspirate,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1052,Na
+GCF_002104295.1_ASM210429v1_genomic.gbff,2015,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,4448,Na
+GCF_003321135.1_ASM332113v1_genomic.gbff,2016,Homo sapiens,urine,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_5000,Na
+GCA_003577545.1_ASM357754v1_genomic.gbff,Oct-2014,Na,"Freshwater sample, Lake Agua Preta",1.408034 S 48.402564 W,"Brazil: Lake Agua Preta, PA",Acinetobacter baumannii,APC25,Na
+GCF_004378605.1_ASM437860v1_genomic.gbff,Oct-2015,Na,soil,21.177778 S 47.81 W,Brazil: Ribeirao Preto,Acinetobacter seifertii,SAb133,Na
+GCA_001907105.1_ASM190710v1_genomic.gbff,Jan-2013,Homo sapiens,"oral cavity, infant (15 months age)",22.43 S 47.38 W,Brazil,Streptococcus salivarius,85-05 S23,Na
+GCF_002113645.1_ASM211364v1_genomic.gbff,Aug-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B35(2017),B35(2017),Na
+GCF_002205805.1_ASM220580v1_genomic.gbff,2015,Na,Poultry,Na,Brazil: Sao Paulo,Salmonella enterica subsp. enterica serovar Schwarzengrund,SA323,Na
+GCF_003312385.1_ASM331238v1_genomic.gbff,2014,Homo sapiens,nasal fossa,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Enterococcus faecium,4274,Na
+GCA_002982095.1_ASM298209v1_genomic.gbff,12-Oct-2001,poultry,Na,Na,Brazil: Rio Grande do Sul,Salmonella enterica subsp. enterica serovar Enteritidis,SE86,Na
+GCA_004369775.1_ASM436977v1_genomic.gbff,May-2017,Oreochromis niloticus,brain,Na,Brazil,Streptococcus agalactiae,SA90AQUAVET,Na
+GCF_002207985.2_ASM220798v2_genomic.gbff,2015,cat,rectal swab,48.8143 N 2.4228 E,France,Escherichia coli,Ec39590,Na
+GCF_002113085.1_ASM211308v1_genomic.gbff,May-2014,Na,bulk soil from sugarcane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. B24(2017),B24(2017),Na
+GCF_001009585.1_ASM100958v1_genomic.gbff,2010,tomato,tomato,Na,USA,Xanthomonas gardneri,SM182-10,Na
+GCA_002881775.1_ASM288177v1_genomic.gbff,2015-06-09,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA627,Na
+GCF_001009255.1_ASM100925v1_genomic.gbff,2004-01-01,pepper,pepper,Na,USA,Xanthomonas euvesicatoria,L3-2,Na
+GCA_000513735.1_SaliniS341.0_genomic.gbff,Feb-2011,Na,sediment of Socompa Lake,Na,Argentina,Salinivibrio socompensis S34,S34,Na
+GCA_004122665.1_ASM412266v1_genomic.gbff,2008-11,Homo sapiens,urine,30.0277 S 51.2287 W,Brazil: Porto Alegre,Staphylococcus saprophyticus,SS116,Na
+GCF_001009215.1_ASM100921v1_genomic.gbff,2012-01-01,pepper,pepper,Na,USA,Xanthomonas euvesicatoria,695,Na
+GCA_002115435.1_ASM211543v1_genomic.gbff,2012-12-05,Homo sapiens,Vaginal cavity,30.0331 S 51.23 W,Brazil: Porto Alegre,Streptococcus pyogenes,SC05,Na
+GCF_001649835.1_ASM164983v1_genomic.gbff,2011,Homo sapiens,tracheal aspirate,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM994,Na
+GCF_001009525.1_ASM100952v1_genomic.gbff,2010,tomato,tomato,Na,USA,Xanthomonas gardneri,SM194-10,Na
+GCA_003029665.1_ASM302966v1_genomic.gbff,Na,Canis lupus familiaris,Na,22.9 S 43.2 W,Brazil: Rio de Janeiro,Staphylococcus aureus,SA112,Na
+GCF_002112665.1_ASM211266v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R17(2017),R17(2017),Na
+GCF_003204675.1_ASM320467v1_genomic.gbff,2011,Homo sapiens,urine,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Serratia marcescens,1053,Na
+GCF_001010105.1_ASM101010v1_genomic.gbff,2013,tomato,tomato,Na,USA,Xanthomonas perforans,TB15,Na
+GCA_002881935.1_ASM288193v1_genomic.gbff,2010-06-11,Nile tilapia,Brain,Na,Brazil,Streptococcus agalactiae,SA97,Na
+GCA_002881195.1_ASM288119v1_genomic.gbff,2008,Nile tilapia,brain,Na,Brazil,Streptococcus agalactiae,SA73,Na
+GCF_003130565.1_ASM313056v1_genomic.gbff,11-Jan-2017,Homo sapiens,urine,40.5722725 S 73.1250664 W,Chile: Osorno,Acinetobacter baumannii,Ab3_Ch,Na
+GCA_002042905.1_ASM204290v1_genomic.gbff,2013,Na,soil under burning vegetal waste,22.7759 S 43.6917 W,"Brazil: Rio de Janeiro, Seropedica",Geobacillus sp. LEMMY01,LEMMY01,Na
+GCF_001660545.2_ASM166054v3_genomic.gbff,Na,Na,foot secretion,Na,Brazil,Escherichia coli,ICBEC72H,pICBEC72Hctx
+GCF_001009245.1_ASM100924v1_genomic.gbff,2004-01-01,pepper,pepper,Na,USA,Xanthomonas euvesicatoria,G4-1,Na
+GCF_002005995.1_ASM200599v1_genomic.gbff,2013,Homo sapiens,rectal swab,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Enterococcus faecium,LIM1546,Na
+GCF_004120875.1_ASM412087v1_genomic.gbff,2017,Gallus gallus,liver,3.4495075 N 76.5157671 W,Colombia: Cali,Salmonella enterica subsp. enterica serovar Gallinarum,GDX7,Na
+GCF_001982525.1_ASM198252v1_genomic.gbff,Mar-2013,Homo sapiens,Rectal swab,0.1194 S 67.0868 W,Brazil: Amazon,Escherichia coli,ICBEcBL-II-15(1),Na
+GCF_001455955.1_ASM145595v1_genomic.gbff,2012,swine,Skin swab,Na,Brazil: Rio Grande do Sul,Staphylococcus aureus,SA7112,Na
+GCF_003242935.1_ASM324293v1_genomic.gbff,2007,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Enterococcus faecium,558,Na
+GCF_002304205.1_ASM230420v1_genomic.gbff,2011,Homo sapiens,rectal swab,8.0477 S 34.8877 W,Brazil,Klebsiella pneumoniae,KPN535,Na
+GCF_001758165.1_ASM175816v1_genomic.gbff,2004,Homo sapiens,blood,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Acinetobacter baumannii,LIM3756,Na
+GCF_003244335.1_ASM324433v1_genomic.gbff,2013,Homo sapiens,swab,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Enterococcus faecium,1531,Na
+GCF_001981465.1_ASM198146v1_genomic.gbff,Mar-2013,dog,Rectal swab,0.119433 S 67.0868 W,Brazil: Amazon,Escherichia coli,ICBEc10,Na
+GCA_001969165.2_ASM196916v2_genomic.gbff,Na,Equus caballus,Liver abscess,Na,Na,Corynebacterium pseudotuberculosis,MB302,Na
+GCA_000404045.1_ASM40404v1_genomic.gbff,1984,Na,Na,Na,Brazil,Azospirillum brasilense FP2,FP2,Na
+GCA_006681775.1_ASM668177v1_genomic.gbff,2005/2006,Solanum lycopersicum,tomato roots,Na,Brazil,Streptomyces coelicolor,6(4),Na
+GCF_002112575.1_ASM211257v1_genomic.gbff,May-2014,Na,rhizosphere soil from sugare cane field,22.7 S 47.6 W,Brazil,Pseudomonas sp. R23(2017),R23(2017),Na
+GCA_001047215.2_ASM104721v2_genomic.gbff,Na,Bos taurus,milk,Na,Belgium,Corynebacterium pseudotuberculosis,262,Na
+GCA_004369755.1_ASM436975v1_genomic.gbff,Mar-2017,Oreochromis niloticus,brain,Na,Brazil,Streptococcus agalactiae,SA01AQUAVET,Na
+GCF_003321095.1_ASM332109v1_genomic.gbff,2016,Homo sapiens,urine,Na,"Brazil: Hospital das Clinicas, Sao Paulo",Klebsiella pneumoniae,BC_4994,Na

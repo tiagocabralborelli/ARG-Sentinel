@@ -6,7 +6,7 @@ genome3,126M3,LIQUIDO PERITONEAL,E. coli
 genome20,659A,SANGUE,K. variicola
 genome38,508A,SANGUE,E. coli
 genome42,537B,SANGUE,E. coli
-genome44,92M3,LIQ. ASCITICO,E.  coli
+genome44,92M3,LIQ. ASCITICO,E. coli
 genome45,522B,SANGUE,E. coli
 genome50,456A,SANGUE,E. coli
 genome25,790C,SANGUE,E. asburiae
@@ -29,8 +29,8 @@ genome28,481A,SANGUE,S. aureus
 genome33,468A,SANGUE DE CATETER,S. aureus
 genome29,452B,SANGUE,S. epidermidis
 genome18,637C,SANGUE,S. haemolyticus
-genome22,732B,SANGUE,S. capitis
-genome30,579A,SANGUE,S. capitis
+genome22,732B,SANGUE,S. warneri
+genome30,579A,SANGUE,S. warneri
 genome14,599B,SANGUE,S. maltophilia
 genome21,685B,SANGUE,S. maltophilia
 genome31,471B,SANGUE,S. gallolyticos
